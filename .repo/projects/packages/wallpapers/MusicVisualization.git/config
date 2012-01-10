@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+	projectname = platform/packages/wallpapers/MusicVisualization
+	fetch = +refs/heads/*:refs/remotes/aosp/*

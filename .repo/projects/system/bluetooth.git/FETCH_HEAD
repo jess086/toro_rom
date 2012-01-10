@@ -1,0 +1,75 @@
+df782f29a530d805c13f32bb43883306c05a4504		branch 'donut-release' of https://android.googlesource.com/platform/system/bluetooth
+df782f29a530d805c13f32bb43883306c05a4504		branch 'donut-release2' of https://android.googlesource.com/platform/system/bluetooth
+4522d8ef8b710ac67752ac51ef2d3405cf1032cd		branch 'eclair-passion-release' of https://android.googlesource.com/platform/system/bluetooth
+4522d8ef8b710ac67752ac51ef2d3405cf1032cd		branch 'eclair-release' of https://android.googlesource.com/platform/system/bluetooth
+a15c33f9aaf27f75a7f6fa02a539b54caace4d35		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/system/bluetooth
+4522d8ef8b710ac67752ac51ef2d3405cf1032cd		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/system/bluetooth
+30a738e653aa2d9f7670d0b19409ce30916cc397		branch 'froyo' of https://android.googlesource.com/platform/system/bluetooth
+30a738e653aa2d9f7670d0b19409ce30916cc397		branch 'froyo-release' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42		branch 'gingerbread' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42		branch 'gingerbread-release' of https://android.googlesource.com/platform/system/bluetooth
+5cd290f3284add3bda6085c16346bb37d6cc291e		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/system/bluetooth
+5cd290f3284add3bda6085c16346bb37d6cc291e		branch 'ics-mr0' of https://android.googlesource.com/platform/system/bluetooth
+5cd290f3284add3bda6085c16346bb37d6cc291e		branch 'ics-mr0-release' of https://android.googlesource.com/platform/system/bluetooth
+62432dd0bb4d59f640bde9309f86eef2fd984f18		branch 'ics-mr1' of https://android.googlesource.com/platform/system/bluetooth
+2588cd802f322650ed737dfb7a10e9ad94064e99		branch 'ics-mr1-release' of https://android.googlesource.com/platform/system/bluetooth
+9109c4206e5891746e6a5f77a80c7edf4ce9a8e5		branch 'master' of https://android.googlesource.com/platform/system/bluetooth
+df782f29a530d805c13f32bb43883306c05a4504	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/system/bluetooth
+df782f29a530d805c13f32bb43883306c05a4504	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/system/bluetooth
+df782f29a530d805c13f32bb43883306c05a4504	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/system/bluetooth
+df782f29a530d805c13f32bb43883306c05a4504	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/system/bluetooth
+df782f29a530d805c13f32bb43883306c05a4504	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/system/bluetooth
+df782f29a530d805c13f32bb43883306c05a4504	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/system/bluetooth
+df782f29a530d805c13f32bb43883306c05a4504	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/system/bluetooth
+a15c33f9aaf27f75a7f6fa02a539b54caace4d35	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/system/bluetooth
+fcdaefeec9091b104adfd3ba967bdebe14c34cdf	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/system/bluetooth
+4522d8ef8b710ac67752ac51ef2d3405cf1032cd	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/system/bluetooth
+4522d8ef8b710ac67752ac51ef2d3405cf1032cd	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/system/bluetooth
+4522d8ef8b710ac67752ac51ef2d3405cf1032cd	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/system/bluetooth
+4522d8ef8b710ac67752ac51ef2d3405cf1032cd	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/system/bluetooth
+4522d8ef8b710ac67752ac51ef2d3405cf1032cd	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/system/bluetooth
+30a738e653aa2d9f7670d0b19409ce30916cc397	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/system/bluetooth
+30a738e653aa2d9f7670d0b19409ce30916cc397	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/system/bluetooth
+30a738e653aa2d9f7670d0b19409ce30916cc397	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/system/bluetooth
+30a738e653aa2d9f7670d0b19409ce30916cc397	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/system/bluetooth
+30a738e653aa2d9f7670d0b19409ce30916cc397	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/system/bluetooth
+30a738e653aa2d9f7670d0b19409ce30916cc397	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/system/bluetooth
+30a738e653aa2d9f7670d0b19409ce30916cc397	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/system/bluetooth
+30a738e653aa2d9f7670d0b19409ce30916cc397	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/system/bluetooth
+30a738e653aa2d9f7670d0b19409ce30916cc397	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/system/bluetooth
+dad064dc614b7c582a011f0addbff2a9eb68c195	not-for-merge	tag 'android-3.0_r1' of https://android.googlesource.com/platform/system/bluetooth
+dad064dc614b7c582a011f0addbff2a9eb68c195	not-for-merge	tag 'android-3.0_r1.1' of https://android.googlesource.com/platform/system/bluetooth
+dad064dc614b7c582a011f0addbff2a9eb68c195	not-for-merge	tag 'android-3.0_r1.2' of https://android.googlesource.com/platform/system/bluetooth
+dad064dc614b7c582a011f0addbff2a9eb68c195	not-for-merge	tag 'android-3.0_r1.3' of https://android.googlesource.com/platform/system/bluetooth
+596d8cae44844161b5b182d3defa681e1200dd46	not-for-merge	tag 'android-3.1_r1' of https://android.googlesource.com/platform/system/bluetooth
+596d8cae44844161b5b182d3defa681e1200dd46	not-for-merge	tag 'android-3.2.1_r1' of https://android.googlesource.com/platform/system/bluetooth
+596d8cae44844161b5b182d3defa681e1200dd46	not-for-merge	tag 'android-3.2.1_r2' of https://android.googlesource.com/platform/system/bluetooth
+596d8cae44844161b5b182d3defa681e1200dd46	not-for-merge	tag 'android-3.2.2_r1' of https://android.googlesource.com/platform/system/bluetooth
+596d8cae44844161b5b182d3defa681e1200dd46	not-for-merge	tag 'android-3.2.2_r2' of https://android.googlesource.com/platform/system/bluetooth
+596d8cae44844161b5b182d3defa681e1200dd46	not-for-merge	tag 'android-3.2.4_r1' of https://android.googlesource.com/platform/system/bluetooth
+596d8cae44844161b5b182d3defa681e1200dd46	not-for-merge	tag 'android-3.2_r1' of https://android.googlesource.com/platform/system/bluetooth
+5cd290f3284add3bda6085c16346bb37d6cc291e	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/system/bluetooth
+5cd290f3284add3bda6085c16346bb37d6cc291e	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/system/bluetooth
+5cd290f3284add3bda6085c16346bb37d6cc291e	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/system/bluetooth
+5cd290f3284add3bda6085c16346bb37d6cc291e	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/system/bluetooth
+2588cd802f322650ed737dfb7a10e9ad94064e99	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/system/bluetooth
+30a738e653aa2d9f7670d0b19409ce30916cc397	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/system/bluetooth
+7dc550597f490a67c8d020c727bfbf2d9d212d42	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/system/bluetooth
+5cd290f3284add3bda6085c16346bb37d6cc291e	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/system/bluetooth
+62432dd0bb4d59f640bde9309f86eef2fd984f18	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/system/bluetooth
+62432dd0bb4d59f640bde9309f86eef2fd984f18	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/system/bluetooth
+62432dd0bb4d59f640bde9309f86eef2fd984f18	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/system/bluetooth
+5cd290f3284add3bda6085c16346bb37d6cc291e	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/system/bluetooth

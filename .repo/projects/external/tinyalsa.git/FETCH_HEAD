@@ -1,0 +1,16 @@
+73b9c679a656c7b0f5e265dae5a76664c7d03031		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/tinyalsa
+73b9c679a656c7b0f5e265dae5a76664c7d03031		branch 'ics-mr0' of https://android.googlesource.com/platform/external/tinyalsa
+73b9c679a656c7b0f5e265dae5a76664c7d03031		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/tinyalsa
+8dd366f47258eeda07910a99b29ba681fe7464a7		branch 'ics-mr1' of https://android.googlesource.com/platform/external/tinyalsa
+d9f0edb3bcedadf1ffcc7df72737992074eccbb7		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/tinyalsa
+25bc6521d0f0753251c4be84dd395c6cbebc83cb		branch 'master' of https://android.googlesource.com/platform/external/tinyalsa
+73b9c679a656c7b0f5e265dae5a76664c7d03031	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/tinyalsa
+73b9c679a656c7b0f5e265dae5a76664c7d03031	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/tinyalsa
+73b9c679a656c7b0f5e265dae5a76664c7d03031	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/tinyalsa
+73b9c679a656c7b0f5e265dae5a76664c7d03031	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/tinyalsa
+d9f0edb3bcedadf1ffcc7df72737992074eccbb7	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/tinyalsa
+73b9c679a656c7b0f5e265dae5a76664c7d03031	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/tinyalsa
+8dd366f47258eeda07910a99b29ba681fe7464a7	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/tinyalsa
+8dd366f47258eeda07910a99b29ba681fe7464a7	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/tinyalsa
+8dd366f47258eeda07910a99b29ba681fe7464a7	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/tinyalsa
+73b9c679a656c7b0f5e265dae5a76664c7d03031	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/tinyalsa

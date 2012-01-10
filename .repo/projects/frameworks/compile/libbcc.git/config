@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/frameworks/compile/libbcc
+	projectname = platform/frameworks/compile/libbcc
+	fetch = +refs/heads/*:refs/remotes/aosp/*

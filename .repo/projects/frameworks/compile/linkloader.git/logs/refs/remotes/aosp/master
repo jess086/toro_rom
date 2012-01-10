@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 52b519a2d1b0a29b8e76230ee7f9625fd25dda2a jess <jess@jess-086.(none)> 1326162745 -0800	fetch /home/jess/toro_rom/.repo/projects/frameworks/compile/linkloader.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+52b519a2d1b0a29b8e76230ee7f9625fd25dda2a 9f4c28af2b830f6400c32d1f481e680346bbf33f jess <jess@jess-086.(none)> 1326162758 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

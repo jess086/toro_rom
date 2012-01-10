@@ -1,0 +1,64 @@
+613d25b8c0fd1ab92c566d965e3cd7da85c31ee0		branch 'donut-release' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+613d25b8c0fd1ab92c566d965e3cd7da85c31ee0		branch 'donut-release2' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+323028bd21a3d184efdcb2b6b0896fa343c32510		branch 'eclair-passion-release' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+323028bd21a3d184efdcb2b6b0896fa343c32510		branch 'eclair-release' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+323028bd21a3d184efdcb2b6b0896fa343c32510		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+323028bd21a3d184efdcb2b6b0896fa343c32510		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+b678f3bb6c3fa3cc88cda872909ace5791a6304c		branch 'froyo' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+b678f3bb6c3fa3cc88cda872909ace5791a6304c		branch 'froyo-release' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+17f1ff8c99dada2cca93f68d434cf64a6dc692c2		branch 'gingerbread' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+17f1ff8c99dada2cca93f68d434cf64a6dc692c2		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+17f1ff8c99dada2cca93f68d434cf64a6dc692c2		branch 'gingerbread-release' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+c16ac09f510437e8340be691720177a490ae78f0		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+c16ac09f510437e8340be691720177a490ae78f0		branch 'ics-mr0' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+c16ac09f510437e8340be691720177a490ae78f0		branch 'ics-mr0-release' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+c16ac09f510437e8340be691720177a490ae78f0		branch 'ics-mr1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+153d0f1a27e0a157cabb6ca9d0d88248630f5695		branch 'ics-mr1-release' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+af9565aa8be0136463ec549d9d3abdd906d2c390		branch 'master' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+613d25b8c0fd1ab92c566d965e3cd7da85c31ee0	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+613d25b8c0fd1ab92c566d965e3cd7da85c31ee0	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+613d25b8c0fd1ab92c566d965e3cd7da85c31ee0	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+613d25b8c0fd1ab92c566d965e3cd7da85c31ee0	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+613d25b8c0fd1ab92c566d965e3cd7da85c31ee0	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+613d25b8c0fd1ab92c566d965e3cd7da85c31ee0	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+613d25b8c0fd1ab92c566d965e3cd7da85c31ee0	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+323028bd21a3d184efdcb2b6b0896fa343c32510	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+f566139de7e3c21e82e1736b62910cc89c9194fe	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+323028bd21a3d184efdcb2b6b0896fa343c32510	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+323028bd21a3d184efdcb2b6b0896fa343c32510	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+323028bd21a3d184efdcb2b6b0896fa343c32510	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+323028bd21a3d184efdcb2b6b0896fa343c32510	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+323028bd21a3d184efdcb2b6b0896fa343c32510	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+b678f3bb6c3fa3cc88cda872909ace5791a6304c	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+b678f3bb6c3fa3cc88cda872909ace5791a6304c	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+b678f3bb6c3fa3cc88cda872909ace5791a6304c	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+b678f3bb6c3fa3cc88cda872909ace5791a6304c	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+b678f3bb6c3fa3cc88cda872909ace5791a6304c	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+b678f3bb6c3fa3cc88cda872909ace5791a6304c	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+b678f3bb6c3fa3cc88cda872909ace5791a6304c	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+b678f3bb6c3fa3cc88cda872909ace5791a6304c	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+b678f3bb6c3fa3cc88cda872909ace5791a6304c	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+d6e68c3ae5677bc6127628d1c700b11c8f0fcdaf	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+d6e68c3ae5677bc6127628d1c700b11c8f0fcdaf	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+17f1ff8c99dada2cca93f68d434cf64a6dc692c2	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+17f1ff8c99dada2cca93f68d434cf64a6dc692c2	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+17f1ff8c99dada2cca93f68d434cf64a6dc692c2	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+17f1ff8c99dada2cca93f68d434cf64a6dc692c2	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+17f1ff8c99dada2cca93f68d434cf64a6dc692c2	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+17f1ff8c99dada2cca93f68d434cf64a6dc692c2	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+17f1ff8c99dada2cca93f68d434cf64a6dc692c2	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+17f1ff8c99dada2cca93f68d434cf64a6dc692c2	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+d6e68c3ae5677bc6127628d1c700b11c8f0fcdaf	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+c16ac09f510437e8340be691720177a490ae78f0	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+c16ac09f510437e8340be691720177a490ae78f0	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+c16ac09f510437e8340be691720177a490ae78f0	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+c16ac09f510437e8340be691720177a490ae78f0	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+153d0f1a27e0a157cabb6ca9d0d88248630f5695	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+b678f3bb6c3fa3cc88cda872909ace5791a6304c	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+17f1ff8c99dada2cca93f68d434cf64a6dc692c2	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+17f1ff8c99dada2cca93f68d434cf64a6dc692c2	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+c16ac09f510437e8340be691720177a490ae78f0	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+c16ac09f510437e8340be691720177a490ae78f0	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+c16ac09f510437e8340be691720177a490ae78f0	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+c16ac09f510437e8340be691720177a490ae78f0	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/hardware/libhardware_legacy
+c16ac09f510437e8340be691720177a490ae78f0	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/hardware/libhardware_legacy

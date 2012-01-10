@@ -1,0 +1,32 @@
+6900b4e2cc281db57d5e811f53a6f17eb0ebb78b		branch 'gingerbread' of https://android.googlesource.com/platform/external/libnfc-nxp
+f9c00ef178677ab6923ef53eaf6fb6d4bc5a1ee9		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/libnfc-nxp
+d531c36700816fce5603b8612c4025190324c5ff		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/libnfc-nxp
+18985d0a5e5d8dd27494f845d072bb2abdc22af3		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/libnfc-nxp
+18985d0a5e5d8dd27494f845d072bb2abdc22af3		branch 'ics-mr0' of https://android.googlesource.com/platform/external/libnfc-nxp
+18985d0a5e5d8dd27494f845d072bb2abdc22af3		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/libnfc-nxp
+b99be65c277b0cc65a00a33e784ed49461531737		branch 'ics-mr1' of https://android.googlesource.com/platform/external/libnfc-nxp
+533c14450e6239cce8acb74f4e4dea2c89f8f219		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/libnfc-nxp
+593d6d4a79601c530825ce9a52fd3f4cf03e1b6f		branch 'master' of https://android.googlesource.com/platform/external/libnfc-nxp
+b70c3011edf13b3b79dddaefb971b6fd7c33e193	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+b70c3011edf13b3b79dddaefb971b6fd7c33e193	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+442bead483a0a6fd9254fc83a5ea76474c6dbbe7	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+442bead483a0a6fd9254fc83a5ea76474c6dbbe7	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/libnfc-nxp
+b7e67c8dbd4aa5892815bfed4e7ff934cf49b904	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/libnfc-nxp
+c550ba9ec7842860eef82ce21a5c4b82f03e856f	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+178bcc31188d60d13e7455c14e9fd902f5505331	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+6c3019dfa71e1ca6d3fa00311773253bbaae3ac3	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/libnfc-nxp
+d531c36700816fce5603b8612c4025190324c5ff	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+f9c00ef178677ab6923ef53eaf6fb6d4bc5a1ee9	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+b70c3011edf13b3b79dddaefb971b6fd7c33e193	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+18985d0a5e5d8dd27494f845d072bb2abdc22af3	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+18985d0a5e5d8dd27494f845d072bb2abdc22af3	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/libnfc-nxp
+18985d0a5e5d8dd27494f845d072bb2abdc22af3	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/libnfc-nxp
+18985d0a5e5d8dd27494f845d072bb2abdc22af3	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+533c14450e6239cce8acb74f4e4dea2c89f8f219	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+6900b4e2cc281db57d5e811f53a6f17eb0ebb78b	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/libnfc-nxp
+6900b4e2cc281db57d5e811f53a6f17eb0ebb78b	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/libnfc-nxp
+18985d0a5e5d8dd27494f845d072bb2abdc22af3	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+b99be65c277b0cc65a00a33e784ed49461531737	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+b99be65c277b0cc65a00a33e784ed49461531737	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+b99be65c277b0cc65a00a33e784ed49461531737	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/libnfc-nxp
+18985d0a5e5d8dd27494f845d072bb2abdc22af3	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/libnfc-nxp

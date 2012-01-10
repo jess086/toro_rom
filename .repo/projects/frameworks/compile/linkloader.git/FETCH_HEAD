@@ -1,0 +1,16 @@
+52b519a2d1b0a29b8e76230ee7f9625fd25dda2a		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+52b519a2d1b0a29b8e76230ee7f9625fd25dda2a		branch 'ics-mr0' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+52b519a2d1b0a29b8e76230ee7f9625fd25dda2a		branch 'ics-mr0-release' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+9f4c28af2b830f6400c32d1f481e680346bbf33f		branch 'ics-mr1' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+9f4c28af2b830f6400c32d1f481e680346bbf33f		branch 'ics-mr1-release' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+9f4c28af2b830f6400c32d1f481e680346bbf33f		branch 'master' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+52b519a2d1b0a29b8e76230ee7f9625fd25dda2a	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+52b519a2d1b0a29b8e76230ee7f9625fd25dda2a	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+52b519a2d1b0a29b8e76230ee7f9625fd25dda2a	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+52b519a2d1b0a29b8e76230ee7f9625fd25dda2a	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+9f4c28af2b830f6400c32d1f481e680346bbf33f	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+52b519a2d1b0a29b8e76230ee7f9625fd25dda2a	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+9f4c28af2b830f6400c32d1f481e680346bbf33f	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+9f4c28af2b830f6400c32d1f481e680346bbf33f	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+9f4c28af2b830f6400c32d1f481e680346bbf33f	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/compile/linkloader
+52b519a2d1b0a29b8e76230ee7f9625fd25dda2a	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/frameworks/compile/linkloader

@@ -1,0 +1,64 @@
+3ba20137ed310a89cbea7622a561850c463f7c4e		branch 'donut-release' of https://android.googlesource.com/platform/packages/apps/Email
+fe5ed7b4b5a8398a3b826481275f4f478f43a506		branch 'donut-release2' of https://android.googlesource.com/platform/packages/apps/Email
+515e3bfb2d0635b81f7993ba24a62fa02f9899a1		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/Email
+346a0cc1e00fcfde05df66eb37433172c96b1c36		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/Email
+35e5b677c1e783f59c7ac67a61a264a7e036d8e5		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/Email
+1aa1dcd9ddfa81cbf81c45d249253aef47bc2afc		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/Email
+9031e67b7e2ec00033a45155ff644fccb33e6bc7		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/Email
+34cbdc28b446ca60071e27aa3d3b232f2271cdb0		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/Email
+f39645ccef07a272d42b902c1558c5067ca249c3		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Email
+8c23a70b9123b77511e3ed9bbe827fe0c26bb674		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Email
+8c23a70b9123b77511e3ed9bbe827fe0c26bb674		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Email
+53b0b354e75e76c93e4dc09054a314fbd8cce0da		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Email
+5fc56ecd05cdd9efef5105deae1176d9968f915b		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Email
+5fc56ecd05cdd9efef5105deae1176d9968f915b		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Email
+6d7eef22cd2634bd0da8de8e38635dd92b3e5a48		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Email
+e8949d30bcb568b32a12338a28fb9d7a13e8b086		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Email
+e3def6c9c4294e9f537d499911b792c89bec2b3c		branch 'master' of https://android.googlesource.com/platform/packages/apps/Email
+fe5ed7b4b5a8398a3b826481275f4f478f43a506	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/apps/Email
+fe5ed7b4b5a8398a3b826481275f4f478f43a506	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/apps/Email
+fe5ed7b4b5a8398a3b826481275f4f478f43a506	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/apps/Email
+fe5ed7b4b5a8398a3b826481275f4f478f43a506	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/apps/Email
+fe5ed7b4b5a8398a3b826481275f4f478f43a506	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/apps/Email
+fe5ed7b4b5a8398a3b826481275f4f478f43a506	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/apps/Email
+3ba20137ed310a89cbea7622a561850c463f7c4e	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/apps/Email
+35e5b677c1e783f59c7ac67a61a264a7e036d8e5	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Email
+53123c2f914db357fa5b4a8451b23c6be77314a5	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/Email
+68011bddf01d6b62d621784fad9a43884ec434fd	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/Email
+346a0cc1e00fcfde05df66eb37433172c96b1c36	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/Email
+515e3bfb2d0635b81f7993ba24a62fa02f9899a1	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/Email
+515e3bfb2d0635b81f7993ba24a62fa02f9899a1	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/Email
+1aa1dcd9ddfa81cbf81c45d249253aef47bc2afc	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/Email
+6c6c38728c1363ef71c7c02b2e7520feaea80ecd	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/Email
+34cbdc28b446ca60071e27aa3d3b232f2271cdb0	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/Email
+34cbdc28b446ca60071e27aa3d3b232f2271cdb0	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/Email
+34cbdc28b446ca60071e27aa3d3b232f2271cdb0	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/Email
+34cbdc28b446ca60071e27aa3d3b232f2271cdb0	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/Email
+7a358316ae1c52fadf7ce8470fc5d257d1a71eaa	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/Email
+eb2f7bbcb47f55cea181b090a94d4a7cad4f1293	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/Email
+eb2f7bbcb47f55cea181b090a94d4a7cad4f1293	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/Email
+6c4a49bc3fec50e789185b98ccea8420ed50272e	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/Email
+7d7ffaf6a36e1ddc6c91ed3dbf499c271b79965f	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Email
+7d7ffaf6a36e1ddc6c91ed3dbf499c271b79965f	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Email
+4ff77b1e4f746aec45a7857ae3bd770173281bfa	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Email
+4ff77b1e4f746aec45a7857ae3bd770173281bfa	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Email
+d556138cb2683212423edb884948d7410ef698e7	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Email
+d556138cb2683212423edb884948d7410ef698e7	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Email
+8c23a70b9123b77511e3ed9bbe827fe0c26bb674	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Email
+8c23a70b9123b77511e3ed9bbe827fe0c26bb674	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Email
+8c23a70b9123b77511e3ed9bbe827fe0c26bb674	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Email
+8c23a70b9123b77511e3ed9bbe827fe0c26bb674	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Email
+7d7ffaf6a36e1ddc6c91ed3dbf499c271b79965f	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Email
+53b0b354e75e76c93e4dc09054a314fbd8cce0da	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Email
+53b0b354e75e76c93e4dc09054a314fbd8cce0da	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Email
+53b0b354e75e76c93e4dc09054a314fbd8cce0da	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Email
+5fc56ecd05cdd9efef5105deae1176d9968f915b	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Email
+e8949d30bcb568b32a12338a28fb9d7a13e8b086	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Email
+9031e67b7e2ec00033a45155ff644fccb33e6bc7	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/Email
+f39645ccef07a272d42b902c1558c5067ca249c3	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Email
+f39645ccef07a272d42b902c1558c5067ca249c3	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Email
+5fc56ecd05cdd9efef5105deae1176d9968f915b	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Email
+6d7eef22cd2634bd0da8de8e38635dd92b3e5a48	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Email
+6d7eef22cd2634bd0da8de8e38635dd92b3e5a48	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Email
+6d7eef22cd2634bd0da8de8e38635dd92b3e5a48	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Email
+5fc56ecd05cdd9efef5105deae1176d9968f915b	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Email

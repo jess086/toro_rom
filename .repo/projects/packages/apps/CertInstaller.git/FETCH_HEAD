@@ -1,0 +1,55 @@
+3878fe90c0040e576930d7553776ccc5e7fe4f2f		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+3878fe90c0040e576930d7553776ccc5e7fe4f2f		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+3878fe90c0040e576930d7553776ccc5e7fe4f2f		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+3878fe90c0040e576930d7553776ccc5e7fe4f2f		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+bdd13bfab99604e3bd51d8f892c90253a36e638c		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+cb944a236fb05b651fd1e312d0df79df98edc3be		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+457ffda6726b8e0f88d78a9267b840d102a8907a		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+457ffda6726b8e0f88d78a9267b840d102a8907a		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+457ffda6726b8e0f88d78a9267b840d102a8907a		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+2d389665f8258aaaf2369217971da0eda3656102		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+86b2f598353c8f93512df3deeb07fd5f0ff1f558		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+86b2f598353c8f93512df3deeb07fd5f0ff1f558		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+72a7041136b14e4ee98d3e53837c7dff6d54402b		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+72a7041136b14e4ee98d3e53837c7dff6d54402b		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+72a7041136b14e4ee98d3e53837c7dff6d54402b		branch 'master' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+3878fe90c0040e576930d7553776ccc5e7fe4f2f	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+a0fbbc45e53d22b429b9a28e74510051738f2b4c	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+3878fe90c0040e576930d7553776ccc5e7fe4f2f	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+3878fe90c0040e576930d7553776ccc5e7fe4f2f	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+3878fe90c0040e576930d7553776ccc5e7fe4f2f	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+3878fe90c0040e576930d7553776ccc5e7fe4f2f	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+3878fe90c0040e576930d7553776ccc5e7fe4f2f	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+cb944a236fb05b651fd1e312d0df79df98edc3be	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+cb944a236fb05b651fd1e312d0df79df98edc3be	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+cb944a236fb05b651fd1e312d0df79df98edc3be	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+cb944a236fb05b651fd1e312d0df79df98edc3be	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+cb944a236fb05b651fd1e312d0df79df98edc3be	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+cb944a236fb05b651fd1e312d0df79df98edc3be	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+cb944a236fb05b651fd1e312d0df79df98edc3be	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+cb944a236fb05b651fd1e312d0df79df98edc3be	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+cb944a236fb05b651fd1e312d0df79df98edc3be	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+5e875d71d04f191871faf6d02ee6353f50b04238	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+5e875d71d04f191871faf6d02ee6353f50b04238	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+ed62f82e5efc05ff87133fad7f4051a7e0fb9788	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+ed62f82e5efc05ff87133fad7f4051a7e0fb9788	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+457ffda6726b8e0f88d78a9267b840d102a8907a	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+457ffda6726b8e0f88d78a9267b840d102a8907a	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+457ffda6726b8e0f88d78a9267b840d102a8907a	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+457ffda6726b8e0f88d78a9267b840d102a8907a	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+457ffda6726b8e0f88d78a9267b840d102a8907a	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+457ffda6726b8e0f88d78a9267b840d102a8907a	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+5e875d71d04f191871faf6d02ee6353f50b04238	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+2d389665f8258aaaf2369217971da0eda3656102	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+2d389665f8258aaaf2369217971da0eda3656102	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+2d389665f8258aaaf2369217971da0eda3656102	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+86b2f598353c8f93512df3deeb07fd5f0ff1f558	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+72a7041136b14e4ee98d3e53837c7dff6d54402b	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+bdd13bfab99604e3bd51d8f892c90253a36e638c	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+457ffda6726b8e0f88d78a9267b840d102a8907a	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+457ffda6726b8e0f88d78a9267b840d102a8907a	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+86b2f598353c8f93512df3deeb07fd5f0ff1f558	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+72a7041136b14e4ee98d3e53837c7dff6d54402b	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+72a7041136b14e4ee98d3e53837c7dff6d54402b	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+72a7041136b14e4ee98d3e53837c7dff6d54402b	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/CertInstaller
+86b2f598353c8f93512df3deeb07fd5f0ff1f558	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/CertInstaller

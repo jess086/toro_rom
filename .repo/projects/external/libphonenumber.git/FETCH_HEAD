@@ -1,0 +1,16 @@
+1940212be2ff2ac5bf7d91eabbdb34e10d9b8e2e		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/libphonenumber
+d23bad5d76650025d2c814c3c61dab3970c53bb3		branch 'ics-mr0' of https://android.googlesource.com/platform/external/libphonenumber
+d23bad5d76650025d2c814c3c61dab3970c53bb3		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/libphonenumber
+d470984844c388d6766c3de6ac64e93e00480fc9		branch 'ics-mr1' of https://android.googlesource.com/platform/external/libphonenumber
+d470984844c388d6766c3de6ac64e93e00480fc9		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/libphonenumber
+d470984844c388d6766c3de6ac64e93e00480fc9		branch 'master' of https://android.googlesource.com/platform/external/libphonenumber
+1940212be2ff2ac5bf7d91eabbdb34e10d9b8e2e	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/libphonenumber
+1940212be2ff2ac5bf7d91eabbdb34e10d9b8e2e	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/libphonenumber
+1940212be2ff2ac5bf7d91eabbdb34e10d9b8e2e	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/libphonenumber
+d23bad5d76650025d2c814c3c61dab3970c53bb3	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/libphonenumber
+d470984844c388d6766c3de6ac64e93e00480fc9	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/libphonenumber
+d23bad5d76650025d2c814c3c61dab3970c53bb3	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/libphonenumber
+d470984844c388d6766c3de6ac64e93e00480fc9	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/libphonenumber
+d470984844c388d6766c3de6ac64e93e00480fc9	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/libphonenumber
+d470984844c388d6766c3de6ac64e93e00480fc9	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/libphonenumber
+d23bad5d76650025d2c814c3c61dab3970c53bb3	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/libphonenumber

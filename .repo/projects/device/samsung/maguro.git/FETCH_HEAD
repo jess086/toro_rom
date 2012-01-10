@@ -1,0 +1,16 @@
+30a4a71518c816f5b5d954fec66d51f864b74b51		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/device/samsung/maguro
+23faafdac625cde968a9915426431a6fa40a3516		branch 'ics-mr0' of https://android.googlesource.com/device/samsung/maguro
+23faafdac625cde968a9915426431a6fa40a3516		branch 'ics-mr0-release' of https://android.googlesource.com/device/samsung/maguro
+cc6ce87312d7a21512671138b7d8e152435d7f59		branch 'ics-mr1' of https://android.googlesource.com/device/samsung/maguro
+185f51cd2d009e45ae7aa7d8c5ee2de0bda90d33		branch 'ics-mr1-release' of https://android.googlesource.com/device/samsung/maguro
+f8980867d45b5dd950d959191d8cd58de3de9be8		branch 'master' of https://android.googlesource.com/device/samsung/maguro
+30a4a71518c816f5b5d954fec66d51f864b74b51	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/device/samsung/maguro
+30a4a71518c816f5b5d954fec66d51f864b74b51	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/device/samsung/maguro
+30a4a71518c816f5b5d954fec66d51f864b74b51	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/device/samsung/maguro
+23faafdac625cde968a9915426431a6fa40a3516	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/device/samsung/maguro
+185f51cd2d009e45ae7aa7d8c5ee2de0bda90d33	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/device/samsung/maguro
+23faafdac625cde968a9915426431a6fa40a3516	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/device/samsung/maguro
+cc6ce87312d7a21512671138b7d8e152435d7f59	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/device/samsung/maguro
+cc6ce87312d7a21512671138b7d8e152435d7f59	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/device/samsung/maguro
+cc6ce87312d7a21512671138b7d8e152435d7f59	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/device/samsung/maguro
+23faafdac625cde968a9915426431a6fa40a3516	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/device/samsung/maguro

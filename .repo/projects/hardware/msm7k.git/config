@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/hardware/msm7k
+	projectname = platform/hardware/msm7k
+	fetch = +refs/heads/*:refs/remotes/aosp/*

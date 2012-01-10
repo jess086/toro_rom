@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/packages/apps/CertInstaller
+	projectname = platform/packages/apps/CertInstaller
+	fetch = +refs/heads/*:refs/remotes/aosp/*

@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/device/samsung/tuna
+	projectname = device/samsung/tuna
+	fetch = +refs/heads/*:refs/remotes/aosp/*

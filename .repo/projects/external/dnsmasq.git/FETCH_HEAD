@@ -1,0 +1,55 @@
+ffd82a77512f2d0971660e9cbd77242d8982a0b5		branch 'froyo' of https://android.googlesource.com/platform/external/dnsmasq
+ffd82a77512f2d0971660e9cbd77242d8982a0b5		branch 'froyo-release' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381		branch 'gingerbread' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5		branch 'ics-mr0' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5		branch 'ics-mr1' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5		branch 'master' of https://android.googlesource.com/platform/external/dnsmasq
+ffd82a77512f2d0971660e9cbd77242d8982a0b5	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/external/dnsmasq
+ffd82a77512f2d0971660e9cbd77242d8982a0b5	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/external/dnsmasq
+ffd82a77512f2d0971660e9cbd77242d8982a0b5	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/external/dnsmasq
+ffd82a77512f2d0971660e9cbd77242d8982a0b5	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/external/dnsmasq
+ffd82a77512f2d0971660e9cbd77242d8982a0b5	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/external/dnsmasq
+ffd82a77512f2d0971660e9cbd77242d8982a0b5	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/external/dnsmasq
+ffd82a77512f2d0971660e9cbd77242d8982a0b5	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/external/dnsmasq
+ffd82a77512f2d0971660e9cbd77242d8982a0b5	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/external/dnsmasq
+ffd82a77512f2d0971660e9cbd77242d8982a0b5	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/dnsmasq
+e17deb5139e6d1fe04be90edbed7f061e8da3ab0	not-for-merge	tag 'android-3.0_r1' of https://android.googlesource.com/platform/external/dnsmasq
+e17deb5139e6d1fe04be90edbed7f061e8da3ab0	not-for-merge	tag 'android-3.0_r1.1' of https://android.googlesource.com/platform/external/dnsmasq
+e17deb5139e6d1fe04be90edbed7f061e8da3ab0	not-for-merge	tag 'android-3.0_r1.2' of https://android.googlesource.com/platform/external/dnsmasq
+e17deb5139e6d1fe04be90edbed7f061e8da3ab0	not-for-merge	tag 'android-3.0_r1.3' of https://android.googlesource.com/platform/external/dnsmasq
+e17deb5139e6d1fe04be90edbed7f061e8da3ab0	not-for-merge	tag 'android-3.1_r1' of https://android.googlesource.com/platform/external/dnsmasq
+e17deb5139e6d1fe04be90edbed7f061e8da3ab0	not-for-merge	tag 'android-3.2.1_r1' of https://android.googlesource.com/platform/external/dnsmasq
+e17deb5139e6d1fe04be90edbed7f061e8da3ab0	not-for-merge	tag 'android-3.2.1_r2' of https://android.googlesource.com/platform/external/dnsmasq
+e17deb5139e6d1fe04be90edbed7f061e8da3ab0	not-for-merge	tag 'android-3.2.2_r1' of https://android.googlesource.com/platform/external/dnsmasq
+e17deb5139e6d1fe04be90edbed7f061e8da3ab0	not-for-merge	tag 'android-3.2.2_r2' of https://android.googlesource.com/platform/external/dnsmasq
+e17deb5139e6d1fe04be90edbed7f061e8da3ab0	not-for-merge	tag 'android-3.2.4_r1' of https://android.googlesource.com/platform/external/dnsmasq
+e17deb5139e6d1fe04be90edbed7f061e8da3ab0	not-for-merge	tag 'android-3.2_r1' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/dnsmasq
+ffd82a77512f2d0971660e9cbd77242d8982a0b5	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/dnsmasq
+1b25960ebe33754410ba3c663c1c45662c779381	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/dnsmasq
+f621afad94df46204c25fc2593a19d704d2637f5	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/dnsmasq

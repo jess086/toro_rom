@@ -1,0 +1,16 @@
+b52a94118b8f612277d948dc926e928f12bc2026		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Exchange
+8b646b9a24e0262110be6da07ade9511730e2008		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Exchange
+8b646b9a24e0262110be6da07ade9511730e2008		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Exchange
+91e5c5bfa6a12679c7611160ad848d4fa2fc73ad		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Exchange
+9464f52c79bbf9610ae0b2eeedd2051172ad20a0		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Exchange
+1019e5a6af66a55346977e34f958fd241973eecb		branch 'master' of https://android.googlesource.com/platform/packages/apps/Exchange
+b52a94118b8f612277d948dc926e928f12bc2026	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Exchange
+b52a94118b8f612277d948dc926e928f12bc2026	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Exchange
+b52a94118b8f612277d948dc926e928f12bc2026	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Exchange
+8b646b9a24e0262110be6da07ade9511730e2008	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Exchange
+9464f52c79bbf9610ae0b2eeedd2051172ad20a0	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Exchange
+8b646b9a24e0262110be6da07ade9511730e2008	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Exchange
+91e5c5bfa6a12679c7611160ad848d4fa2fc73ad	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Exchange
+91e5c5bfa6a12679c7611160ad848d4fa2fc73ad	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Exchange
+91e5c5bfa6a12679c7611160ad848d4fa2fc73ad	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Exchange
+8b646b9a24e0262110be6da07ade9511730e2008	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Exchange

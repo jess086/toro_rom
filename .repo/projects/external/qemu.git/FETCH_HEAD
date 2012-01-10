@@ -1,0 +1,73 @@
+b95f8924a76897bd0f983a9be07dc618d8b0e3d3		branch 'donut-release' of https://android.googlesource.com/platform/external/qemu
+b95f8924a76897bd0f983a9be07dc618d8b0e3d3		branch 'donut-release2' of https://android.googlesource.com/platform/external/qemu
+1cb37b34f117f72bb16de23f42ba6885e729d85c		branch 'eclair-passion-release' of https://android.googlesource.com/platform/external/qemu
+1cb37b34f117f72bb16de23f42ba6885e729d85c		branch 'eclair-release' of https://android.googlesource.com/platform/external/qemu
+fa4610215cef5d4ccff7357c62d332d4d93e0f13		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/external/qemu
+1cb37b34f117f72bb16de23f42ba6885e729d85c		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/external/qemu
+f6b937d9a93b474439c2e602bee39542db796beb		branch 'froyo-release' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/qemu
+3cfc387ae5c0dfea3482771b27e84802c07d33f9		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/qemu
+3cfc387ae5c0dfea3482771b27e84802c07d33f9		branch 'ics-mr0' of https://android.googlesource.com/platform/external/qemu
+3cfc387ae5c0dfea3482771b27e84802c07d33f9		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/qemu
+79570c3532503840855517494978082a99543a30		branch 'ics-mr1' of https://android.googlesource.com/platform/external/qemu
+1236dabbd7da7aca088b191d878e645dc0529d3a		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/qemu
+762d5decf0eaa766e69ecd94f4349be53dedd767		branch 'master' of https://android.googlesource.com/platform/external/qemu
+601f3627157e8d994d35a58f5ee3187f04a6cb21		branch 'tools_r10' of https://android.googlesource.com/platform/external/qemu
+34ce119e7b8b5ddb06521369a0c0b07bb77e6f1d		branch 'tools_r11' of https://android.googlesource.com/platform/external/qemu
+60a19863995cdfb9be645242983be24e424f37bc		branch 'tools_r12' of https://android.googlesource.com/platform/external/qemu
+14ee41d3268911e97e6fc4f417ac424336847f0a		branch 'tools_r13' of https://android.googlesource.com/platform/external/qemu
+9f3c0c76682640cf6583b1b0babb23e9038a8d71		branch 'tools_r14' of https://android.googlesource.com/platform/external/qemu
+d1d5c771c0df561fe612de0d2cd515de32c6e630		branch 'tools_r15' of https://android.googlesource.com/platform/external/qemu
+5f7d7a2e06acc8a40838e73644abb8d43820d381		branch 'tools_r16' of https://android.googlesource.com/platform/external/qemu
+f6b937d9a93b474439c2e602bee39542db796beb		branch 'tools_r6' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7		branch 'tools_r7' of https://android.googlesource.com/platform/external/qemu
+3fd4433273472624235d7f4df342d3c0ce41bd4f		branch 'tools_r8' of https://android.googlesource.com/platform/external/qemu
+3bf6efc0928555529c3df28d291117390b840c16		branch 'tools_r9' of https://android.googlesource.com/platform/external/qemu
+b95f8924a76897bd0f983a9be07dc618d8b0e3d3	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/external/qemu
+b95f8924a76897bd0f983a9be07dc618d8b0e3d3	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/external/qemu
+b95f8924a76897bd0f983a9be07dc618d8b0e3d3	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/external/qemu
+b95f8924a76897bd0f983a9be07dc618d8b0e3d3	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/external/qemu
+b95f8924a76897bd0f983a9be07dc618d8b0e3d3	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/external/qemu
+b95f8924a76897bd0f983a9be07dc618d8b0e3d3	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/external/qemu
+b95f8924a76897bd0f983a9be07dc618d8b0e3d3	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/external/qemu
+fa4610215cef5d4ccff7357c62d332d4d93e0f13	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/external/qemu
+73b9926fd43c9b5cd00319c5d117448bd1b31112	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/external/qemu
+39fd8497a66aa9f78a18c8684181128361612c6f	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/external/qemu
+1cb37b34f117f72bb16de23f42ba6885e729d85c	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/external/qemu
+1cb37b34f117f72bb16de23f42ba6885e729d85c	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/external/qemu
+1cb37b34f117f72bb16de23f42ba6885e729d85c	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/external/qemu
+1cb37b34f117f72bb16de23f42ba6885e729d85c	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/external/qemu
+f6b937d9a93b474439c2e602bee39542db796beb	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/external/qemu
+f6b937d9a93b474439c2e602bee39542db796beb	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/external/qemu
+f6b937d9a93b474439c2e602bee39542db796beb	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/external/qemu
+f6b937d9a93b474439c2e602bee39542db796beb	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/external/qemu
+f6b937d9a93b474439c2e602bee39542db796beb	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/external/qemu
+f6b937d9a93b474439c2e602bee39542db796beb	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/external/qemu
+f6b937d9a93b474439c2e602bee39542db796beb	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/external/qemu
+f6b937d9a93b474439c2e602bee39542db796beb	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/external/qemu
+f6b937d9a93b474439c2e602bee39542db796beb	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/qemu
+3cfc387ae5c0dfea3482771b27e84802c07d33f9	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/qemu
+3cfc387ae5c0dfea3482771b27e84802c07d33f9	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/qemu
+3cfc387ae5c0dfea3482771b27e84802c07d33f9	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/qemu
+3cfc387ae5c0dfea3482771b27e84802c07d33f9	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/qemu
+1236dabbd7da7aca088b191d878e645dc0529d3a	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/qemu
+f6b937d9a93b474439c2e602bee39542db796beb	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/qemu
+2fa5173bd1ce7341c50adac676a317945f0969c7	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/qemu
+3cfc387ae5c0dfea3482771b27e84802c07d33f9	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/qemu
+79570c3532503840855517494978082a99543a30	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/qemu
+79570c3532503840855517494978082a99543a30	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/qemu
+79570c3532503840855517494978082a99543a30	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/qemu
+5f7d7a2e06acc8a40838e73644abb8d43820d381	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/qemu

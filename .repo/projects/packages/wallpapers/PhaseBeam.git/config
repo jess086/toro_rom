@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/packages/wallpapers/PhaseBeam
+	projectname = platform/packages/wallpapers/PhaseBeam
+	fetch = +refs/heads/*:refs/remotes/aosp/*

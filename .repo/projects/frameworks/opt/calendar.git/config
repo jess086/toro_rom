@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/frameworks/opt/calendar
+	projectname = platform/frameworks/opt/calendar
+	fetch = +refs/heads/*:refs/remotes/aosp/*

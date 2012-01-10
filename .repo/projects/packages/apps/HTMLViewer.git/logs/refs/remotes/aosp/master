@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 94d7e982124753e00d05a0bee4df20dcabafb839 jess <jess@jess-086.(none)> 1326164715 -0800	fetch /home/jess/toro_rom/.repo/projects/packages/apps/HTMLViewer.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+94d7e982124753e00d05a0bee4df20dcabafb839 4230220ef8be426d69bb1a3f0f7a012793ce0d27 jess <jess@jess-086.(none)> 1326164718 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

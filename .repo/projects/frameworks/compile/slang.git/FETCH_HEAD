@@ -1,0 +1,16 @@
+f736d5a12269e7e74740b130cdca98d9839b31e6		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/frameworks/compile/slang
+f736d5a12269e7e74740b130cdca98d9839b31e6		branch 'ics-mr0' of https://android.googlesource.com/platform/frameworks/compile/slang
+f736d5a12269e7e74740b130cdca98d9839b31e6		branch 'ics-mr0-release' of https://android.googlesource.com/platform/frameworks/compile/slang
+04efb9633510aea000aada5f5130102b241df159		branch 'ics-mr1' of https://android.googlesource.com/platform/frameworks/compile/slang
+4b1c682051cb9a989b142b6b691381c38c43ff02		branch 'ics-mr1-release' of https://android.googlesource.com/platform/frameworks/compile/slang
+6ca991e9573748e4ff9740dd9384cfa9d7a2478d		branch 'master' of https://android.googlesource.com/platform/frameworks/compile/slang
+f736d5a12269e7e74740b130cdca98d9839b31e6	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/frameworks/compile/slang
+f736d5a12269e7e74740b130cdca98d9839b31e6	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/frameworks/compile/slang
+f736d5a12269e7e74740b130cdca98d9839b31e6	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/frameworks/compile/slang
+f736d5a12269e7e74740b130cdca98d9839b31e6	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/frameworks/compile/slang
+4b1c682051cb9a989b142b6b691381c38c43ff02	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/compile/slang
+f736d5a12269e7e74740b130cdca98d9839b31e6	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/frameworks/compile/slang
+04efb9633510aea000aada5f5130102b241df159	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/frameworks/compile/slang
+04efb9633510aea000aada5f5130102b241df159	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/frameworks/compile/slang
+04efb9633510aea000aada5f5130102b241df159	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/compile/slang
+f736d5a12269e7e74740b130cdca98d9839b31e6	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/frameworks/compile/slang

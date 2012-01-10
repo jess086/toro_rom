@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/external/bluetooth/glib
+	projectname = platform/external/bluetooth/glib
+	fetch = +refs/heads/*:refs/remotes/aosp/*

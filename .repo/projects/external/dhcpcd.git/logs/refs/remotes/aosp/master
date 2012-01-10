@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 0d3a47d979ac35a49b2a2da9e80e16bd37aab877 jess <jess@jess-086.(none)> 1326160821 -0800	fetch /home/jess/toro_rom/.repo/projects/external/dhcpcd.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+0d3a47d979ac35a49b2a2da9e80e16bd37aab877 ddaa48f57b54b2862b3e6dcf18a44c9647f3baaa jess <jess@jess-086.(none)> 1326160827 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

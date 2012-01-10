@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/libcore
+	projectname = platform/libcore
+	fetch = +refs/heads/*:refs/remotes/aosp/*

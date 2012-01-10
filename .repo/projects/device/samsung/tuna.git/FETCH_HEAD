@@ -1,0 +1,16 @@
+c45fce5d5ec098b3aaf6dbdde521e882037aff89		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/device/samsung/tuna
+5dce5e401ee7044aad8c49d3290d66b79d2d7050		branch 'ics-mr0' of https://android.googlesource.com/device/samsung/tuna
+9339fb7ef33b9d3b1d11120107762ea2d7c3269a		branch 'ics-mr0-release' of https://android.googlesource.com/device/samsung/tuna
+0f4521310f9aaef7bb61264be8a3574c59347941		branch 'ics-mr1' of https://android.googlesource.com/device/samsung/tuna
+859663c8298782d759f23ba6dfe9777246c0206f		branch 'ics-mr1-release' of https://android.googlesource.com/device/samsung/tuna
+cf903c0eaa7273e8b31cb57eb346a103219470b4		branch 'master' of https://android.googlesource.com/device/samsung/tuna
+1867e9da49a5e15b3d6cffece2378bef650acfc5	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/device/samsung/tuna
+1867e9da49a5e15b3d6cffece2378bef650acfc5	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/device/samsung/tuna
+c45fce5d5ec098b3aaf6dbdde521e882037aff89	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/device/samsung/tuna
+9339fb7ef33b9d3b1d11120107762ea2d7c3269a	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/device/samsung/tuna
+859663c8298782d759f23ba6dfe9777246c0206f	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/device/samsung/tuna
+5dce5e401ee7044aad8c49d3290d66b79d2d7050	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/device/samsung/tuna
+0f4521310f9aaef7bb61264be8a3574c59347941	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/device/samsung/tuna
+0f4521310f9aaef7bb61264be8a3574c59347941	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/device/samsung/tuna
+45dfd46501b2475c262d4f2c08453a0f2bd53d8f	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/device/samsung/tuna
+5dce5e401ee7044aad8c49d3290d66b79d2d7050	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/device/samsung/tuna

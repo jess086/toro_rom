@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/external/icu4c
+	projectname = platform/external/icu4c
+	fetch = +refs/heads/*:refs/remotes/aosp/*

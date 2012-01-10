@@ -1,0 +1,64 @@
+32f8982116e5155bc3c75c86e3c861cab1a848be		branch 'donut-release' of https://android.googlesource.com/platform/dalvik
+dfd0afbcb08b871e224a28ecb4ed427a7693545c		branch 'donut-release2' of https://android.googlesource.com/platform/dalvik
+0e9d568ec6b946e77bc0ec1903acac1ef916e6d1		branch 'eclair-passion-release' of https://android.googlesource.com/platform/dalvik
+0e9d568ec6b946e77bc0ec1903acac1ef916e6d1		branch 'eclair-release' of https://android.googlesource.com/platform/dalvik
+3dc6a81182178a8ac9570a7679cf24b6a2665a0b		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/dalvik
+0e9d568ec6b946e77bc0ec1903acac1ef916e6d1		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/dalvik
+491db49234ae5e0be9555e6bb777a5a50fba73ba		branch 'froyo' of https://android.googlesource.com/platform/dalvik
+74223007d3b92225fbe279af4c24d69b2c9a8e1f		branch 'froyo-release' of https://android.googlesource.com/platform/dalvik
+d0d351b2ef726ff1b76a3efb4aad91e4d1436f6a		branch 'gingerbread' of https://android.googlesource.com/platform/dalvik
+81058aaf92c188cc20273edd0275329fc304aca2		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/dalvik
+81058aaf92c188cc20273edd0275329fc304aca2		branch 'gingerbread-release' of https://android.googlesource.com/platform/dalvik
+3931f79801b67577bf8ac12d0b3fb5b4aeaaf766		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/dalvik
+3931f79801b67577bf8ac12d0b3fb5b4aeaaf766		branch 'ics-mr0' of https://android.googlesource.com/platform/dalvik
+3931f79801b67577bf8ac12d0b3fb5b4aeaaf766		branch 'ics-mr0-release' of https://android.googlesource.com/platform/dalvik
+a18e6d135a869f9c62f9ec8bac8b9e78d92c697f		branch 'ics-mr1' of https://android.googlesource.com/platform/dalvik
+2840018283247d7e757abd091c9546020a6edf6b		branch 'ics-mr1-release' of https://android.googlesource.com/platform/dalvik
+2ca72c704e7462c56f8c4489369b618872b595a0		branch 'master' of https://android.googlesource.com/platform/dalvik
+dfd0afbcb08b871e224a28ecb4ed427a7693545c	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/dalvik
+dfd0afbcb08b871e224a28ecb4ed427a7693545c	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/dalvik
+dfd0afbcb08b871e224a28ecb4ed427a7693545c	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/dalvik
+dfd0afbcb08b871e224a28ecb4ed427a7693545c	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/dalvik
+dfd0afbcb08b871e224a28ecb4ed427a7693545c	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/dalvik
+dfd0afbcb08b871e224a28ecb4ed427a7693545c	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/dalvik
+32f8982116e5155bc3c75c86e3c861cab1a848be	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/dalvik
+3dc6a81182178a8ac9570a7679cf24b6a2665a0b	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/dalvik
+3238cc2a901ed6e0e3bb11fa601913c2ed09ddb7	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/dalvik
+173411f7a11c81bef07adc28c66ce4c417df67ff	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/dalvik
+0e9d568ec6b946e77bc0ec1903acac1ef916e6d1	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/dalvik
+0e9d568ec6b946e77bc0ec1903acac1ef916e6d1	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/dalvik
+0e9d568ec6b946e77bc0ec1903acac1ef916e6d1	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/dalvik
+0e9d568ec6b946e77bc0ec1903acac1ef916e6d1	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/dalvik
+1daf86bdb630efa96147220019e1a97c853ed3d2	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/dalvik
+1e84bd735775ae896c1097f9c47960f3b1d4ea30	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/dalvik
+1e84bd735775ae896c1097f9c47960f3b1d4ea30	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/dalvik
+74223007d3b92225fbe279af4c24d69b2c9a8e1f	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/dalvik
+74223007d3b92225fbe279af4c24d69b2c9a8e1f	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/dalvik
+962f896e1eeb159a6a2ac7a560708939cbb15575	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/dalvik
+ba7e99a13ccb03611781cfec2631303cc042c76a	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/dalvik
+ba7e99a13ccb03611781cfec2631303cc042c76a	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/dalvik
+1daf86bdb630efa96147220019e1a97c853ed3d2	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/dalvik
+e9503ef8c460f4818062ecc80a9e0b4f8c6745b8	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/dalvik
+e9503ef8c460f4818062ecc80a9e0b4f8c6745b8	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/dalvik
+81058aaf92c188cc20273edd0275329fc304aca2	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/dalvik
+81058aaf92c188cc20273edd0275329fc304aca2	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/dalvik
+81058aaf92c188cc20273edd0275329fc304aca2	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/dalvik
+81058aaf92c188cc20273edd0275329fc304aca2	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/dalvik
+81058aaf92c188cc20273edd0275329fc304aca2	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/dalvik
+81058aaf92c188cc20273edd0275329fc304aca2	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/dalvik
+81058aaf92c188cc20273edd0275329fc304aca2	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/dalvik
+81058aaf92c188cc20273edd0275329fc304aca2	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/dalvik
+e9503ef8c460f4818062ecc80a9e0b4f8c6745b8	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/dalvik
+3931f79801b67577bf8ac12d0b3fb5b4aeaaf766	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/dalvik
+3931f79801b67577bf8ac12d0b3fb5b4aeaaf766	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/dalvik
+3931f79801b67577bf8ac12d0b3fb5b4aeaaf766	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/dalvik
+3931f79801b67577bf8ac12d0b3fb5b4aeaaf766	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/dalvik
+2840018283247d7e757abd091c9546020a6edf6b	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/dalvik
+491db49234ae5e0be9555e6bb777a5a50fba73ba	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/dalvik
+d0d351b2ef726ff1b76a3efb4aad91e4d1436f6a	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/dalvik
+d0d351b2ef726ff1b76a3efb4aad91e4d1436f6a	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/dalvik
+3931f79801b67577bf8ac12d0b3fb5b4aeaaf766	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/dalvik
+a18e6d135a869f9c62f9ec8bac8b9e78d92c697f	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/dalvik
+a18e6d135a869f9c62f9ec8bac8b9e78d92c697f	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/dalvik
+a18e6d135a869f9c62f9ec8bac8b9e78d92c697f	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/dalvik
+3931f79801b67577bf8ac12d0b3fb5b4aeaaf766	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/dalvik

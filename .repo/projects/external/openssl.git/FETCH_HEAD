@@ -1,0 +1,64 @@
+6220364bd536ac36c8424efbf62854795e97158b		branch 'donut-release' of https://android.googlesource.com/platform/external/openssl
+6220364bd536ac36c8424efbf62854795e97158b		branch 'donut-release2' of https://android.googlesource.com/platform/external/openssl
+cbcd2652d419478b440ae473310e7c149ca96919		branch 'eclair-passion-release' of https://android.googlesource.com/platform/external/openssl
+cbcd2652d419478b440ae473310e7c149ca96919		branch 'eclair-release' of https://android.googlesource.com/platform/external/openssl
+cbcd2652d419478b440ae473310e7c149ca96919		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/external/openssl
+cbcd2652d419478b440ae473310e7c149ca96919		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/external/openssl
+5a7d71beb4546d6d0b6950ff6f0207d18ebff4e2		branch 'froyo' of https://android.googlesource.com/platform/external/openssl
+144c2bcf3f876ca48fa1e650b8f16294e83ae34b		branch 'froyo-release' of https://android.googlesource.com/platform/external/openssl
+f07bf9fa6a96c0039e832242569c8e6fc40c9a94		branch 'gingerbread' of https://android.googlesource.com/platform/external/openssl
+f07bf9fa6a96c0039e832242569c8e6fc40c9a94		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/openssl
+f07bf9fa6a96c0039e832242569c8e6fc40c9a94		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/openssl
+ee7afb3c942c4eefef6ed06201eafaf8ec58e2e3		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/openssl
+ee7afb3c942c4eefef6ed06201eafaf8ec58e2e3		branch 'ics-mr0' of https://android.googlesource.com/platform/external/openssl
+ee7afb3c942c4eefef6ed06201eafaf8ec58e2e3		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/openssl
+ce96fb211b9a44bbd7fb5ef7ed0e6c1244045c2e		branch 'ics-mr1' of https://android.googlesource.com/platform/external/openssl
+ce96fb211b9a44bbd7fb5ef7ed0e6c1244045c2e		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/openssl
+ce96fb211b9a44bbd7fb5ef7ed0e6c1244045c2e		branch 'master' of https://android.googlesource.com/platform/external/openssl
+6220364bd536ac36c8424efbf62854795e97158b	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/external/openssl
+6220364bd536ac36c8424efbf62854795e97158b	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/external/openssl
+6220364bd536ac36c8424efbf62854795e97158b	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/external/openssl
+6220364bd536ac36c8424efbf62854795e97158b	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/external/openssl
+6220364bd536ac36c8424efbf62854795e97158b	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/external/openssl
+6220364bd536ac36c8424efbf62854795e97158b	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/external/openssl
+6220364bd536ac36c8424efbf62854795e97158b	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/external/openssl
+cbcd2652d419478b440ae473310e7c149ca96919	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/external/openssl
+cbcd2652d419478b440ae473310e7c149ca96919	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/external/openssl
+cbcd2652d419478b440ae473310e7c149ca96919	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/external/openssl
+cbcd2652d419478b440ae473310e7c149ca96919	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/external/openssl
+cbcd2652d419478b440ae473310e7c149ca96919	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/external/openssl
+cbcd2652d419478b440ae473310e7c149ca96919	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/external/openssl
+cbcd2652d419478b440ae473310e7c149ca96919	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/external/openssl
+144c2bcf3f876ca48fa1e650b8f16294e83ae34b	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/external/openssl
+144c2bcf3f876ca48fa1e650b8f16294e83ae34b	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/external/openssl
+144c2bcf3f876ca48fa1e650b8f16294e83ae34b	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/external/openssl
+144c2bcf3f876ca48fa1e650b8f16294e83ae34b	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/external/openssl
+144c2bcf3f876ca48fa1e650b8f16294e83ae34b	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/external/openssl
+17b28b5cb203f468cfcc308dedb754a5a91e0be5	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/external/openssl
+17b28b5cb203f468cfcc308dedb754a5a91e0be5	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/external/openssl
+17b28b5cb203f468cfcc308dedb754a5a91e0be5	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/external/openssl
+d0dd5d9b8f7f1a0e3e15eb4e6257c3efa96f399c	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/external/openssl
+3202b6410d800fe24990ab43e28206622b2b90a9	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/openssl
+3202b6410d800fe24990ab43e28206622b2b90a9	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/openssl
+1537fcb001c4f666893aa2bdeed7880e9c6a83b2	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/openssl
+1537fcb001c4f666893aa2bdeed7880e9c6a83b2	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/openssl
+f07bf9fa6a96c0039e832242569c8e6fc40c9a94	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/openssl
+f07bf9fa6a96c0039e832242569c8e6fc40c9a94	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/openssl
+f07bf9fa6a96c0039e832242569c8e6fc40c9a94	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/openssl
+f07bf9fa6a96c0039e832242569c8e6fc40c9a94	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/openssl
+f07bf9fa6a96c0039e832242569c8e6fc40c9a94	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/openssl
+f07bf9fa6a96c0039e832242569c8e6fc40c9a94	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/openssl
+3202b6410d800fe24990ab43e28206622b2b90a9	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/openssl
+ee7afb3c942c4eefef6ed06201eafaf8ec58e2e3	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/openssl
+ee7afb3c942c4eefef6ed06201eafaf8ec58e2e3	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/openssl
+ee7afb3c942c4eefef6ed06201eafaf8ec58e2e3	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/openssl
+ee7afb3c942c4eefef6ed06201eafaf8ec58e2e3	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/openssl
+ce96fb211b9a44bbd7fb5ef7ed0e6c1244045c2e	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/openssl
+5a7d71beb4546d6d0b6950ff6f0207d18ebff4e2	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/external/openssl
+f07bf9fa6a96c0039e832242569c8e6fc40c9a94	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/openssl
+f07bf9fa6a96c0039e832242569c8e6fc40c9a94	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/openssl
+ee7afb3c942c4eefef6ed06201eafaf8ec58e2e3	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/openssl
+ce96fb211b9a44bbd7fb5ef7ed0e6c1244045c2e	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/openssl
+ce96fb211b9a44bbd7fb5ef7ed0e6c1244045c2e	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/openssl
+ce96fb211b9a44bbd7fb5ef7ed0e6c1244045c2e	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/openssl
+ee7afb3c942c4eefef6ed06201eafaf8ec58e2e3	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/openssl

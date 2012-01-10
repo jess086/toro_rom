@@ -1,0 +1,16 @@
+7f57f931c5d2ab32731d8525a0f4eaa04dcaa8cc		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+0bb5454945320db77ff426baf9c0c34631c373ab		branch 'ics-mr0' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+e9b004ee68df50ef3450ca7a1d0c7db680075eb7		branch 'ics-mr0-release' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+82a05e51a21a093bab579f8af8b4b8bec0542f90		branch 'ics-mr1' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+06f7eae2a4eeb30fea78fce0e176635952646075		branch 'ics-mr1-release' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+e1d6fcd8ea172e239ef7397feeb0a393aad93556		branch 'master' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+7f57f931c5d2ab32731d8525a0f4eaa04dcaa8cc	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+7f57f931c5d2ab32731d8525a0f4eaa04dcaa8cc	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+7f57f931c5d2ab32731d8525a0f4eaa04dcaa8cc	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+e9b004ee68df50ef3450ca7a1d0c7db680075eb7	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+06f7eae2a4eeb30fea78fce0e176635952646075	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+0bb5454945320db77ff426baf9c0c34631c373ab	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+82a05e51a21a093bab579f8af8b4b8bec0542f90	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+82a05e51a21a093bab579f8af8b4b8bec0542f90	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+449e98a958753e6ae8f16b923596af0c6783ff8a	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/hardware/ti/omap4xxx
+0bb5454945320db77ff426baf9c0c34631c373ab	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/hardware/ti/omap4xxx

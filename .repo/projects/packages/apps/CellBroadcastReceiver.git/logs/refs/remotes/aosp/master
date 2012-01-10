@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 f88de2b37383f138b3c7d876bdc3b6b6fae7b728 jess <jess@jess-086.(none)> 1326164641 -0800	fetch /home/jess/toro_rom/.repo/projects/packages/apps/CellBroadcastReceiver.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+f88de2b37383f138b3c7d876bdc3b6b6fae7b728 7d9eb85f0510f13f352077418c15b051ef39b892 jess <jess@jess-086.(none)> 1326164643 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

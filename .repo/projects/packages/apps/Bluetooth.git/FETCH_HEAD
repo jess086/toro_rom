@@ -1,0 +1,55 @@
+da4092baa3ea8ec719f374f9567cc07cdfe48c55		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+da4092baa3ea8ec719f374f9567cc07cdfe48c55		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+3238ec15a6e28571bcab5d89974eb00c8dba76c1		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+da4092baa3ea8ec719f374f9567cc07cdfe48c55		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+bf992c5b8417c41779e6cb5890b65949dc3353bf		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+480d3b1324d58432d7c9da914debfaca3e8529c9		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+6d48feaaff63b14adc23e7b2d82854189a456f15		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+6d48feaaff63b14adc23e7b2d82854189a456f15		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+6d48feaaff63b14adc23e7b2d82854189a456f15		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+90dbb7ad4c2f720d34cf35bdd9f5638a95cc84fa		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+d4fd0eca9db6939853db49b06c22cf999c31deee		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+d4fd0eca9db6939853db49b06c22cf999c31deee		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+0ac98162ff293fdaa23f93f9839aaad5428af537		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+87fdba54e2af861b4325b24cc08a2403d7024f5f		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+19417befca4aa6b3d55b6d23103b75ee54ff6e89		branch 'master' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+3238ec15a6e28571bcab5d89974eb00c8dba76c1	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+5b61241c90be1a30d18fe6da116edc16d0ea1b1e	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+da4092baa3ea8ec719f374f9567cc07cdfe48c55	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+da4092baa3ea8ec719f374f9567cc07cdfe48c55	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+da4092baa3ea8ec719f374f9567cc07cdfe48c55	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+da4092baa3ea8ec719f374f9567cc07cdfe48c55	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+da4092baa3ea8ec719f374f9567cc07cdfe48c55	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+480d3b1324d58432d7c9da914debfaca3e8529c9	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+480d3b1324d58432d7c9da914debfaca3e8529c9	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+480d3b1324d58432d7c9da914debfaca3e8529c9	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+480d3b1324d58432d7c9da914debfaca3e8529c9	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+480d3b1324d58432d7c9da914debfaca3e8529c9	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+2b72fec02d9094b1fc43694046f44ce511328f86	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+2b72fec02d9094b1fc43694046f44ce511328f86	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+2b72fec02d9094b1fc43694046f44ce511328f86	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+2b72fec02d9094b1fc43694046f44ce511328f86	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+2acef5dec3faa043fc433f4f7f22a3e002d89bd0	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+2acef5dec3faa043fc433f4f7f22a3e002d89bd0	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+d67d40591c19d2c146dca5fbf91d76d1e7c2ab82	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+d67d40591c19d2c146dca5fbf91d76d1e7c2ab82	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+ada94283cbb98320b4db9d8bac9a4d1b452fc90d	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+ada94283cbb98320b4db9d8bac9a4d1b452fc90d	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+6d48feaaff63b14adc23e7b2d82854189a456f15	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+6d48feaaff63b14adc23e7b2d82854189a456f15	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+6d48feaaff63b14adc23e7b2d82854189a456f15	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+6d48feaaff63b14adc23e7b2d82854189a456f15	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+2acef5dec3faa043fc433f4f7f22a3e002d89bd0	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+90dbb7ad4c2f720d34cf35bdd9f5638a95cc84fa	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+90dbb7ad4c2f720d34cf35bdd9f5638a95cc84fa	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+90dbb7ad4c2f720d34cf35bdd9f5638a95cc84fa	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+d4fd0eca9db6939853db49b06c22cf999c31deee	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+87fdba54e2af861b4325b24cc08a2403d7024f5f	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+bf992c5b8417c41779e6cb5890b65949dc3353bf	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+6d48feaaff63b14adc23e7b2d82854189a456f15	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+6d48feaaff63b14adc23e7b2d82854189a456f15	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+d4fd0eca9db6939853db49b06c22cf999c31deee	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+0ac98162ff293fdaa23f93f9839aaad5428af537	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+0ac98162ff293fdaa23f93f9839aaad5428af537	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+0ac98162ff293fdaa23f93f9839aaad5428af537	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Bluetooth
+d4fd0eca9db6939853db49b06c22cf999c31deee	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Bluetooth

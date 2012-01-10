@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 99d7b444a1914fb61b222ecae49c6823072510b7 jess <jess@jess-086.(none)> 1326161693 -0800	fetch /home/jess/toro_rom/.repo/projects/device/samsung/tuna.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+99d7b444a1914fb61b222ecae49c6823072510b7 cf903c0eaa7273e8b31cb57eb346a103219470b4 jess <jess@jess-086.(none)> 1326162210 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

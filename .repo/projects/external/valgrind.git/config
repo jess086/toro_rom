@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/external/valgrind
+	projectname = platform/external/valgrind
+	fetch = +refs/heads/*:refs/remotes/aosp/*

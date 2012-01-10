@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/external/safe-iop
+	projectname = platform/external/safe-iop
+	fetch = +refs/heads/*:refs/remotes/aosp/*

@@ -1,0 +1,64 @@
+fda848cde04cfd40ec1be93b30752008f7eb2396		branch 'donut-release' of https://android.googlesource.com/platform/external/skia
+fda848cde04cfd40ec1be93b30752008f7eb2396		branch 'donut-release2' of https://android.googlesource.com/platform/external/skia
+e4c504a1b99d639525192d79b33fe9acc521682e		branch 'eclair-passion-release' of https://android.googlesource.com/platform/external/skia
+e4c504a1b99d639525192d79b33fe9acc521682e		branch 'eclair-release' of https://android.googlesource.com/platform/external/skia
+aebcdb4a467406f04e20d9478e678b5357b0a8e2		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/external/skia
+e4c504a1b99d639525192d79b33fe9acc521682e		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/external/skia
+f393f015a3bd0709645b8f464ee41c82fc7624e2		branch 'froyo' of https://android.googlesource.com/platform/external/skia
+f393f015a3bd0709645b8f464ee41c82fc7624e2		branch 'froyo-release' of https://android.googlesource.com/platform/external/skia
+b4f070ed646ef1cbb92c3eaaa073640e30954873		branch 'gingerbread' of https://android.googlesource.com/platform/external/skia
+b4f070ed646ef1cbb92c3eaaa073640e30954873		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/skia
+b4f070ed646ef1cbb92c3eaaa073640e30954873		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/skia
+643e66b71286d7b1f6fdb9c64f45b185d0700398		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/skia
+643e66b71286d7b1f6fdb9c64f45b185d0700398		branch 'ics-mr0' of https://android.googlesource.com/platform/external/skia
+6497ae7b2a3b8ff6e2832789b3927e03c800b585		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/skia
+717c009190af219a2f9e248d6fa13ad71cfdb0b1		branch 'ics-mr1' of https://android.googlesource.com/platform/external/skia
+5c67a309e16bffe7013defda8f1217b3ce2420b4		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/skia
+d7176fd5571bc9878d3cdac8696eaa35ec170d9d		branch 'master' of https://android.googlesource.com/platform/external/skia
+fda848cde04cfd40ec1be93b30752008f7eb2396	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/external/skia
+fda848cde04cfd40ec1be93b30752008f7eb2396	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/external/skia
+fda848cde04cfd40ec1be93b30752008f7eb2396	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/external/skia
+fda848cde04cfd40ec1be93b30752008f7eb2396	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/external/skia
+fda848cde04cfd40ec1be93b30752008f7eb2396	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/external/skia
+fda848cde04cfd40ec1be93b30752008f7eb2396	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/external/skia
+fda848cde04cfd40ec1be93b30752008f7eb2396	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/external/skia
+aebcdb4a467406f04e20d9478e678b5357b0a8e2	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/external/skia
+ea8eb95a903dda7b277cdbc97523688b9857963b	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/external/skia
+f6422563280a45dbee99f03a4f23da4cdd4ba910	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/external/skia
+e4c504a1b99d639525192d79b33fe9acc521682e	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/external/skia
+e4c504a1b99d639525192d79b33fe9acc521682e	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/external/skia
+e4c504a1b99d639525192d79b33fe9acc521682e	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/external/skia
+e4c504a1b99d639525192d79b33fe9acc521682e	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/external/skia
+f393f015a3bd0709645b8f464ee41c82fc7624e2	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/external/skia
+f393f015a3bd0709645b8f464ee41c82fc7624e2	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/external/skia
+f393f015a3bd0709645b8f464ee41c82fc7624e2	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/external/skia
+f393f015a3bd0709645b8f464ee41c82fc7624e2	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/external/skia
+f393f015a3bd0709645b8f464ee41c82fc7624e2	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/external/skia
+f393f015a3bd0709645b8f464ee41c82fc7624e2	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/external/skia
+f393f015a3bd0709645b8f464ee41c82fc7624e2	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/external/skia
+f393f015a3bd0709645b8f464ee41c82fc7624e2	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/external/skia
+f393f015a3bd0709645b8f464ee41c82fc7624e2	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/external/skia
+956f20cebc0d9c7a1c59dc18a556b7aaff22b39c	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/skia
+956f20cebc0d9c7a1c59dc18a556b7aaff22b39c	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/skia
+b4f070ed646ef1cbb92c3eaaa073640e30954873	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/skia
+b4f070ed646ef1cbb92c3eaaa073640e30954873	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/skia
+b4f070ed646ef1cbb92c3eaaa073640e30954873	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/skia
+b4f070ed646ef1cbb92c3eaaa073640e30954873	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/skia
+b4f070ed646ef1cbb92c3eaaa073640e30954873	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/skia
+b4f070ed646ef1cbb92c3eaaa073640e30954873	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/skia
+b4f070ed646ef1cbb92c3eaaa073640e30954873	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/skia
+b4f070ed646ef1cbb92c3eaaa073640e30954873	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/skia
+956f20cebc0d9c7a1c59dc18a556b7aaff22b39c	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/skia
+643e66b71286d7b1f6fdb9c64f45b185d0700398	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/skia
+643e66b71286d7b1f6fdb9c64f45b185d0700398	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/skia
+643e66b71286d7b1f6fdb9c64f45b185d0700398	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/skia
+6497ae7b2a3b8ff6e2832789b3927e03c800b585	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/skia
+5c67a309e16bffe7013defda8f1217b3ce2420b4	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/skia
+f393f015a3bd0709645b8f464ee41c82fc7624e2	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/external/skia
+b4f070ed646ef1cbb92c3eaaa073640e30954873	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/skia
+b4f070ed646ef1cbb92c3eaaa073640e30954873	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/skia
+643e66b71286d7b1f6fdb9c64f45b185d0700398	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/skia
+717c009190af219a2f9e248d6fa13ad71cfdb0b1	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/skia
+717c009190af219a2f9e248d6fa13ad71cfdb0b1	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/skia
+717c009190af219a2f9e248d6fa13ad71cfdb0b1	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/skia
+643e66b71286d7b1f6fdb9c64f45b185d0700398	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/skia

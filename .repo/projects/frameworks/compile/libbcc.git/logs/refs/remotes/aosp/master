@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 df1bc78e24cf2b6a71f2b3809ffb46521e5521a8 jess <jess@jess-086.(none)> 1326162742 -0800	fetch /home/jess/toro_rom/.repo/projects/frameworks/compile/libbcc.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+df1bc78e24cf2b6a71f2b3809ffb46521e5521a8 eb4509bf00a5d3be4caaa8f1b6a062a2d0311e9a jess <jess@jess-086.(none)> 1326162745 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

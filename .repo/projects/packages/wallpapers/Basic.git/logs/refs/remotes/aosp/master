@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 5954763d61edb93da19bc812c5c1e2fc27f5a887 jess <jess@jess-086.(none)> 1326164900 -0800	fetch /home/jess/toro_rom/.repo/projects/packages/wallpapers/Basic.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+5954763d61edb93da19bc812c5c1e2fc27f5a887 225e410f054c4ad5c828b0fec9be1b47c4376711 jess <jess@jess-086.(none)> 1326164903 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

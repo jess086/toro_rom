@@ -1,0 +1,16 @@
+df1bc78e24cf2b6a71f2b3809ffb46521e5521a8		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+df1bc78e24cf2b6a71f2b3809ffb46521e5521a8		branch 'ics-mr0' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+df1bc78e24cf2b6a71f2b3809ffb46521e5521a8		branch 'ics-mr0-release' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+0164f4647511a71f5b495a3bef156e3ac4e6c6b3		branch 'ics-mr1' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+31e50d678d2a8aa28c6f38cccebfa3da2f78df4a		branch 'ics-mr1-release' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+eb4509bf00a5d3be4caaa8f1b6a062a2d0311e9a		branch 'master' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+df1bc78e24cf2b6a71f2b3809ffb46521e5521a8	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+df1bc78e24cf2b6a71f2b3809ffb46521e5521a8	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+df1bc78e24cf2b6a71f2b3809ffb46521e5521a8	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+df1bc78e24cf2b6a71f2b3809ffb46521e5521a8	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+31e50d678d2a8aa28c6f38cccebfa3da2f78df4a	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+df1bc78e24cf2b6a71f2b3809ffb46521e5521a8	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+0164f4647511a71f5b495a3bef156e3ac4e6c6b3	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+0164f4647511a71f5b495a3bef156e3ac4e6c6b3	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+0164f4647511a71f5b495a3bef156e3ac4e6c6b3	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/compile/libbcc
+df1bc78e24cf2b6a71f2b3809ffb46521e5521a8	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/frameworks/compile/libbcc

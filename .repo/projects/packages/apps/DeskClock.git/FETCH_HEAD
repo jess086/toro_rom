@@ -1,0 +1,54 @@
+6ecdeccc244e4a9763e99bf052a21231e1c89dff		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/DeskClock
+6ecdeccc244e4a9763e99bf052a21231e1c89dff		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/DeskClock
+5a2aa6783837954c496f49e3e08b3c57a626e326		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/DeskClock
+6ecdeccc244e4a9763e99bf052a21231e1c89dff		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/DeskClock
+529ffc1c601d7387d69826692aed01add4e7271e		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/DeskClock
+60c5f2e30601a88e9b77ac897223de28ed187592		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/DeskClock
+1ed367c40df8a2ce2268527e182bbb73af07f217		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/DeskClock
+8e1921f8140f205c115582e4a068c7ba5e79ff9c		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/DeskClock
+8e1921f8140f205c115582e4a068c7ba5e79ff9c		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/DeskClock
+1278f2c89b7c4de2238e751ef078641da08e1b46		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/DeskClock
+f6bbdb3bbb796f35e19850b370e8ce018a1beb22		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/DeskClock
+f6bbdb3bbb796f35e19850b370e8ce018a1beb22		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/DeskClock
+9ecb98e6055600264c82d47f5858784d6771b802		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+4330fe56114324550fbf56ec8902069f466da38f		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/DeskClock
+6e066ea4d449175040e2b4db861dbf54034ee38a		branch 'master' of https://android.googlesource.com/platform/packages/apps/DeskClock
+5a2aa6783837954c496f49e3e08b3c57a626e326	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+3d4de660d654fee760cf96f609198489e4d6525d	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+6ecdeccc244e4a9763e99bf052a21231e1c89dff	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/DeskClock
+6ecdeccc244e4a9763e99bf052a21231e1c89dff	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/DeskClock
+6ecdeccc244e4a9763e99bf052a21231e1c89dff	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/DeskClock
+6ecdeccc244e4a9763e99bf052a21231e1c89dff	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/DeskClock
+60c5f2e30601a88e9b77ac897223de28ed187592	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+60c5f2e30601a88e9b77ac897223de28ed187592	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/DeskClock
+60c5f2e30601a88e9b77ac897223de28ed187592	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+60c5f2e30601a88e9b77ac897223de28ed187592	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+60c5f2e30601a88e9b77ac897223de28ed187592	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/DeskClock
+60c5f2e30601a88e9b77ac897223de28ed187592	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+60c5f2e30601a88e9b77ac897223de28ed187592	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+60c5f2e30601a88e9b77ac897223de28ed187592	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/DeskClock
+60c5f2e30601a88e9b77ac897223de28ed187592	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/DeskClock
+3b2b8e183116d4a66acf0ed1c7db917950dc36bc	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+3b2b8e183116d4a66acf0ed1c7db917950dc36bc	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+ebe867ce7f9e39e4e7f74a0e9beb6e5965aa6649	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+acd8fb54d704a069b2334aceb9d4d8b73f905c92	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+5ff420d285f09100c788fb0bb1e6d19e9e849cc0	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/DeskClock
+5ff420d285f09100c788fb0bb1e6d19e9e849cc0	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+8e1921f8140f205c115582e4a068c7ba5e79ff9c	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+8e1921f8140f205c115582e4a068c7ba5e79ff9c	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/DeskClock
+8e1921f8140f205c115582e4a068c7ba5e79ff9c	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+8e1921f8140f205c115582e4a068c7ba5e79ff9c	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+3b2b8e183116d4a66acf0ed1c7db917950dc36bc	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+1278f2c89b7c4de2238e751ef078641da08e1b46	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+1278f2c89b7c4de2238e751ef078641da08e1b46	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+1278f2c89b7c4de2238e751ef078641da08e1b46	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/DeskClock
+f6bbdb3bbb796f35e19850b370e8ce018a1beb22	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+4330fe56114324550fbf56ec8902069f466da38f	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+529ffc1c601d7387d69826692aed01add4e7271e	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/DeskClock
+1ed367c40df8a2ce2268527e182bbb73af07f217	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/DeskClock
+1ed367c40df8a2ce2268527e182bbb73af07f217	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/DeskClock
+f6bbdb3bbb796f35e19850b370e8ce018a1beb22	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+9ecb98e6055600264c82d47f5858784d6771b802	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+9ecb98e6055600264c82d47f5858784d6771b802	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+9ecb98e6055600264c82d47f5858784d6771b802	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/DeskClock
+f6bbdb3bbb796f35e19850b370e8ce018a1beb22	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/DeskClock

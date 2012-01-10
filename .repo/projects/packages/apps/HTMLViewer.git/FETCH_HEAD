@@ -1,0 +1,64 @@
+f9eaab90806775e2f83753289ea8e9665fd65d47		branch 'donut-release' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+7cfc4c43805f03586f6349854f8ed1a02a2f00d1		branch 'donut-release2' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+c9458a1b7b9607f2938ef04bb42df84395510b66		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+c9458a1b7b9607f2938ef04bb42df84395510b66		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+64ceedcb59dcc324f03424198af7727832d32518		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+c9458a1b7b9607f2938ef04bb42df84395510b66		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+09599d4862289c36586b8fbeb0fb31d40c80ac19		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+ac919ab19d7854c170def87aeb3b98aa2455bb33		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+3a6928aa5628e88304283f2e361d74f3edba8015		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+f470146b74d34c21e4d3526574e2bbd0e72a57f0		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+f470146b74d34c21e4d3526574e2bbd0e72a57f0		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+94d7e982124753e00d05a0bee4df20dcabafb839		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+94d7e982124753e00d05a0bee4df20dcabafb839		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+94d7e982124753e00d05a0bee4df20dcabafb839		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+4230220ef8be426d69bb1a3f0f7a012793ce0d27		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+4230220ef8be426d69bb1a3f0f7a012793ce0d27		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+4230220ef8be426d69bb1a3f0f7a012793ce0d27		branch 'master' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+7cfc4c43805f03586f6349854f8ed1a02a2f00d1	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+7cfc4c43805f03586f6349854f8ed1a02a2f00d1	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+7cfc4c43805f03586f6349854f8ed1a02a2f00d1	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+7cfc4c43805f03586f6349854f8ed1a02a2f00d1	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+7cfc4c43805f03586f6349854f8ed1a02a2f00d1	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+7cfc4c43805f03586f6349854f8ed1a02a2f00d1	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+f9eaab90806775e2f83753289ea8e9665fd65d47	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+64ceedcb59dcc324f03424198af7727832d32518	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+64ceedcb59dcc324f03424198af7727832d32518	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+c9458a1b7b9607f2938ef04bb42df84395510b66	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+c9458a1b7b9607f2938ef04bb42df84395510b66	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+c9458a1b7b9607f2938ef04bb42df84395510b66	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+c9458a1b7b9607f2938ef04bb42df84395510b66	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+c9458a1b7b9607f2938ef04bb42df84395510b66	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+ac919ab19d7854c170def87aeb3b98aa2455bb33	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+ac919ab19d7854c170def87aeb3b98aa2455bb33	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+ac919ab19d7854c170def87aeb3b98aa2455bb33	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+ac919ab19d7854c170def87aeb3b98aa2455bb33	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+ac919ab19d7854c170def87aeb3b98aa2455bb33	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+ac919ab19d7854c170def87aeb3b98aa2455bb33	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+ac919ab19d7854c170def87aeb3b98aa2455bb33	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+ac919ab19d7854c170def87aeb3b98aa2455bb33	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+ac919ab19d7854c170def87aeb3b98aa2455bb33	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+4a52a6e550253c5e2648141fdec7918094a50dcc	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+4a52a6e550253c5e2648141fdec7918094a50dcc	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+79753f3bee4b17087936543e899dc2af9a3d04b9	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+d29649fa7413d992be4dc8ea0b736b114fc63ea9	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+f470146b74d34c21e4d3526574e2bbd0e72a57f0	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+f470146b74d34c21e4d3526574e2bbd0e72a57f0	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+f470146b74d34c21e4d3526574e2bbd0e72a57f0	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+f470146b74d34c21e4d3526574e2bbd0e72a57f0	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+f470146b74d34c21e4d3526574e2bbd0e72a57f0	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+f470146b74d34c21e4d3526574e2bbd0e72a57f0	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+4a52a6e550253c5e2648141fdec7918094a50dcc	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+94d7e982124753e00d05a0bee4df20dcabafb839	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+94d7e982124753e00d05a0bee4df20dcabafb839	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+94d7e982124753e00d05a0bee4df20dcabafb839	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+94d7e982124753e00d05a0bee4df20dcabafb839	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+4230220ef8be426d69bb1a3f0f7a012793ce0d27	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+09599d4862289c36586b8fbeb0fb31d40c80ac19	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+3a6928aa5628e88304283f2e361d74f3edba8015	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+3a6928aa5628e88304283f2e361d74f3edba8015	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+94d7e982124753e00d05a0bee4df20dcabafb839	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+4230220ef8be426d69bb1a3f0f7a012793ce0d27	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+4230220ef8be426d69bb1a3f0f7a012793ce0d27	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+4230220ef8be426d69bb1a3f0f7a012793ce0d27	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer
+94d7e982124753e00d05a0bee4df20dcabafb839	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/HTMLViewer

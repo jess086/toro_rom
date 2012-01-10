@@ -1,0 +1,54 @@
+ebd8b7dd77b015e10b7ed3a45ba6903e48127d48		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+ebd8b7dd77b015e10b7ed3a45ba6903e48127d48		branch 'eclair-release' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+7ce3ba55b65ec533328bf21f43ceaf16be21f2d4		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+ebd8b7dd77b015e10b7ed3a45ba6903e48127d48		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+19d66c1c422f71b06dbea1827372592432c816b8		branch 'froyo' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+19d66c1c422f71b06dbea1827372592432c816b8		branch 'froyo-release' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+c114657db62c84b3b10c4e7d879d90ca5fc81d20		branch 'gingerbread' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+c114657db62c84b3b10c4e7d879d90ca5fc81d20		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+c114657db62c84b3b10c4e7d879d90ca5fc81d20		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+dec52c7db31bdab5fcc5b7676c167638fe99bb92		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+dec52c7db31bdab5fcc5b7676c167638fe99bb92		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+dec52c7db31bdab5fcc5b7676c167638fe99bb92		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+ad8535ee889d92348da3faa63dcd5ea097952dd9		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+ad8535ee889d92348da3faa63dcd5ea097952dd9		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+ad8535ee889d92348da3faa63dcd5ea097952dd9		branch 'master' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+7ce3ba55b65ec533328bf21f43ceaf16be21f2d4	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+bec218167e80177e9f026cda83b86916a0d2e641	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+ebd8b7dd77b015e10b7ed3a45ba6903e48127d48	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+ebd8b7dd77b015e10b7ed3a45ba6903e48127d48	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+ebd8b7dd77b015e10b7ed3a45ba6903e48127d48	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+ebd8b7dd77b015e10b7ed3a45ba6903e48127d48	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+19d66c1c422f71b06dbea1827372592432c816b8	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+19d66c1c422f71b06dbea1827372592432c816b8	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+19d66c1c422f71b06dbea1827372592432c816b8	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+19d66c1c422f71b06dbea1827372592432c816b8	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+19d66c1c422f71b06dbea1827372592432c816b8	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+19d66c1c422f71b06dbea1827372592432c816b8	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+19d66c1c422f71b06dbea1827372592432c816b8	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+19d66c1c422f71b06dbea1827372592432c816b8	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+19d66c1c422f71b06dbea1827372592432c816b8	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+a06011d73f2ebe5a1276b568b1619ad6389b24f4	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+a06011d73f2ebe5a1276b568b1619ad6389b24f4	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+8903aebecc4717f2b19ad7583b16684f25177a0b	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+8903aebecc4717f2b19ad7583b16684f25177a0b	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+c114657db62c84b3b10c4e7d879d90ca5fc81d20	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+c114657db62c84b3b10c4e7d879d90ca5fc81d20	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+c114657db62c84b3b10c4e7d879d90ca5fc81d20	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+c114657db62c84b3b10c4e7d879d90ca5fc81d20	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+c114657db62c84b3b10c4e7d879d90ca5fc81d20	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+c114657db62c84b3b10c4e7d879d90ca5fc81d20	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+a06011d73f2ebe5a1276b568b1619ad6389b24f4	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+dec52c7db31bdab5fcc5b7676c167638fe99bb92	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+dec52c7db31bdab5fcc5b7676c167638fe99bb92	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+dec52c7db31bdab5fcc5b7676c167638fe99bb92	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+dec52c7db31bdab5fcc5b7676c167638fe99bb92	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+ad8535ee889d92348da3faa63dcd5ea097952dd9	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+19d66c1c422f71b06dbea1827372592432c816b8	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+c114657db62c84b3b10c4e7d879d90ca5fc81d20	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+c114657db62c84b3b10c4e7d879d90ca5fc81d20	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+dec52c7db31bdab5fcc5b7676c167638fe99bb92	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+ad8535ee889d92348da3faa63dcd5ea097952dd9	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+ad8535ee889d92348da3faa63dcd5ea097952dd9	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+ad8535ee889d92348da3faa63dcd5ea097952dd9	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+dec52c7db31bdab5fcc5b7676c167638fe99bb92	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/wallpapers/LivePicker

@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/packages/apps/HTMLViewer
+	projectname = platform/packages/apps/HTMLViewer
+	fetch = +refs/heads/*:refs/remotes/aosp/*

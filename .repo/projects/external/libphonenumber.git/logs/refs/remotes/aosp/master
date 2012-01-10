@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 1940212be2ff2ac5bf7d91eabbdb34e10d9b8e2e jess <jess@jess-086.(none)> 1326162449 -0800	fetch /home/jess/toro_rom/.repo/projects/external/libphonenumber.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+1940212be2ff2ac5bf7d91eabbdb34e10d9b8e2e d470984844c388d6766c3de6ac64e93e00480fc9 jess <jess@jess-086.(none)> 1326162451 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

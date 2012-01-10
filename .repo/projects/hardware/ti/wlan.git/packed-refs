@@ -1,0 +1,71 @@
+# pack-refs with: peeled 
+c19b5fbf869d50b2637e19802ef8bc683dc6e586 refs/remotes/aosp/eclair-passion-release
+c19b5fbf869d50b2637e19802ef8bc683dc6e586 refs/remotes/aosp/eclair-release
+c19b5fbf869d50b2637e19802ef8bc683dc6e586 refs/remotes/aosp/eclair-sholes-release
+c19b5fbf869d50b2637e19802ef8bc683dc6e586 refs/remotes/aosp/eclair-sholes-release2
+4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90 refs/remotes/aosp/froyo
+4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90 refs/remotes/aosp/froyo-release
+b2108e34759a48a52752e188fbff5a201d45c6b1 refs/remotes/aosp/gingerbread
+b2108e34759a48a52752e188fbff5a201d45c6b1 refs/remotes/aosp/gingerbread-mr4-release
+b2108e34759a48a52752e188fbff5a201d45c6b1 refs/remotes/aosp/gingerbread-release
+4adf0a82f66de9379c5e37d5dd0831a70cb6f236 refs/remotes/aosp/master
+624d357d56b2ef87b876c502d02879afb84539c1 refs/tags/android-2.0.1_r1
+^c19b5fbf869d50b2637e19802ef8bc683dc6e586
+6797b5b9cc8a33897e58cbf169e2a3fe39c59e04 refs/tags/android-2.0_r1
+^c19b5fbf869d50b2637e19802ef8bc683dc6e586
+db18be4634e6847bd06d03efa349810c77b3ed6a refs/tags/android-2.1_r1
+^c19b5fbf869d50b2637e19802ef8bc683dc6e586
+cd5afc76b42988044cd540d6ddb35b97710c9140 refs/tags/android-2.1_r2
+^c19b5fbf869d50b2637e19802ef8bc683dc6e586
+7406ce5630465b05f0dd6ca2ffe513bceed71149 refs/tags/android-2.1_r2.1p
+^c19b5fbf869d50b2637e19802ef8bc683dc6e586
+223771be072838e3ecf584d727af13c6c7f29c16 refs/tags/android-2.1_r2.1p2
+^c19b5fbf869d50b2637e19802ef8bc683dc6e586
+4a7e30c361d1fe9eabb236b89b14b7d93d66c86d refs/tags/android-2.1_r2.1s
+^c19b5fbf869d50b2637e19802ef8bc683dc6e586
+4d797232628d1ec4e4a7189da5eec169c6412b8e refs/tags/android-2.2.1_r1
+^4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90
+b8369ffd1407085d8a5030a6bff61608d5678031 refs/tags/android-2.2.1_r2
+^4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90
+4dcd0ac2c5146369411c67b235241ef2b3b19252 refs/tags/android-2.2.2_r1
+^4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90
+b1902993cc66ebef4f28ec888b607b48ab81a4af refs/tags/android-2.2.3_r1
+^4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90
+7023cf0cf4a9bbfe49a410830010a53302b4177f refs/tags/android-2.2.3_r2
+^4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90
+de457559c9815422e0831e899b49d30157bbcee6 refs/tags/android-2.2_r1
+^4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90
+c3372ecacde846b43597317f143e711d125dd488 refs/tags/android-2.2_r1.1
+^4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90
+fbe1d256270cd60732491c71661d641827c4b6e3 refs/tags/android-2.2_r1.2
+^4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90
+ef442a4537c594612977c7a86e8a71f7510022ce refs/tags/android-2.2_r1.3
+^4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90
+c23aa180c810ecbc12469f1c12cdf0e8ef032886 refs/tags/android-2.3.1_r1
+^b2108e34759a48a52752e188fbff5a201d45c6b1
+546c50859c06fdba351686d77df72b96b359ea77 refs/tags/android-2.3.2_r1
+^b2108e34759a48a52752e188fbff5a201d45c6b1
+7795ce5d87e2ccaabf3140abb6ed752c04857de5 refs/tags/android-2.3.3_r1
+^b2108e34759a48a52752e188fbff5a201d45c6b1
+96c5d053653b091c8324665bcb568e9c87a5e4d4 refs/tags/android-2.3.3_r1.1
+^b2108e34759a48a52752e188fbff5a201d45c6b1
+3fadee99051b664745274d7f0da373c157895320 refs/tags/android-2.3.4_r0.9
+^b2108e34759a48a52752e188fbff5a201d45c6b1
+87ea71ac0f370286c6a4c16491a06de159501793 refs/tags/android-2.3.4_r1
+^b2108e34759a48a52752e188fbff5a201d45c6b1
+210206b8612c73cd8a90172c11009f7a5127e8c7 refs/tags/android-2.3.5_r1
+^b2108e34759a48a52752e188fbff5a201d45c6b1
+8ac7fb3265811c68b25c6bde72502a00eb4f22df refs/tags/android-2.3.6_r0.9
+^b2108e34759a48a52752e188fbff5a201d45c6b1
+f205fdbd836059970675323863452ab68f8810e8 refs/tags/android-2.3.6_r1
+^b2108e34759a48a52752e188fbff5a201d45c6b1
+22fbc51b6850e588dbf086175998d8a262424551 refs/tags/android-2.3.7_r1
+^b2108e34759a48a52752e188fbff5a201d45c6b1
+0fb2633b45c868854c8f1738125d6eb26fa8b5b0 refs/tags/android-2.3_r1
+^b2108e34759a48a52752e188fbff5a201d45c6b1
+8fc84a2a9aab8d3aa1262ffae96368678148fe35 refs/tags/android-cts-2.2_r8
+^4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90
+5bdf5354ce2c4ec50a46cb20d253debc83d826d4 refs/tags/android-cts-2.3_r10
+^b2108e34759a48a52752e188fbff5a201d45c6b1
+6b7a27caf97117f683309e7f6f4ca0fccb61fe2c refs/tags/android-cts-2.3_r11
+^b2108e34759a48a52752e188fbff5a201d45c6b1

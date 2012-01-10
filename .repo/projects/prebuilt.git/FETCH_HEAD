@@ -1,0 +1,64 @@
+f816627d538c97035eaa40ebb3005f6a5849e471		branch 'donut-release' of https://android.googlesource.com/platform/prebuilt
+16f30689dd498791bec0be74e3513252479c4778		branch 'donut-release2' of https://android.googlesource.com/platform/prebuilt
+e6182dace831cd16875269e67187a1eb42c7b2e1		branch 'eclair-passion-release' of https://android.googlesource.com/platform/prebuilt
+cdf1c2ee1671c78614df7bb8e17cc48dd01e5e46		branch 'eclair-release' of https://android.googlesource.com/platform/prebuilt
+06b921bbac9351e641cb16bc9b64ea2b893bd4eb		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/prebuilt
+cdf1c2ee1671c78614df7bb8e17cc48dd01e5e46		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/prebuilt
+63acf005e2798631da9bee5b893b971d4252cab2		branch 'froyo' of https://android.googlesource.com/platform/prebuilt
+d4f4703a1b23e6a73becec455c3d561ae3829a65		branch 'froyo-release' of https://android.googlesource.com/platform/prebuilt
+686f8657e88ebc8259863f8212c3a02c060c52ce		branch 'gingerbread' of https://android.googlesource.com/platform/prebuilt
+6b399f3609ac871310e9e51ff76393be605c6088		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/prebuilt
+6b399f3609ac871310e9e51ff76393be605c6088		branch 'gingerbread-release' of https://android.googlesource.com/platform/prebuilt
+367f94c2760cdf7797f36e2658968401328bf598		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/prebuilt
+ffb4c7a2309dd37821f831ed6b545acbfe83401d		branch 'ics-mr0' of https://android.googlesource.com/platform/prebuilt
+ffb4c7a2309dd37821f831ed6b545acbfe83401d		branch 'ics-mr0-release' of https://android.googlesource.com/platform/prebuilt
+02ec58d06bc3c2f44550f454e2e56932459870b7		branch 'ics-mr1' of https://android.googlesource.com/platform/prebuilt
+02ec58d06bc3c2f44550f454e2e56932459870b7		branch 'ics-mr1-release' of https://android.googlesource.com/platform/prebuilt
+23c063935d615296d0b6442c9678e0133087f08e		branch 'master' of https://android.googlesource.com/platform/prebuilt
+16f30689dd498791bec0be74e3513252479c4778	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/prebuilt
+16f30689dd498791bec0be74e3513252479c4778	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/prebuilt
+16f30689dd498791bec0be74e3513252479c4778	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/prebuilt
+16f30689dd498791bec0be74e3513252479c4778	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/prebuilt
+16f30689dd498791bec0be74e3513252479c4778	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/prebuilt
+16f30689dd498791bec0be74e3513252479c4778	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/prebuilt
+f816627d538c97035eaa40ebb3005f6a5849e471	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/prebuilt
+06b921bbac9351e641cb16bc9b64ea2b893bd4eb	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/prebuilt
+06b921bbac9351e641cb16bc9b64ea2b893bd4eb	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/prebuilt
+cdf1c2ee1671c78614df7bb8e17cc48dd01e5e46	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/prebuilt
+cdf1c2ee1671c78614df7bb8e17cc48dd01e5e46	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/prebuilt
+e6182dace831cd16875269e67187a1eb42c7b2e1	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/prebuilt
+e6182dace831cd16875269e67187a1eb42c7b2e1	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/prebuilt
+cdf1c2ee1671c78614df7bb8e17cc48dd01e5e46	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/prebuilt
+d4f4703a1b23e6a73becec455c3d561ae3829a65	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/prebuilt
+d4f4703a1b23e6a73becec455c3d561ae3829a65	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/prebuilt
+d4f4703a1b23e6a73becec455c3d561ae3829a65	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/prebuilt
+d4f4703a1b23e6a73becec455c3d561ae3829a65	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/prebuilt
+d4f4703a1b23e6a73becec455c3d561ae3829a65	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/prebuilt
+d4f4703a1b23e6a73becec455c3d561ae3829a65	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/prebuilt
+d4f4703a1b23e6a73becec455c3d561ae3829a65	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/prebuilt
+d4f4703a1b23e6a73becec455c3d561ae3829a65	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/prebuilt
+d4f4703a1b23e6a73becec455c3d561ae3829a65	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/prebuilt
+6bc5a485e655b10111aa15afb96fa4de381d8952	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/prebuilt
+6bc5a485e655b10111aa15afb96fa4de381d8952	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/prebuilt
+0164413492bb15231feacd9be08c32e27979aeab	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/prebuilt
+0164413492bb15231feacd9be08c32e27979aeab	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/prebuilt
+671c1cd3e5c89891cadd615e53484df904ac1810	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/prebuilt
+671c1cd3e5c89891cadd615e53484df904ac1810	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/prebuilt
+6b399f3609ac871310e9e51ff76393be605c6088	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/prebuilt
+6b399f3609ac871310e9e51ff76393be605c6088	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/prebuilt
+6b399f3609ac871310e9e51ff76393be605c6088	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/prebuilt
+6b399f3609ac871310e9e51ff76393be605c6088	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/prebuilt
+6bc5a485e655b10111aa15afb96fa4de381d8952	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/prebuilt
+367f94c2760cdf7797f36e2658968401328bf598	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/prebuilt
+367f94c2760cdf7797f36e2658968401328bf598	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/prebuilt
+367f94c2760cdf7797f36e2658968401328bf598	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/prebuilt
+ffb4c7a2309dd37821f831ed6b545acbfe83401d	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/prebuilt
+02ec58d06bc3c2f44550f454e2e56932459870b7	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/prebuilt
+63acf005e2798631da9bee5b893b971d4252cab2	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/prebuilt
+686f8657e88ebc8259863f8212c3a02c060c52ce	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/prebuilt
+686f8657e88ebc8259863f8212c3a02c060c52ce	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/prebuilt
+ffb4c7a2309dd37821f831ed6b545acbfe83401d	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/prebuilt
+02ec58d06bc3c2f44550f454e2e56932459870b7	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/prebuilt
+02ec58d06bc3c2f44550f454e2e56932459870b7	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/prebuilt
+02ec58d06bc3c2f44550f454e2e56932459870b7	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/prebuilt
+ffb4c7a2309dd37821f831ed6b545acbfe83401d	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/prebuilt

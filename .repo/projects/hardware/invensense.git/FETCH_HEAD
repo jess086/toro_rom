@@ -1,0 +1,16 @@
+76c7c028ba3f0eeb17b7cf4709883ace0ffc83c5		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/hardware/invensense
+76c7c028ba3f0eeb17b7cf4709883ace0ffc83c5		branch 'ics-mr0' of https://android.googlesource.com/platform/hardware/invensense
+76c7c028ba3f0eeb17b7cf4709883ace0ffc83c5		branch 'ics-mr0-release' of https://android.googlesource.com/platform/hardware/invensense
+425eccbf15c25c32cf073595d25ff50e51570c1b		branch 'ics-mr1' of https://android.googlesource.com/platform/hardware/invensense
+425eccbf15c25c32cf073595d25ff50e51570c1b		branch 'ics-mr1-release' of https://android.googlesource.com/platform/hardware/invensense
+425eccbf15c25c32cf073595d25ff50e51570c1b		branch 'master' of https://android.googlesource.com/platform/hardware/invensense
+76c7c028ba3f0eeb17b7cf4709883ace0ffc83c5	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/hardware/invensense
+76c7c028ba3f0eeb17b7cf4709883ace0ffc83c5	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/hardware/invensense
+76c7c028ba3f0eeb17b7cf4709883ace0ffc83c5	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/hardware/invensense
+76c7c028ba3f0eeb17b7cf4709883ace0ffc83c5	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/hardware/invensense
+425eccbf15c25c32cf073595d25ff50e51570c1b	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/hardware/invensense
+76c7c028ba3f0eeb17b7cf4709883ace0ffc83c5	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/hardware/invensense
+425eccbf15c25c32cf073595d25ff50e51570c1b	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/hardware/invensense
+425eccbf15c25c32cf073595d25ff50e51570c1b	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/hardware/invensense
+425eccbf15c25c32cf073595d25ff50e51570c1b	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/hardware/invensense
+76c7c028ba3f0eeb17b7cf4709883ace0ffc83c5	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/hardware/invensense

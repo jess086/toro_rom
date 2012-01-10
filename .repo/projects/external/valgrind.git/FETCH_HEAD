@@ -1,0 +1,16 @@
+b85221e16a87238eb9d89776e19bc5c07d09efee		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/valgrind
+5679ae9f0535ef52ba2a8c055562374997f40afa		branch 'ics-mr0' of https://android.googlesource.com/platform/external/valgrind
+5679ae9f0535ef52ba2a8c055562374997f40afa		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/valgrind
+5679ae9f0535ef52ba2a8c055562374997f40afa		branch 'ics-mr1' of https://android.googlesource.com/platform/external/valgrind
+5679ae9f0535ef52ba2a8c055562374997f40afa		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/valgrind
+5679ae9f0535ef52ba2a8c055562374997f40afa		branch 'master' of https://android.googlesource.com/platform/external/valgrind
+b85221e16a87238eb9d89776e19bc5c07d09efee	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/valgrind
+b85221e16a87238eb9d89776e19bc5c07d09efee	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/valgrind
+b85221e16a87238eb9d89776e19bc5c07d09efee	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/valgrind
+5679ae9f0535ef52ba2a8c055562374997f40afa	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/valgrind
+5679ae9f0535ef52ba2a8c055562374997f40afa	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/valgrind
+5679ae9f0535ef52ba2a8c055562374997f40afa	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/valgrind
+5679ae9f0535ef52ba2a8c055562374997f40afa	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/valgrind
+5679ae9f0535ef52ba2a8c055562374997f40afa	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/valgrind
+5679ae9f0535ef52ba2a8c055562374997f40afa	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/valgrind
+5679ae9f0535ef52ba2a8c055562374997f40afa	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/valgrind

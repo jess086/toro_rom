@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 6cda7b6249c05ebcaebeb86badf957ec0f04e4ad jess <jess@jess-086.(none)> 1326160620 -0800	fetch /home/jess/toro_rom/.repo/projects/bionic.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+6cda7b6249c05ebcaebeb86badf957ec0f04e4ad 2c222c49066e46208ea5ed75141978a5c3974d10 jess <jess@jess-086.(none)> 1326160628 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

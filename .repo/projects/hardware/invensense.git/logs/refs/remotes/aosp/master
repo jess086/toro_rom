@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 76c7c028ba3f0eeb17b7cf4709883ace0ffc83c5 jess <jess@jess-086.(none)> 1326162784 -0800	fetch /home/jess/toro_rom/.repo/projects/hardware/invensense.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+76c7c028ba3f0eeb17b7cf4709883ace0ffc83c5 425eccbf15c25c32cf073595d25ff50e51570c1b jess <jess@jess-086.(none)> 1326162788 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

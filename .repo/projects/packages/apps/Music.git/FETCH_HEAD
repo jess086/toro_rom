@@ -1,0 +1,64 @@
+aae2791ffdd8923d99242f2cf453eb66116fd6b6		branch 'donut-release' of https://android.googlesource.com/platform/packages/apps/Music
+5d9c780e7d44e39caa48dc06df7ba76e1386b246		branch 'donut-release2' of https://android.googlesource.com/platform/packages/apps/Music
+3193d7dda28d5c31b318b024db4df40b949071d5		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/Music
+3193d7dda28d5c31b318b024db4df40b949071d5		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/Music
+2f70aeeb516899a276a55432b02d989304e93a08		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/Music
+3193d7dda28d5c31b318b024db4df40b949071d5		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/Music
+2d30c9fb816e42ab6ea1b1fc31e2092196036ee2		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/Music
+a541b7efcda277aef79895bc8a3778f9d11a6039		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/Music
+278aaed1eb37763f7dcb2364523db591014a9210		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Music
+278aaed1eb37763f7dcb2364523db591014a9210		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Music
+278aaed1eb37763f7dcb2364523db591014a9210		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Music
+f94f62f09690ab4151aa8a97a41ec4cfd578e6d9		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Music
+0c491c219022bd82b6dcc912bb08a27288b6d7e7		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Music
+0c491c219022bd82b6dcc912bb08a27288b6d7e7		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Music
+7aa6b3f025bfab50ab510690490bd9d5a91fe8e8		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Music
+7aa6b3f025bfab50ab510690490bd9d5a91fe8e8		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Music
+7aa6b3f025bfab50ab510690490bd9d5a91fe8e8		branch 'master' of https://android.googlesource.com/platform/packages/apps/Music
+5d9c780e7d44e39caa48dc06df7ba76e1386b246	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/apps/Music
+5d9c780e7d44e39caa48dc06df7ba76e1386b246	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/apps/Music
+5d9c780e7d44e39caa48dc06df7ba76e1386b246	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/apps/Music
+5d9c780e7d44e39caa48dc06df7ba76e1386b246	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/apps/Music
+5d9c780e7d44e39caa48dc06df7ba76e1386b246	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/apps/Music
+5d9c780e7d44e39caa48dc06df7ba76e1386b246	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/apps/Music
+aae2791ffdd8923d99242f2cf453eb66116fd6b6	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/apps/Music
+2f70aeeb516899a276a55432b02d989304e93a08	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Music
+6a470f06a781b99a1656e14879459db110cef078	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/Music
+3193d7dda28d5c31b318b024db4df40b949071d5	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/Music
+3193d7dda28d5c31b318b024db4df40b949071d5	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/Music
+3193d7dda28d5c31b318b024db4df40b949071d5	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/Music
+3193d7dda28d5c31b318b024db4df40b949071d5	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/Music
+3193d7dda28d5c31b318b024db4df40b949071d5	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/Music
+a541b7efcda277aef79895bc8a3778f9d11a6039	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/Music
+a541b7efcda277aef79895bc8a3778f9d11a6039	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/Music
+a541b7efcda277aef79895bc8a3778f9d11a6039	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/Music
+a541b7efcda277aef79895bc8a3778f9d11a6039	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/Music
+a541b7efcda277aef79895bc8a3778f9d11a6039	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/Music
+a541b7efcda277aef79895bc8a3778f9d11a6039	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/Music
+a541b7efcda277aef79895bc8a3778f9d11a6039	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/Music
+a541b7efcda277aef79895bc8a3778f9d11a6039	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/Music
+a541b7efcda277aef79895bc8a3778f9d11a6039	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/Music
+355e134c59525cdd5a5ca8db434ff9ccbb81fa2a	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Music
+355e134c59525cdd5a5ca8db434ff9ccbb81fa2a	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Music
+1f27480cc21061fc4b5288027332024b1dffb245	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Music
+1f27480cc21061fc4b5288027332024b1dffb245	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Music
+2607e99e3c892f5fd03cdec2500ade289dbd76e6	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Music
+2607e99e3c892f5fd03cdec2500ade289dbd76e6	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Music
+278aaed1eb37763f7dcb2364523db591014a9210	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Music
+278aaed1eb37763f7dcb2364523db591014a9210	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Music
+278aaed1eb37763f7dcb2364523db591014a9210	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Music
+278aaed1eb37763f7dcb2364523db591014a9210	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Music
+355e134c59525cdd5a5ca8db434ff9ccbb81fa2a	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Music
+f94f62f09690ab4151aa8a97a41ec4cfd578e6d9	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Music
+f94f62f09690ab4151aa8a97a41ec4cfd578e6d9	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Music
+f94f62f09690ab4151aa8a97a41ec4cfd578e6d9	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Music
+0c491c219022bd82b6dcc912bb08a27288b6d7e7	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Music
+7aa6b3f025bfab50ab510690490bd9d5a91fe8e8	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Music
+2d30c9fb816e42ab6ea1b1fc31e2092196036ee2	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/Music
+278aaed1eb37763f7dcb2364523db591014a9210	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Music
+278aaed1eb37763f7dcb2364523db591014a9210	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Music
+0c491c219022bd82b6dcc912bb08a27288b6d7e7	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Music
+7aa6b3f025bfab50ab510690490bd9d5a91fe8e8	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Music
+7aa6b3f025bfab50ab510690490bd9d5a91fe8e8	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Music
+7aa6b3f025bfab50ab510690490bd9d5a91fe8e8	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Music
+0c491c219022bd82b6dcc912bb08a27288b6d7e7	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Music

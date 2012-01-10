@@ -1,0 +1,16 @@
+ac3a333cbe5321ffa95df77f9fb15efda2bba755		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+ac3a333cbe5321ffa95df77f9fb15efda2bba755		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+ac3a333cbe5321ffa95df77f9fb15efda2bba755		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+333cb5dda25c588977aee080cbff9c3686a33f97		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+327ab724daf1ce8f4c683297bf448b3d754e3e3f		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+ed26bc9e23445ecae006a3f06171ef50587db964		branch 'master' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+ac3a333cbe5321ffa95df77f9fb15efda2bba755	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+ac3a333cbe5321ffa95df77f9fb15efda2bba755	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+ac3a333cbe5321ffa95df77f9fb15efda2bba755	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+ac3a333cbe5321ffa95df77f9fb15efda2bba755	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+327ab724daf1ce8f4c683297bf448b3d754e3e3f	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+ac3a333cbe5321ffa95df77f9fb15efda2bba755	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+333cb5dda25c588977aee080cbff9c3686a33f97	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+333cb5dda25c588977aee080cbff9c3686a33f97	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+333cb5dda25c588977aee080cbff9c3686a33f97	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/VideoEditor
+ac3a333cbe5321ffa95df77f9fb15efda2bba755	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/VideoEditor

@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 a05957a18becc7de2ecb1b911182b69881a64c28 jess <jess@jess-086.(none)> 1326164801 -0800	fetch /home/jess/toro_rom/.repo/projects/packages/apps/SoundRecorder.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+a05957a18becc7de2ecb1b911182b69881a64c28 530601ade214315a241528540d7e98ac92c9d4e2 jess <jess@jess-086.(none)> 1326164806 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

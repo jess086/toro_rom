@@ -1,0 +1,44 @@
+20d835c4b499d40504b08f58435d5b9de48ffddf		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/Protips
+2f2fb0b81ade8c9513670e0c0d4ef5ede3f125b3		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/Protips
+782dd9a8629e5debab2b5388cd2c04e8a7333301		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Protips
+a853d2b914144dd1f2ff3f03170f67d74338815d		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Protips
+a853d2b914144dd1f2ff3f03170f67d74338815d		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Protips
+62f5cb3518c8cd26ee6472b3873c700f967ad348		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Protips
+62f5cb3518c8cd26ee6472b3873c700f967ad348		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Protips
+62f5cb3518c8cd26ee6472b3873c700f967ad348		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Protips
+635bfe91eb8cb158a193bd8987a29d8b72f227b9		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Protips
+635bfe91eb8cb158a193bd8987a29d8b72f227b9		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Protips
+635bfe91eb8cb158a193bd8987a29d8b72f227b9		branch 'master' of https://android.googlesource.com/platform/packages/apps/Protips
+2f2fb0b81ade8c9513670e0c0d4ef5ede3f125b3	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+2f2fb0b81ade8c9513670e0c0d4ef5ede3f125b3	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/Protips
+2f2fb0b81ade8c9513670e0c0d4ef5ede3f125b3	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+2f2fb0b81ade8c9513670e0c0d4ef5ede3f125b3	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+2f2fb0b81ade8c9513670e0c0d4ef5ede3f125b3	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/Protips
+2f2fb0b81ade8c9513670e0c0d4ef5ede3f125b3	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+2f2fb0b81ade8c9513670e0c0d4ef5ede3f125b3	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/Protips
+2f2fb0b81ade8c9513670e0c0d4ef5ede3f125b3	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/Protips
+2f2fb0b81ade8c9513670e0c0d4ef5ede3f125b3	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/Protips
+eb6d07f30a21a323f3ef2832ded74fb5946f5965	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+eb6d07f30a21a323f3ef2832ded74fb5946f5965	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+2fce3264ee56f9fff28dccb9ea908a58c5308ff3	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+d354c89b7dc716a6e2eaaeb6df12ca9019c80fc4	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Protips
+a853d2b914144dd1f2ff3f03170f67d74338815d	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Protips
+a853d2b914144dd1f2ff3f03170f67d74338815d	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+a853d2b914144dd1f2ff3f03170f67d74338815d	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+a853d2b914144dd1f2ff3f03170f67d74338815d	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Protips
+a853d2b914144dd1f2ff3f03170f67d74338815d	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+a853d2b914144dd1f2ff3f03170f67d74338815d	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+eb6d07f30a21a323f3ef2832ded74fb5946f5965	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+62f5cb3518c8cd26ee6472b3873c700f967ad348	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+62f5cb3518c8cd26ee6472b3873c700f967ad348	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Protips
+62f5cb3518c8cd26ee6472b3873c700f967ad348	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Protips
+62f5cb3518c8cd26ee6472b3873c700f967ad348	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+635bfe91eb8cb158a193bd8987a29d8b72f227b9	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+20d835c4b499d40504b08f58435d5b9de48ffddf	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/Protips
+782dd9a8629e5debab2b5388cd2c04e8a7333301	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Protips
+782dd9a8629e5debab2b5388cd2c04e8a7333301	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Protips
+62f5cb3518c8cd26ee6472b3873c700f967ad348	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+635bfe91eb8cb158a193bd8987a29d8b72f227b9	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+635bfe91eb8cb158a193bd8987a29d8b72f227b9	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+635bfe91eb8cb158a193bd8987a29d8b72f227b9	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Protips
+62f5cb3518c8cd26ee6472b3873c700f967ad348	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Protips

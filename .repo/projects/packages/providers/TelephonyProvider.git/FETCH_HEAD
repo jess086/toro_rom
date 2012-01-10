@@ -1,0 +1,64 @@
+99c080327f660ec4dd4d7de47983cd585db667aa		branch 'donut-release' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+d93bc17ac34fe99145915ad40acce0229ca1c9c9		branch 'donut-release2' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+1ecf192c60625c5227336430ee36705c13ae06e2		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+1ecf192c60625c5227336430ee36705c13ae06e2		branch 'eclair-release' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+1ecf192c60625c5227336430ee36705c13ae06e2		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+1ecf192c60625c5227336430ee36705c13ae06e2		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+14595cbe9045755a5aa2bd28989c147c4709268c		branch 'froyo' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+14595cbe9045755a5aa2bd28989c147c4709268c		branch 'froyo-release' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+61eecbcb0560318e6e924ee9b5ef31a70219bd00		branch 'gingerbread' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+6a5c080b90613c5afef04d453ab1498d22aee0a9		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+6a5c080b90613c5afef04d453ab1498d22aee0a9		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+0506adaaf27fb951284300ae6e62325a05333a07		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+0506adaaf27fb951284300ae6e62325a05333a07		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+0506adaaf27fb951284300ae6e62325a05333a07		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+09710cec4926bcd3708376face04507e661bcc02		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+09710cec4926bcd3708376face04507e661bcc02		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+09710cec4926bcd3708376face04507e661bcc02		branch 'master' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+d93bc17ac34fe99145915ad40acce0229ca1c9c9	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+d93bc17ac34fe99145915ad40acce0229ca1c9c9	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+d93bc17ac34fe99145915ad40acce0229ca1c9c9	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+d93bc17ac34fe99145915ad40acce0229ca1c9c9	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+d93bc17ac34fe99145915ad40acce0229ca1c9c9	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+d93bc17ac34fe99145915ad40acce0229ca1c9c9	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+99c080327f660ec4dd4d7de47983cd585db667aa	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+1ecf192c60625c5227336430ee36705c13ae06e2	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+ed0b8ba72d3c238b3866f7b9ff29693cd3ef915d	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+1ecf192c60625c5227336430ee36705c13ae06e2	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+1ecf192c60625c5227336430ee36705c13ae06e2	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+1ecf192c60625c5227336430ee36705c13ae06e2	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+1ecf192c60625c5227336430ee36705c13ae06e2	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+1ecf192c60625c5227336430ee36705c13ae06e2	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+14595cbe9045755a5aa2bd28989c147c4709268c	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+14595cbe9045755a5aa2bd28989c147c4709268c	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+14595cbe9045755a5aa2bd28989c147c4709268c	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+14595cbe9045755a5aa2bd28989c147c4709268c	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+14595cbe9045755a5aa2bd28989c147c4709268c	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+14595cbe9045755a5aa2bd28989c147c4709268c	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+14595cbe9045755a5aa2bd28989c147c4709268c	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+14595cbe9045755a5aa2bd28989c147c4709268c	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+14595cbe9045755a5aa2bd28989c147c4709268c	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+4a76cbeb7f402b66ee7129163f0a0f7949c4e2b3	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+34ebc780dae4f6ffa0e99df602951d44260226f9	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+6476ea5d925e6bc1ff9d914556de8f01c5d1e1ec	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+6476ea5d925e6bc1ff9d914556de8f01c5d1e1ec	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+5fd423e325208b23141f338e6d6502a5d517b877	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+5fd423e325208b23141f338e6d6502a5d517b877	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+6a5c080b90613c5afef04d453ab1498d22aee0a9	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+6a5c080b90613c5afef04d453ab1498d22aee0a9	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+6a5c080b90613c5afef04d453ab1498d22aee0a9	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+6a5c080b90613c5afef04d453ab1498d22aee0a9	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+4a76cbeb7f402b66ee7129163f0a0f7949c4e2b3	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+0506adaaf27fb951284300ae6e62325a05333a07	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+0506adaaf27fb951284300ae6e62325a05333a07	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+0506adaaf27fb951284300ae6e62325a05333a07	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+0506adaaf27fb951284300ae6e62325a05333a07	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+09710cec4926bcd3708376face04507e661bcc02	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+14595cbe9045755a5aa2bd28989c147c4709268c	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+61eecbcb0560318e6e924ee9b5ef31a70219bd00	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+61eecbcb0560318e6e924ee9b5ef31a70219bd00	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+0506adaaf27fb951284300ae6e62325a05333a07	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+09710cec4926bcd3708376face04507e661bcc02	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+09710cec4926bcd3708376face04507e661bcc02	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+09710cec4926bcd3708376face04507e661bcc02	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider
+0506adaaf27fb951284300ae6e62325a05333a07	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/providers/TelephonyProvider

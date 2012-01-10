@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 bd147430f139105e1f6e15a50e8d0b18876d9905 jess <jess@jess-086.(none)> 1326160614 -0800	fetch /home/jess/toro_rom/.repo/projects/device/common.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+bd147430f139105e1f6e15a50e8d0b18876d9905 28b7cc7e41f9521a2e9e3b197ed2f750acc4cc15 jess <jess@jess-086.(none)> 1326160617 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/external/tagsoup
+	projectname = platform/external/tagsoup
+	fetch = +refs/heads/*:refs/remotes/aosp/*

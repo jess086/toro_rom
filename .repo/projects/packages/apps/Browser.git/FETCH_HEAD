@@ -1,0 +1,64 @@
+e9a1fd9aed4fde777f98728fe503a6aa94d5acc5		branch 'donut-release' of https://android.googlesource.com/platform/packages/apps/Browser
+b8a9cb0e2b3b2a1bb250853a79b8ea2046ff3d6e		branch 'donut-release2' of https://android.googlesource.com/platform/packages/apps/Browser
+3d3c198547122e52708140dc2ed10e1d4d8358da		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/Browser
+3d3c198547122e52708140dc2ed10e1d4d8358da		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/Browser
+64278482f4df3591de4068b23307820f5e4aa930		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/Browser
+3d3c198547122e52708140dc2ed10e1d4d8358da		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/Browser
+4c0ecab3c423c8d736d4509d3424bb4910856929		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/Browser
+c6d4ae78fe270eee4713d94eb92e4d0e4cb08d20		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/Browser
+096bae248453abe83cbb2e5a2c744bd62cdb620b		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Browser
+7b6955578d914557eea7ff3cbcec70e953970092		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Browser
+7b6955578d914557eea7ff3cbcec70e953970092		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Browser
+b8ce86358b5fe6d1af6feaeab51da63c5ad0669b		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Browser
+e9d96b1a58d9e5a53be8fd0c680adeff3616e1c7		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Browser
+27d306516302da9a7fe8eeaea77927f154ef4bd2		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Browser
+1e43249af8df208486d890fc86ae45ab39045221		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Browser
+f12f31cac71350fa5d2025d2ca4f829ce687797d		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Browser
+c40c9c23bc3098307d8fd7524933724a1b8e29d5		branch 'master' of https://android.googlesource.com/platform/packages/apps/Browser
+b8a9cb0e2b3b2a1bb250853a79b8ea2046ff3d6e	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+b8a9cb0e2b3b2a1bb250853a79b8ea2046ff3d6e	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/apps/Browser
+b8a9cb0e2b3b2a1bb250853a79b8ea2046ff3d6e	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/apps/Browser
+b8a9cb0e2b3b2a1bb250853a79b8ea2046ff3d6e	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/apps/Browser
+b8a9cb0e2b3b2a1bb250853a79b8ea2046ff3d6e	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/apps/Browser
+b8a9cb0e2b3b2a1bb250853a79b8ea2046ff3d6e	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/apps/Browser
+e9a1fd9aed4fde777f98728fe503a6aa94d5acc5	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/apps/Browser
+64278482f4df3591de4068b23307820f5e4aa930	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+490be2c2672de706174b2d9cbf867951910427cb	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+9c1d7d017787b73bf4737465fbaf07a07c0f545e	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+3d3c198547122e52708140dc2ed10e1d4d8358da	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/Browser
+3d3c198547122e52708140dc2ed10e1d4d8358da	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/Browser
+3d3c198547122e52708140dc2ed10e1d4d8358da	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/Browser
+3d3c198547122e52708140dc2ed10e1d4d8358da	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/Browser
+6b9d3515d6915306caf36bd9d0e401580ec89c26	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+6b9d3515d6915306caf36bd9d0e401580ec89c26	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/Browser
+6b9d3515d6915306caf36bd9d0e401580ec89c26	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+c6d4ae78fe270eee4713d94eb92e4d0e4cb08d20	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+c6d4ae78fe270eee4713d94eb92e4d0e4cb08d20	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/Browser
+c1bdc4e936b2e487b341839bcc1595c3d1f2fa12	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+c1bdc4e936b2e487b341839bcc1595c3d1f2fa12	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/Browser
+c1bdc4e936b2e487b341839bcc1595c3d1f2fa12	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/Browser
+c1bdc4e936b2e487b341839bcc1595c3d1f2fa12	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/Browser
+6f7e7b3143274582b9b28542c2325bde0885edfb	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+6f7e7b3143274582b9b28542c2325bde0885edfb	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+5c9dde07d60f72f1955146db64039740bf3068e2	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+134857d9f2bc5b1a3e9d8739436c047d0877a3ff	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Browser
+f8d780c897ff9ca20f83ce94a92ae05c79f9e2d3	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Browser
+f8d780c897ff9ca20f83ce94a92ae05c79f9e2d3	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+7b6955578d914557eea7ff3cbcec70e953970092	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+7b6955578d914557eea7ff3cbcec70e953970092	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Browser
+7b6955578d914557eea7ff3cbcec70e953970092	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+7b6955578d914557eea7ff3cbcec70e953970092	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+6f7e7b3143274582b9b28542c2325bde0885edfb	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+b8ce86358b5fe6d1af6feaeab51da63c5ad0669b	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+b8ce86358b5fe6d1af6feaeab51da63c5ad0669b	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Browser
+b8ce86358b5fe6d1af6feaeab51da63c5ad0669b	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Browser
+27d306516302da9a7fe8eeaea77927f154ef4bd2	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+f12f31cac71350fa5d2025d2ca4f829ce687797d	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+4c0ecab3c423c8d736d4509d3424bb4910856929	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/Browser
+096bae248453abe83cbb2e5a2c744bd62cdb620b	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Browser
+096bae248453abe83cbb2e5a2c744bd62cdb620b	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Browser
+e9d96b1a58d9e5a53be8fd0c680adeff3616e1c7	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+1e43249af8df208486d890fc86ae45ab39045221	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+1e43249af8df208486d890fc86ae45ab39045221	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+1e43249af8df208486d890fc86ae45ab39045221	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Browser
+e9d96b1a58d9e5a53be8fd0c680adeff3616e1c7	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Browser

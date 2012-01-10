@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/packages/apps/Launcher2
+	projectname = platform/packages/apps/Launcher2
+	fetch = +refs/heads/*:refs/remotes/aosp/*

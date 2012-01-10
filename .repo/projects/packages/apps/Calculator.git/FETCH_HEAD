@@ -1,0 +1,64 @@
+ef027e278ceb3c44e72253802750c6b975dfc827		branch 'donut-release' of https://android.googlesource.com/platform/packages/apps/Calculator
+95aecbc5737ce74af3f61767a7c2f6bf8a061065		branch 'donut-release2' of https://android.googlesource.com/platform/packages/apps/Calculator
+10892cc17f80e82ce84c00968e37b0665a08f383		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/Calculator
+10892cc17f80e82ce84c00968e37b0665a08f383		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/Calculator
+10892cc17f80e82ce84c00968e37b0665a08f383		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/Calculator
+10892cc17f80e82ce84c00968e37b0665a08f383		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/Calculator
+72b0717b7d8956ada90742947838779b24e323f7		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/Calculator
+72b0717b7d8956ada90742947838779b24e323f7		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/Calculator
+5c85e48a713ec70ebce65ebf1a3622035992f8c3		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Calculator
+5c85e48a713ec70ebce65ebf1a3622035992f8c3		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Calculator
+5c85e48a713ec70ebce65ebf1a3622035992f8c3		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Calculator
+cafabd80ba54204ae01eb574c03cf65e51140975		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Calculator
+957e0738696dda7ebb4a9e664d93337aef90a18c		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Calculator
+957e0738696dda7ebb4a9e664d93337aef90a18c		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Calculator
+74baa51baee48b3f416685c016078c23b9ef2112		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Calculator
+f74ea5e8da0c581d1c3c8f0f0d972b7bf4988292		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Calculator
+f08ebe9e0d54250d656c4a6c245ec0b5335ccae2		branch 'master' of https://android.googlesource.com/platform/packages/apps/Calculator
+95aecbc5737ce74af3f61767a7c2f6bf8a061065	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+95aecbc5737ce74af3f61767a7c2f6bf8a061065	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/apps/Calculator
+95aecbc5737ce74af3f61767a7c2f6bf8a061065	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/apps/Calculator
+95aecbc5737ce74af3f61767a7c2f6bf8a061065	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/apps/Calculator
+95aecbc5737ce74af3f61767a7c2f6bf8a061065	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/apps/Calculator
+95aecbc5737ce74af3f61767a7c2f6bf8a061065	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/apps/Calculator
+ef027e278ceb3c44e72253802750c6b975dfc827	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/apps/Calculator
+10892cc17f80e82ce84c00968e37b0665a08f383	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+10892cc17f80e82ce84c00968e37b0665a08f383	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+10892cc17f80e82ce84c00968e37b0665a08f383	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+10892cc17f80e82ce84c00968e37b0665a08f383	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/Calculator
+10892cc17f80e82ce84c00968e37b0665a08f383	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/Calculator
+10892cc17f80e82ce84c00968e37b0665a08f383	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/Calculator
+10892cc17f80e82ce84c00968e37b0665a08f383	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/Calculator
+72b0717b7d8956ada90742947838779b24e323f7	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+72b0717b7d8956ada90742947838779b24e323f7	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/Calculator
+72b0717b7d8956ada90742947838779b24e323f7	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+72b0717b7d8956ada90742947838779b24e323f7	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+72b0717b7d8956ada90742947838779b24e323f7	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/Calculator
+72b0717b7d8956ada90742947838779b24e323f7	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+72b0717b7d8956ada90742947838779b24e323f7	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/Calculator
+72b0717b7d8956ada90742947838779b24e323f7	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/Calculator
+72b0717b7d8956ada90742947838779b24e323f7	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/Calculator
+c226eb5cf7a5036a4cb7315ad90af87d7127e4eb	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+c226eb5cf7a5036a4cb7315ad90af87d7127e4eb	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+a86dd5f232c39830741f7d699e42e400d6024ac1	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+a86dd5f232c39830741f7d699e42e400d6024ac1	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Calculator
+5c85e48a713ec70ebce65ebf1a3622035992f8c3	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Calculator
+5c85e48a713ec70ebce65ebf1a3622035992f8c3	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+5c85e48a713ec70ebce65ebf1a3622035992f8c3	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+5c85e48a713ec70ebce65ebf1a3622035992f8c3	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Calculator
+5c85e48a713ec70ebce65ebf1a3622035992f8c3	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+5c85e48a713ec70ebce65ebf1a3622035992f8c3	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+c226eb5cf7a5036a4cb7315ad90af87d7127e4eb	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+cafabd80ba54204ae01eb574c03cf65e51140975	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+cafabd80ba54204ae01eb574c03cf65e51140975	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Calculator
+cafabd80ba54204ae01eb574c03cf65e51140975	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Calculator
+957e0738696dda7ebb4a9e664d93337aef90a18c	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+f74ea5e8da0c581d1c3c8f0f0d972b7bf4988292	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+72b0717b7d8956ada90742947838779b24e323f7	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/Calculator
+5c85e48a713ec70ebce65ebf1a3622035992f8c3	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Calculator
+5c85e48a713ec70ebce65ebf1a3622035992f8c3	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Calculator
+957e0738696dda7ebb4a9e664d93337aef90a18c	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+74baa51baee48b3f416685c016078c23b9ef2112	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+74baa51baee48b3f416685c016078c23b9ef2112	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+74baa51baee48b3f416685c016078c23b9ef2112	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Calculator
+957e0738696dda7ebb4a9e664d93337aef90a18c	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Calculator

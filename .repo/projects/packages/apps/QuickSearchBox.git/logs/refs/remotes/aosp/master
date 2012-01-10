@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 7398f92ba7cbb195c627174f9b7e32f7bf36ebe3 jess <jess@jess-086.(none)> 1326164775 -0800	fetch /home/jess/toro_rom/.repo/projects/packages/apps/QuickSearchBox.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+7398f92ba7cbb195c627174f9b7e32f7bf36ebe3 1636ba2f40fe38188840c64978bc1d29008ed27e jess <jess@jess-086.(none)> 1326164797 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

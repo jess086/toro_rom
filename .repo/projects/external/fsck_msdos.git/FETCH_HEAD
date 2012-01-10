@@ -1,0 +1,57 @@
+c8303378f40f96f75c5c353a776fe22e5e6a8fb5		branch 'donut-release' of https://android.googlesource.com/platform/external/fsck_msdos
+dad2c826912595061588bdb499cb47885ab6faaa		branch 'eclair-passion-release' of https://android.googlesource.com/platform/external/fsck_msdos
+dad2c826912595061588bdb499cb47885ab6faaa		branch 'eclair-release' of https://android.googlesource.com/platform/external/fsck_msdos
+dad2c826912595061588bdb499cb47885ab6faaa		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/external/fsck_msdos
+dad2c826912595061588bdb499cb47885ab6faaa		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/external/fsck_msdos
+a6eb0d1794880492a5779fd8e871eb9ceb3e8737		branch 'froyo' of https://android.googlesource.com/platform/external/fsck_msdos
+a6eb0d1794880492a5779fd8e871eb9ceb3e8737		branch 'froyo-release' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d		branch 'gingerbread' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29		branch 'ics-mr0' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29		branch 'ics-mr1' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29		branch 'master' of https://android.googlesource.com/platform/external/fsck_msdos
+c8303378f40f96f75c5c353a776fe22e5e6a8fb5	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/external/fsck_msdos
+dad2c826912595061588bdb499cb47885ab6faaa	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+dad2c826912595061588bdb499cb47885ab6faaa	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+dad2c826912595061588bdb499cb47885ab6faaa	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+dad2c826912595061588bdb499cb47885ab6faaa	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/external/fsck_msdos
+dad2c826912595061588bdb499cb47885ab6faaa	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/external/fsck_msdos
+dad2c826912595061588bdb499cb47885ab6faaa	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/external/fsck_msdos
+dad2c826912595061588bdb499cb47885ab6faaa	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/external/fsck_msdos
+a6eb0d1794880492a5779fd8e871eb9ceb3e8737	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+a6eb0d1794880492a5779fd8e871eb9ceb3e8737	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/external/fsck_msdos
+a6eb0d1794880492a5779fd8e871eb9ceb3e8737	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+a6eb0d1794880492a5779fd8e871eb9ceb3e8737	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+a6eb0d1794880492a5779fd8e871eb9ceb3e8737	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/external/fsck_msdos
+a6eb0d1794880492a5779fd8e871eb9ceb3e8737	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+a6eb0d1794880492a5779fd8e871eb9ceb3e8737	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/external/fsck_msdos
+a6eb0d1794880492a5779fd8e871eb9ceb3e8737	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/external/fsck_msdos
+a6eb0d1794880492a5779fd8e871eb9ceb3e8737	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+a6eb0d1794880492a5779fd8e871eb9ceb3e8737	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/fsck_msdos
+b6ee08aadb580341a4d80943741b80de16a88b5d	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/fsck_msdos
+8af338f520b04f8360a452875b9885374a1b7d29	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/fsck_msdos

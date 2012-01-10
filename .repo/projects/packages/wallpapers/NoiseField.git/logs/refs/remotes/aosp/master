@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 a5fd2012726ae576fe317905ef190a7b3a7e8640 jess <jess@jess-086.(none)> 1326164919 -0800	fetch /home/jess/toro_rom/.repo/projects/packages/wallpapers/NoiseField.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+a5fd2012726ae576fe317905ef190a7b3a7e8640 4154cea31097a003bdceb9e50f4d69e3ec50e223 jess <jess@jess-086.(none)> 1326164921 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

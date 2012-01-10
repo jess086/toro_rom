@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 1e84bd735775ae896c1097f9c47960f3b1d4ea30 jess <jess@jess-086.(none)> 1326160830 -0800	fetch /home/jess/toro_rom/.repo/projects/dalvik.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+1e84bd735775ae896c1097f9c47960f3b1d4ea30 74223007d3b92225fbe279af4c24d69b2c9a8e1f jess <jess@jess-086.(none)> 1326160844 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

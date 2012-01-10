@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/external/jsilver
+	projectname = platform/external/jsilver
+	fetch = +refs/heads/*:refs/remotes/aosp/*

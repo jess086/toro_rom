@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 08956967fb451d8c23f668610f860429661862a8 jess <jess@jess-086.(none)> 1326164748 -0800	fetch /home/jess/toro_rom/.repo/projects/packages/apps/Nfc.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+08956967fb451d8c23f668610f860429661862a8 7948ab633f8b780874c8c25da0fbce2c0a61c1e8 jess <jess@jess-086.(none)> 1326164749 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

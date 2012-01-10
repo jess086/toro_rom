@@ -1,0 +1,33 @@
+75aea4d56afee3242be8d626a1949572f8109418		branch 'gingerbread' of https://android.googlesource.com/platform/libcore
+4c2867b3e1b4065b74259671a0fc93422e0fe21d		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/libcore
+9b4b74f951b8b91c3b95f90c08049240ec83ff96		branch 'gingerbread-release' of https://android.googlesource.com/platform/libcore
+04e25f30524dc7b51f280912d6ca97d991ae84b0		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/libcore
+04e25f30524dc7b51f280912d6ca97d991ae84b0		branch 'ics-mr0' of https://android.googlesource.com/platform/libcore
+04e25f30524dc7b51f280912d6ca97d991ae84b0		branch 'ics-mr0-release' of https://android.googlesource.com/platform/libcore
+4ff585466887785d48c02d14a15dcde64934442b		branch 'ics-mr1' of https://android.googlesource.com/platform/libcore
+10e016f2b607a3ea8ee9c60ca95bec97f26024f2		branch 'ics-mr1-release' of https://android.googlesource.com/platform/libcore
+a68fdbbaee6760998cbcc6b340b35dc4cf0b3138		branch 'master' of https://android.googlesource.com/platform/libcore
+5bcbe1c84468a25fec1e5b4e1dd636f917c73422	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/libcore
+5bcbe1c84468a25fec1e5b4e1dd636f917c73422	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/libcore
+aa2be6b82cdf3bb292076d2a614a5f5b40e63123	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/libcore
+aa2be6b82cdf3bb292076d2a614a5f5b40e63123	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/libcore
+f241d462634527692b7d99335cdc8c11883ac966	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/libcore
+f241d462634527692b7d99335cdc8c11883ac966	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/libcore
+9cca6a44c922649806cb8a79efc5f615f97e30a1	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/libcore
+9b4b74f951b8b91c3b95f90c08049240ec83ff96	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/libcore
+9b4b74f951b8b91c3b95f90c08049240ec83ff96	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/libcore
+4c2867b3e1b4065b74259671a0fc93422e0fe21d	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/libcore
+5bcbe1c84468a25fec1e5b4e1dd636f917c73422	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/libcore
+e69e136bb429ff1dfeb9ddb876e25e4b1c2514a6	not-for-merge	tag 'android-3.2.4_r1' of https://android.googlesource.com/platform/libcore
+04e25f30524dc7b51f280912d6ca97d991ae84b0	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/libcore
+04e25f30524dc7b51f280912d6ca97d991ae84b0	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/libcore
+04e25f30524dc7b51f280912d6ca97d991ae84b0	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/libcore
+04e25f30524dc7b51f280912d6ca97d991ae84b0	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/libcore
+10e016f2b607a3ea8ee9c60ca95bec97f26024f2	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/libcore
+75aea4d56afee3242be8d626a1949572f8109418	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/libcore
+75aea4d56afee3242be8d626a1949572f8109418	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/libcore
+04e25f30524dc7b51f280912d6ca97d991ae84b0	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/libcore
+4ff585466887785d48c02d14a15dcde64934442b	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/libcore
+4ff585466887785d48c02d14a15dcde64934442b	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/libcore
+4ff585466887785d48c02d14a15dcde64934442b	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/libcore
+04e25f30524dc7b51f280912d6ca97d991ae84b0	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/libcore

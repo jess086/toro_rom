@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+	projectname = platform/packages/apps/QuickSearchBox
+	fetch = +refs/heads/*:refs/remotes/aosp/*

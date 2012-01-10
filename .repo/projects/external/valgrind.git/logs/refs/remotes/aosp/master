@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 b85221e16a87238eb9d89776e19bc5c07d09efee jess <jess@jess-086.(none)> 1326162708 -0800	fetch /home/jess/toro_rom/.repo/projects/external/valgrind.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+b85221e16a87238eb9d89776e19bc5c07d09efee 5679ae9f0535ef52ba2a8c055562374997f40afa jess <jess@jess-086.(none)> 1326162721 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

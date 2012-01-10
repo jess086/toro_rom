@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 15ae8e5c5532e27a1fd5c909cc3a38a4df1d50b0 jess <jess@jess-086.(none)> 1326164918 -0800	fetch /home/jess/toro_rom/.repo/projects/packages/wallpapers/MagicSmoke.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+15ae8e5c5532e27a1fd5c909cc3a38a4df1d50b0 75da25a50f87692b0cd357698c1dee409a11eb27 jess <jess@jess-086.(none)> 1326164919 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

@@ -1,0 +1,44 @@
+5e43ad9465e402d595a3c960784b1effe2e9bd88		branch 'gingerbread' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/chromium
+5d10d1b0b2dff8fed028360ff8fb6ab715cb53e8		branch 'honeycomb-mr2-release' of https://android.googlesource.com/platform/external/chromium
+c0c5e0fca18f5a0912fdba1bd5c5ca2ad0c2693c		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/chromium
+c0c5e0fca18f5a0912fdba1bd5c5ca2ad0c2693c		branch 'ics-mr0' of https://android.googlesource.com/platform/external/chromium
+c0c5e0fca18f5a0912fdba1bd5c5ca2ad0c2693c		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/chromium
+361bc379144f4e67bca8b263c7a673fa73aafefc		branch 'ics-mr1' of https://android.googlesource.com/platform/external/chromium
+361bc379144f4e67bca8b263c7a673fa73aafefc		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/chromium
+361bc379144f4e67bca8b263c7a673fa73aafefc		branch 'master' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/chromium
+236a78ec3c86b3dddf6e0727d9b2e3448a5715bf	not-for-merge	tag 'android-3.0_r1' of https://android.googlesource.com/platform/external/chromium
+236a78ec3c86b3dddf6e0727d9b2e3448a5715bf	not-for-merge	tag 'android-3.0_r1.1' of https://android.googlesource.com/platform/external/chromium
+236a78ec3c86b3dddf6e0727d9b2e3448a5715bf	not-for-merge	tag 'android-3.0_r1.2' of https://android.googlesource.com/platform/external/chromium
+236a78ec3c86b3dddf6e0727d9b2e3448a5715bf	not-for-merge	tag 'android-3.0_r1.3' of https://android.googlesource.com/platform/external/chromium
+c0c17d9010fab6b79c23065495366bd934bd78d1	not-for-merge	tag 'android-3.1_r1' of https://android.googlesource.com/platform/external/chromium
+5d10d1b0b2dff8fed028360ff8fb6ab715cb53e8	not-for-merge	tag 'android-3.2.1_r1' of https://android.googlesource.com/platform/external/chromium
+5d10d1b0b2dff8fed028360ff8fb6ab715cb53e8	not-for-merge	tag 'android-3.2.1_r2' of https://android.googlesource.com/platform/external/chromium
+5d10d1b0b2dff8fed028360ff8fb6ab715cb53e8	not-for-merge	tag 'android-3.2.2_r1' of https://android.googlesource.com/platform/external/chromium
+5d10d1b0b2dff8fed028360ff8fb6ab715cb53e8	not-for-merge	tag 'android-3.2.2_r2' of https://android.googlesource.com/platform/external/chromium
+5d10d1b0b2dff8fed028360ff8fb6ab715cb53e8	not-for-merge	tag 'android-3.2.4_r1' of https://android.googlesource.com/platform/external/chromium
+5d10d1b0b2dff8fed028360ff8fb6ab715cb53e8	not-for-merge	tag 'android-3.2_r1' of https://android.googlesource.com/platform/external/chromium
+c0c5e0fca18f5a0912fdba1bd5c5ca2ad0c2693c	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/chromium
+c0c5e0fca18f5a0912fdba1bd5c5ca2ad0c2693c	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/chromium
+c0c5e0fca18f5a0912fdba1bd5c5ca2ad0c2693c	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/chromium
+c0c5e0fca18f5a0912fdba1bd5c5ca2ad0c2693c	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/chromium
+361bc379144f4e67bca8b263c7a673fa73aafefc	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/chromium
+5e43ad9465e402d595a3c960784b1effe2e9bd88	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/chromium
+c0c5e0fca18f5a0912fdba1bd5c5ca2ad0c2693c	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/chromium
+361bc379144f4e67bca8b263c7a673fa73aafefc	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/chromium
+361bc379144f4e67bca8b263c7a673fa73aafefc	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/chromium
+361bc379144f4e67bca8b263c7a673fa73aafefc	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/chromium
+c0c5e0fca18f5a0912fdba1bd5c5ca2ad0c2693c	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/chromium

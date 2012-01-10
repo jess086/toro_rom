@@ -1,0 +1,64 @@
+20697b965cd923211daeea2037f60218358b9659		branch 'donut-release' of https://android.googlesource.com/platform/bootable/recovery
+20697b965cd923211daeea2037f60218358b9659		branch 'donut-release2' of https://android.googlesource.com/platform/bootable/recovery
+22d79a5c5eab9c1e86ff2af210bb072689e2d630		branch 'eclair-passion-release' of https://android.googlesource.com/platform/bootable/recovery
+22d79a5c5eab9c1e86ff2af210bb072689e2d630		branch 'eclair-release' of https://android.googlesource.com/platform/bootable/recovery
+c652e41d9173e299a8e1805ae1b2bba75a34ae12		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/bootable/recovery
+22d79a5c5eab9c1e86ff2af210bb072689e2d630		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/bootable/recovery
+201cd46680f5789e21a57fb4476ab0ba0c0ed4c0		branch 'froyo' of https://android.googlesource.com/platform/bootable/recovery
+dff87121ad861dc830fc96823725b466d80d1110		branch 'froyo-release' of https://android.googlesource.com/platform/bootable/recovery
+7172eb7b623f4b30f5a709d639fcd3fb51cd6220		branch 'gingerbread' of https://android.googlesource.com/platform/bootable/recovery
+7172eb7b623f4b30f5a709d639fcd3fb51cd6220		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/bootable/recovery
+7172eb7b623f4b30f5a709d639fcd3fb51cd6220		branch 'gingerbread-release' of https://android.googlesource.com/platform/bootable/recovery
+441031dadc4f5e8c1487468229781702bc08fb14		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/bootable/recovery
+441031dadc4f5e8c1487468229781702bc08fb14		branch 'ics-mr0' of https://android.googlesource.com/platform/bootable/recovery
+441031dadc4f5e8c1487468229781702bc08fb14		branch 'ics-mr0-release' of https://android.googlesource.com/platform/bootable/recovery
+d0181b8fcdac761afec252151a8bfda116916e96		branch 'ics-mr1' of https://android.googlesource.com/platform/bootable/recovery
+fadc5ac81d6400ebdd041f7d4ea64021596d6b7d		branch 'ics-mr1-release' of https://android.googlesource.com/platform/bootable/recovery
+9fc3e3c8a6a5f2f82d5712805e90a9c89f914efa		branch 'master' of https://android.googlesource.com/platform/bootable/recovery
+20697b965cd923211daeea2037f60218358b9659	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/bootable/recovery
+20697b965cd923211daeea2037f60218358b9659	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/bootable/recovery
+20697b965cd923211daeea2037f60218358b9659	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/bootable/recovery
+20697b965cd923211daeea2037f60218358b9659	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/bootable/recovery
+20697b965cd923211daeea2037f60218358b9659	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/bootable/recovery
+20697b965cd923211daeea2037f60218358b9659	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/bootable/recovery
+20697b965cd923211daeea2037f60218358b9659	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/bootable/recovery
+54ec81fe86225d5f3ee3ab16e3266ae88cd639fa	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/bootable/recovery
+54ec81fe86225d5f3ee3ab16e3266ae88cd639fa	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/bootable/recovery
+17a47098d2a4214397f8b30e2692c9487d7ab5ff	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/bootable/recovery
+22d79a5c5eab9c1e86ff2af210bb072689e2d630	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/bootable/recovery
+22d79a5c5eab9c1e86ff2af210bb072689e2d630	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/bootable/recovery
+22d79a5c5eab9c1e86ff2af210bb072689e2d630	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/bootable/recovery
+22d79a5c5eab9c1e86ff2af210bb072689e2d630	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/bootable/recovery
+dff87121ad861dc830fc96823725b466d80d1110	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/bootable/recovery
+dff87121ad861dc830fc96823725b466d80d1110	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/bootable/recovery
+dff87121ad861dc830fc96823725b466d80d1110	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/bootable/recovery
+dff87121ad861dc830fc96823725b466d80d1110	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/bootable/recovery
+dff87121ad861dc830fc96823725b466d80d1110	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/bootable/recovery
+2654f5aae18c67ad9aff6dbcdf9bc67b62e37d2d	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/bootable/recovery
+ecc76ba5516d62a886f9c290906e0ca50702c9ab	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/bootable/recovery
+ecc76ba5516d62a886f9c290906e0ca50702c9ab	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/bootable/recovery
+dff87121ad861dc830fc96823725b466d80d1110	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/bootable/recovery
+5d6309e77f6055a9aec062dd991d071054726ebb	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/bootable/recovery
+5d6309e77f6055a9aec062dd991d071054726ebb	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/bootable/recovery
+5d6309e77f6055a9aec062dd991d071054726ebb	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/bootable/recovery
+5d6309e77f6055a9aec062dd991d071054726ebb	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/bootable/recovery
+5d6309e77f6055a9aec062dd991d071054726ebb	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/bootable/recovery
+5d6309e77f6055a9aec062dd991d071054726ebb	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/bootable/recovery
+7172eb7b623f4b30f5a709d639fcd3fb51cd6220	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/bootable/recovery
+7172eb7b623f4b30f5a709d639fcd3fb51cd6220	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/bootable/recovery
+7172eb7b623f4b30f5a709d639fcd3fb51cd6220	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/bootable/recovery
+7172eb7b623f4b30f5a709d639fcd3fb51cd6220	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/bootable/recovery
+5d6309e77f6055a9aec062dd991d071054726ebb	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/bootable/recovery
+441031dadc4f5e8c1487468229781702bc08fb14	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/bootable/recovery
+441031dadc4f5e8c1487468229781702bc08fb14	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/bootable/recovery
+441031dadc4f5e8c1487468229781702bc08fb14	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/bootable/recovery
+441031dadc4f5e8c1487468229781702bc08fb14	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/bootable/recovery
+fadc5ac81d6400ebdd041f7d4ea64021596d6b7d	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/bootable/recovery
+201cd46680f5789e21a57fb4476ab0ba0c0ed4c0	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/bootable/recovery
+7172eb7b623f4b30f5a709d639fcd3fb51cd6220	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/bootable/recovery
+7172eb7b623f4b30f5a709d639fcd3fb51cd6220	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/bootable/recovery
+441031dadc4f5e8c1487468229781702bc08fb14	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/bootable/recovery
+d0181b8fcdac761afec252151a8bfda116916e96	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/bootable/recovery
+d0181b8fcdac761afec252151a8bfda116916e96	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/bootable/recovery
+d0181b8fcdac761afec252151a8bfda116916e96	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/bootable/recovery
+441031dadc4f5e8c1487468229781702bc08fb14	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/bootable/recovery

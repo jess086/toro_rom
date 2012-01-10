@@ -1,0 +1,32 @@
+d3cb3af5d0fdf6c1dc7c3c2c248261ff46c61219		branch 'gingerbread' of https://android.googlesource.com/platform/external/bouncycastle
+4797d4667b26ee7d77d3fb626c26b688830e17ee		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/bouncycastle
+1dcf32e403f3c7afe06d878e3a26e15d38d05a5b		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723		branch 'ics-mr0' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723		branch 'ics-mr1' of https://android.googlesource.com/platform/external/bouncycastle
+4554be939650dfffb52eda333fac44800e74abac		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723		branch 'master' of https://android.googlesource.com/platform/external/bouncycastle
+cd508cf8c2f1b68e13a8fa977fb7296f4bd78fb5	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/bouncycastle
+cd508cf8c2f1b68e13a8fa977fb7296f4bd78fb5	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/bouncycastle
+cd508cf8c2f1b68e13a8fa977fb7296f4bd78fb5	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/bouncycastle
+cd508cf8c2f1b68e13a8fa977fb7296f4bd78fb5	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/bouncycastle
+3ab12958718f17e48e2816a84d403f6305cc2800	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/bouncycastle
+3ab12958718f17e48e2816a84d403f6305cc2800	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/bouncycastle
+3ab12958718f17e48e2816a84d403f6305cc2800	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/bouncycastle
+436e8f565144b364a83a182d2c1baae00781afa2	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/bouncycastle
+1dcf32e403f3c7afe06d878e3a26e15d38d05a5b	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/bouncycastle
+4797d4667b26ee7d77d3fb626c26b688830e17ee	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/bouncycastle
+cd508cf8c2f1b68e13a8fa977fb7296f4bd78fb5	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/bouncycastle
+4554be939650dfffb52eda333fac44800e74abac	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/bouncycastle
+d3cb3af5d0fdf6c1dc7c3c2c248261ff46c61219	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/bouncycastle
+d3cb3af5d0fdf6c1dc7c3c2c248261ff46c61219	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/bouncycastle
+120c7be3b96ad42d92b9db1a75e5e5845bf3a723	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/bouncycastle

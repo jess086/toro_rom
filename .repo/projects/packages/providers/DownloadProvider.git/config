@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/packages/providers/DownloadProvider
+	projectname = platform/packages/providers/DownloadProvider
+	fetch = +refs/heads/*:refs/remotes/aosp/*

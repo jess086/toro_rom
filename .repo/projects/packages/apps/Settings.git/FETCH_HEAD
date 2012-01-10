@@ -1,0 +1,64 @@
+7247d75a741609bcf498d24073260cf24ab9b08c		branch 'donut-release' of https://android.googlesource.com/platform/packages/apps/Settings
+64b691a8abb2bbb2952cb44a7dc04f153d717bc3		branch 'donut-release2' of https://android.googlesource.com/platform/packages/apps/Settings
+ad76f17a1c75447047fc2791b65e93341925998b		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/Settings
+ad76f17a1c75447047fc2791b65e93341925998b		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/Settings
+18517f50edcfebf41b61965b24e360858db1c5e4		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/Settings
+ad76f17a1c75447047fc2791b65e93341925998b		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/Settings
+f4d359d3c83d0e84319603ecc0f4dce120708612		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/Settings
+50c529220a8af165df92f4aa6a52c3eec60282ee		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/Settings
+9cb97c44eefff70fd0fc1c1b8dd7ba87f15ba9e6		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Settings
+a36690ebff7be78d31676db721667314f72af0aa		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Settings
+935b504a05f328cf90db3415b82ff4a7f51e628f		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Settings
+850cb95af3949ca7967deea104844c800f7d4b62		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Settings
+fec195d7564b489fcdd814d066cfbf6af702132b		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Settings
+009c1cc19e4254a4a6c923a981ea671d458317c5		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Settings
+2bccd7f4a7793fd78dd9c83e9fe613ea9e32513b		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Settings
+c8c65a3b81b0cf09dea6f568a80ab842d1e695bc		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Settings
+e8b0e7d3f4432284975d2fcfd80efa5d6f9b50ea		branch 'master' of https://android.googlesource.com/platform/packages/apps/Settings
+64b691a8abb2bbb2952cb44a7dc04f153d717bc3	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+64b691a8abb2bbb2952cb44a7dc04f153d717bc3	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/apps/Settings
+64b691a8abb2bbb2952cb44a7dc04f153d717bc3	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/apps/Settings
+64b691a8abb2bbb2952cb44a7dc04f153d717bc3	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/apps/Settings
+64b691a8abb2bbb2952cb44a7dc04f153d717bc3	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/apps/Settings
+64b691a8abb2bbb2952cb44a7dc04f153d717bc3	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/apps/Settings
+7247d75a741609bcf498d24073260cf24ab9b08c	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/apps/Settings
+18517f50edcfebf41b61965b24e360858db1c5e4	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+9f1900dc05773a0659030e21a8c2fa1641655669	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+c0a606d2d639c34bb763b73974e04e55f2d2ad8d	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+ad76f17a1c75447047fc2791b65e93341925998b	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/Settings
+ad76f17a1c75447047fc2791b65e93341925998b	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/Settings
+ad76f17a1c75447047fc2791b65e93341925998b	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/Settings
+ad76f17a1c75447047fc2791b65e93341925998b	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/Settings
+50c529220a8af165df92f4aa6a52c3eec60282ee	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+50c529220a8af165df92f4aa6a52c3eec60282ee	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/Settings
+50c529220a8af165df92f4aa6a52c3eec60282ee	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+50c529220a8af165df92f4aa6a52c3eec60282ee	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+50c529220a8af165df92f4aa6a52c3eec60282ee	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/Settings
+dc2fdd091fc23fe4d4001cc5caacdddbd6becddd	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+dc2fdd091fc23fe4d4001cc5caacdddbd6becddd	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/Settings
+dc2fdd091fc23fe4d4001cc5caacdddbd6becddd	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/Settings
+fa3663222c6a23ed4fab367186cf56ab04657772	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/Settings
+c45f506538819173af66cef729850c07e91fe334	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+c45f506538819173af66cef729850c07e91fe334	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+0ca84e108e4928aafe620735dba36136f8fb4e21	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+aba8cc88cc62ef8875075a49653f4a4998581f5f	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Settings
+0aa34b70d04529cf419304aac7535a2bfe6dbeb4	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Settings
+0aa34b70d04529cf419304aac7535a2bfe6dbeb4	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+4c0753a7db9af487fd879b4da24e31181dfb8c47	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+935b504a05f328cf90db3415b82ff4a7f51e628f	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Settings
+935b504a05f328cf90db3415b82ff4a7f51e628f	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+a36690ebff7be78d31676db721667314f72af0aa	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+5c205262460ecc5bcfb92ffb10185a573a4b7c90	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+850cb95af3949ca7967deea104844c800f7d4b62	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+850cb95af3949ca7967deea104844c800f7d4b62	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Settings
+850cb95af3949ca7967deea104844c800f7d4b62	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Settings
+009c1cc19e4254a4a6c923a981ea671d458317c5	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+c8c65a3b81b0cf09dea6f568a80ab842d1e695bc	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+f4d359d3c83d0e84319603ecc0f4dce120708612	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/Settings
+9cb97c44eefff70fd0fc1c1b8dd7ba87f15ba9e6	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Settings
+9cb97c44eefff70fd0fc1c1b8dd7ba87f15ba9e6	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Settings
+c90961d43102563b540d719e637905570f9856e4	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+c90961d43102563b540d719e637905570f9856e4	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+2bccd7f4a7793fd78dd9c83e9fe613ea9e32513b	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+2bccd7f4a7793fd78dd9c83e9fe613ea9e32513b	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Settings
+fec195d7564b489fcdd814d066cfbf6af702132b	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Settings

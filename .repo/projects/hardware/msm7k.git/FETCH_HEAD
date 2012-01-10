@@ -1,0 +1,63 @@
+6df9ffc1e0ca91191798352135b636b5e08f915d		branch 'donut-release' of https://android.googlesource.com/platform/hardware/msm7k
+6df9ffc1e0ca91191798352135b636b5e08f915d		branch 'donut-release2' of https://android.googlesource.com/platform/hardware/msm7k
+997572079626eb834e303433b2deb1844b30a1d1		branch 'eclair-passion-release' of https://android.googlesource.com/platform/hardware/msm7k
+c42d5b9bd789034e4e10679b24a7bd38e68f4556		branch 'eclair-release' of https://android.googlesource.com/platform/hardware/msm7k
+dd65e38951ed174f9d3d34886795438440f7eea0		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/hardware/msm7k
+c42d5b9bd789034e4e10679b24a7bd38e68f4556		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/hardware/msm7k
+7f16e88be738d63e33e2e7c652c594379b136a01		branch 'froyo' of https://android.googlesource.com/platform/hardware/msm7k
+7f16e88be738d63e33e2e7c652c594379b136a01		branch 'froyo-release' of https://android.googlesource.com/platform/hardware/msm7k
+39c0d4c031d479a679900cb540253f42747cb810		branch 'gingerbread' of https://android.googlesource.com/platform/hardware/msm7k
+39c0d4c031d479a679900cb540253f42747cb810		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/hardware/msm7k
+39c0d4c031d479a679900cb540253f42747cb810		branch 'gingerbread-release' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8		branch 'ics-mr0' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8		branch 'ics-mr0-release' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8		branch 'ics-mr1' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8		branch 'ics-mr1-release' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8		branch 'master' of https://android.googlesource.com/platform/hardware/msm7k
+6df9ffc1e0ca91191798352135b636b5e08f915d	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/hardware/msm7k
+6df9ffc1e0ca91191798352135b636b5e08f915d	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/hardware/msm7k
+6df9ffc1e0ca91191798352135b636b5e08f915d	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/hardware/msm7k
+6df9ffc1e0ca91191798352135b636b5e08f915d	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/hardware/msm7k
+6df9ffc1e0ca91191798352135b636b5e08f915d	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/hardware/msm7k
+6df9ffc1e0ca91191798352135b636b5e08f915d	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/hardware/msm7k
+6df9ffc1e0ca91191798352135b636b5e08f915d	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/hardware/msm7k
+dd65e38951ed174f9d3d34886795438440f7eea0	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/hardware/msm7k
+3cb8864598e72c04859f410bb03f242cf3965dbe	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/hardware/msm7k
+9ffa86825c57c8bf82669b438bd0e8feb865d4b7	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/hardware/msm7k
+c42d5b9bd789034e4e10679b24a7bd38e68f4556	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/hardware/msm7k
+997572079626eb834e303433b2deb1844b30a1d1	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/hardware/msm7k
+997572079626eb834e303433b2deb1844b30a1d1	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/hardware/msm7k
+c42d5b9bd789034e4e10679b24a7bd38e68f4556	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/hardware/msm7k
+7f16e88be738d63e33e2e7c652c594379b136a01	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/hardware/msm7k
+7f16e88be738d63e33e2e7c652c594379b136a01	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/hardware/msm7k
+7f16e88be738d63e33e2e7c652c594379b136a01	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/hardware/msm7k
+7f16e88be738d63e33e2e7c652c594379b136a01	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/hardware/msm7k
+7f16e88be738d63e33e2e7c652c594379b136a01	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/hardware/msm7k
+7f16e88be738d63e33e2e7c652c594379b136a01	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/hardware/msm7k
+7f16e88be738d63e33e2e7c652c594379b136a01	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/hardware/msm7k
+7f16e88be738d63e33e2e7c652c594379b136a01	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/hardware/msm7k
+7d308b99544a6e8c5387ccee7095a780dcd9f957	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/hardware/msm7k
+7d308b99544a6e8c5387ccee7095a780dcd9f957	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/hardware/msm7k
+39c0d4c031d479a679900cb540253f42747cb810	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/hardware/msm7k
+39c0d4c031d479a679900cb540253f42747cb810	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/hardware/msm7k
+39c0d4c031d479a679900cb540253f42747cb810	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/hardware/msm7k
+39c0d4c031d479a679900cb540253f42747cb810	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/hardware/msm7k
+39c0d4c031d479a679900cb540253f42747cb810	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/hardware/msm7k
+39c0d4c031d479a679900cb540253f42747cb810	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/hardware/msm7k
+39c0d4c031d479a679900cb540253f42747cb810	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/hardware/msm7k
+39c0d4c031d479a679900cb540253f42747cb810	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/hardware/msm7k
+7d308b99544a6e8c5387ccee7095a780dcd9f957	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/hardware/msm7k
+7f16e88be738d63e33e2e7c652c594379b136a01	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/hardware/msm7k
+39c0d4c031d479a679900cb540253f42747cb810	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/hardware/msm7k
+39c0d4c031d479a679900cb540253f42747cb810	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/hardware/msm7k
+9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/hardware/msm7k

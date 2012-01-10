@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 488e22bba4977d9617675925e08930476960c11c jess <jess@jess-086.(none)> 1326164970 -0800	fetch /home/jess/toro_rom/.repo/projects/sdk.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head

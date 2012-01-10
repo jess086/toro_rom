@@ -1,0 +1,51 @@
+c559cd81139f97cecad1ad91a0b2e25a5936d531		branch 'donut-release' of https://android.googlesource.com/platform/external/kernel-headers
+95f683bbc4865c059d495aa12d23c52bd65340cb		branch 'eclair-passion-release' of https://android.googlesource.com/platform/external/kernel-headers
+95f683bbc4865c059d495aa12d23c52bd65340cb		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/external/kernel-headers
+faeff4e8918c60eb0840f42f0d34efa7fe69db9a		branch 'froyo' of https://android.googlesource.com/platform/external/kernel-headers
+faeff4e8918c60eb0840f42f0d34efa7fe69db9a		branch 'froyo-release' of https://android.googlesource.com/platform/external/kernel-headers
+dd8b731fbe68c7e9f8bdc6fcc49397bf0ba93d32		branch 'gingerbread' of https://android.googlesource.com/platform/external/kernel-headers
+8abdcd4098f266e438e7129a3dfe311005686431		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/kernel-headers
+8abdcd4098f266e438e7129a3dfe311005686431		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/kernel-headers
+e723352f19d4cb6efb790d210edd99228629e2db		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/kernel-headers
+e723352f19d4cb6efb790d210edd99228629e2db		branch 'ics-mr0' of https://android.googlesource.com/platform/external/kernel-headers
+e723352f19d4cb6efb790d210edd99228629e2db		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/kernel-headers
+2323bc97127888e8b5fd479aba2e36e3ef2239e9		branch 'ics-mr1' of https://android.googlesource.com/platform/external/kernel-headers
+2323bc97127888e8b5fd479aba2e36e3ef2239e9		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/kernel-headers
+2323bc97127888e8b5fd479aba2e36e3ef2239e9		branch 'master' of https://android.googlesource.com/platform/external/kernel-headers
+c559cd81139f97cecad1ad91a0b2e25a5936d531	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/external/kernel-headers
+95f683bbc4865c059d495aa12d23c52bd65340cb	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/external/kernel-headers
+95f683bbc4865c059d495aa12d23c52bd65340cb	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/external/kernel-headers
+95f683bbc4865c059d495aa12d23c52bd65340cb	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/external/kernel-headers
+faeff4e8918c60eb0840f42f0d34efa7fe69db9a	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/external/kernel-headers
+faeff4e8918c60eb0840f42f0d34efa7fe69db9a	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/external/kernel-headers
+faeff4e8918c60eb0840f42f0d34efa7fe69db9a	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/external/kernel-headers
+faeff4e8918c60eb0840f42f0d34efa7fe69db9a	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/external/kernel-headers
+faeff4e8918c60eb0840f42f0d34efa7fe69db9a	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/external/kernel-headers
+faeff4e8918c60eb0840f42f0d34efa7fe69db9a	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/external/kernel-headers
+faeff4e8918c60eb0840f42f0d34efa7fe69db9a	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/external/kernel-headers
+faeff4e8918c60eb0840f42f0d34efa7fe69db9a	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/external/kernel-headers
+faeff4e8918c60eb0840f42f0d34efa7fe69db9a	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/external/kernel-headers
+11f612ea8bf3befcb66434bf75588503af750b76	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/kernel-headers
+11f612ea8bf3befcb66434bf75588503af750b76	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/kernel-headers
+4879d6a8f2cd33b6b725666bc8f5b48f007db2a6	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/kernel-headers
+4879d6a8f2cd33b6b725666bc8f5b48f007db2a6	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/kernel-headers
+8abdcd4098f266e438e7129a3dfe311005686431	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/kernel-headers
+8abdcd4098f266e438e7129a3dfe311005686431	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/kernel-headers
+8abdcd4098f266e438e7129a3dfe311005686431	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/kernel-headers
+8abdcd4098f266e438e7129a3dfe311005686431	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/kernel-headers
+8abdcd4098f266e438e7129a3dfe311005686431	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/kernel-headers
+8abdcd4098f266e438e7129a3dfe311005686431	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/kernel-headers
+11f612ea8bf3befcb66434bf75588503af750b76	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/kernel-headers
+e723352f19d4cb6efb790d210edd99228629e2db	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/kernel-headers
+e723352f19d4cb6efb790d210edd99228629e2db	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/kernel-headers
+e723352f19d4cb6efb790d210edd99228629e2db	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/kernel-headers
+e723352f19d4cb6efb790d210edd99228629e2db	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/kernel-headers
+2323bc97127888e8b5fd479aba2e36e3ef2239e9	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/kernel-headers
+faeff4e8918c60eb0840f42f0d34efa7fe69db9a	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/external/kernel-headers
+dd8b731fbe68c7e9f8bdc6fcc49397bf0ba93d32	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/kernel-headers
+dd8b731fbe68c7e9f8bdc6fcc49397bf0ba93d32	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/kernel-headers
+e723352f19d4cb6efb790d210edd99228629e2db	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/kernel-headers
+2323bc97127888e8b5fd479aba2e36e3ef2239e9	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/kernel-headers
+2323bc97127888e8b5fd479aba2e36e3ef2239e9	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/kernel-headers
+2323bc97127888e8b5fd479aba2e36e3ef2239e9	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/kernel-headers
+e723352f19d4cb6efb790d210edd99228629e2db	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/kernel-headers

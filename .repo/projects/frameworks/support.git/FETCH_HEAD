@@ -1,0 +1,16 @@
+d9ed2f88439b967a46f91681333bd627d9c64e57		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57		branch 'ics-mr0' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57		branch 'ics-mr0-release' of https://android.googlesource.com/platform/frameworks/support
+7dc96cc2410f551eefaa973ddc144146ad72d1ec		branch 'ics-mr1' of https://android.googlesource.com/platform/frameworks/support
+4c0a3a36ec67eb02b6e78a59ee8574f8bb285b8c		branch 'ics-mr1-release' of https://android.googlesource.com/platform/frameworks/support
+b018a328839768e7e6bc0f171ed63d7a23337f66		branch 'master' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/frameworks/support
+4c0a3a36ec67eb02b6e78a59ee8574f8bb285b8c	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/frameworks/support
+7dc96cc2410f551eefaa973ddc144146ad72d1ec	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/frameworks/support
+7dc96cc2410f551eefaa973ddc144146ad72d1ec	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/frameworks/support
+7dc96cc2410f551eefaa973ddc144146ad72d1ec	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/support
+d9ed2f88439b967a46f91681333bd627d9c64e57	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/frameworks/support

@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 f2da8ef9b4e7243c19e295fed847fa897e8230d3 jess <jess@jess-086.(none)> 1326162474 -0800	fetch /home/jess/toro_rom/.repo/projects/external/libxml2.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+f2da8ef9b4e7243c19e295fed847fa897e8230d3 82fe084c750cb2e6c839ec8b6aad5e2bb87c14dd jess <jess@jess-086.(none)> 1326162476 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

@@ -1,0 +1,77 @@
+d991e0f55ad60ca96b7d0d426890af899266e67e		branch 'donut-release' of https://android.googlesource.com/platform/external/dbus
+d991e0f55ad60ca96b7d0d426890af899266e67e		branch 'donut-release2' of https://android.googlesource.com/platform/external/dbus
+daa995771246849ac9a9c3a1f8242507dd51cc2d		branch 'eclair-passion-release' of https://android.googlesource.com/platform/external/dbus
+daa995771246849ac9a9c3a1f8242507dd51cc2d		branch 'eclair-release' of https://android.googlesource.com/platform/external/dbus
+daa995771246849ac9a9c3a1f8242507dd51cc2d		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/external/dbus
+daa995771246849ac9a9c3a1f8242507dd51cc2d		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/external/dbus
+b99f4d31a4ee7afa2717c03c2ba1b6b432d1595a		branch 'froyo' of https://android.googlesource.com/platform/external/dbus
+2e7a177635eebc8e1b13e39deb1933531bf4c672		branch 'froyo-release' of https://android.googlesource.com/platform/external/dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c		branch 'gingerbread' of https://android.googlesource.com/platform/external/dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/dbus
+f022f55d3ce46acf1fba3121642668c2b1262c72		branch 'honeycomb' of https://android.googlesource.com/platform/external/dbus
+b887506868d6abc1e9caee9af37a8b4b62b967fb		branch 'honeycomb-release' of https://android.googlesource.com/platform/external/dbus
+12a8f9246cc292e34c0c0fa20f2dbf8d738dc11e		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/dbus
+12a8f9246cc292e34c0c0fa20f2dbf8d738dc11e		branch 'ics-mr0' of https://android.googlesource.com/platform/external/dbus
+12a8f9246cc292e34c0c0fa20f2dbf8d738dc11e		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/dbus
+537eaff5de9aace3348436166d4cde7adc1e488e		branch 'ics-mr1' of https://android.googlesource.com/platform/external/dbus
+34e4a715490c404a711ba1f0ccef0f88567b62fa		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/dbus
+537eaff5de9aace3348436166d4cde7adc1e488e		branch 'master' of https://android.googlesource.com/platform/external/dbus
+d991e0f55ad60ca96b7d0d426890af899266e67e	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/external/dbus
+d991e0f55ad60ca96b7d0d426890af899266e67e	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/external/dbus
+d991e0f55ad60ca96b7d0d426890af899266e67e	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/external/dbus
+d991e0f55ad60ca96b7d0d426890af899266e67e	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/external/dbus
+d991e0f55ad60ca96b7d0d426890af899266e67e	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/external/dbus
+d991e0f55ad60ca96b7d0d426890af899266e67e	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/external/dbus
+d991e0f55ad60ca96b7d0d426890af899266e67e	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/external/dbus
+daa995771246849ac9a9c3a1f8242507dd51cc2d	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/external/dbus
+daa995771246849ac9a9c3a1f8242507dd51cc2d	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/external/dbus
+daa995771246849ac9a9c3a1f8242507dd51cc2d	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/external/dbus
+daa995771246849ac9a9c3a1f8242507dd51cc2d	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/external/dbus
+daa995771246849ac9a9c3a1f8242507dd51cc2d	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/external/dbus
+daa995771246849ac9a9c3a1f8242507dd51cc2d	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/external/dbus
+daa995771246849ac9a9c3a1f8242507dd51cc2d	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/external/dbus
+2e7a177635eebc8e1b13e39deb1933531bf4c672	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/external/dbus
+2e7a177635eebc8e1b13e39deb1933531bf4c672	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/external/dbus
+2e7a177635eebc8e1b13e39deb1933531bf4c672	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/external/dbus
+2e7a177635eebc8e1b13e39deb1933531bf4c672	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/external/dbus
+2e7a177635eebc8e1b13e39deb1933531bf4c672	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/external/dbus
+412bef7d740299ad6dd6fbccc0649052ba5057b0	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/external/dbus
+412bef7d740299ad6dd6fbccc0649052ba5057b0	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/external/dbus
+412bef7d740299ad6dd6fbccc0649052ba5057b0	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/external/dbus
+412bef7d740299ad6dd6fbccc0649052ba5057b0	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/external/dbus
+ef42238bb49f2de600be4b026002b22e217586f0	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/dbus
+ef42238bb49f2de600be4b026002b22e217586f0	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/dbus
+ef42238bb49f2de600be4b026002b22e217586f0	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/dbus
+b887506868d6abc1e9caee9af37a8b4b62b967fb	not-for-merge	tag 'android-3.0_r1' of https://android.googlesource.com/platform/external/dbus
+b887506868d6abc1e9caee9af37a8b4b62b967fb	not-for-merge	tag 'android-3.0_r1.1' of https://android.googlesource.com/platform/external/dbus
+f022f55d3ce46acf1fba3121642668c2b1262c72	not-for-merge	tag 'android-3.0_r1.2' of https://android.googlesource.com/platform/external/dbus
+b887506868d6abc1e9caee9af37a8b4b62b967fb	not-for-merge	tag 'android-3.0_r1.3' of https://android.googlesource.com/platform/external/dbus
+f022f55d3ce46acf1fba3121642668c2b1262c72	not-for-merge	tag 'android-3.1_r1' of https://android.googlesource.com/platform/external/dbus
+f022f55d3ce46acf1fba3121642668c2b1262c72	not-for-merge	tag 'android-3.2.1_r1' of https://android.googlesource.com/platform/external/dbus
+f022f55d3ce46acf1fba3121642668c2b1262c72	not-for-merge	tag 'android-3.2.1_r2' of https://android.googlesource.com/platform/external/dbus
+f022f55d3ce46acf1fba3121642668c2b1262c72	not-for-merge	tag 'android-3.2.2_r1' of https://android.googlesource.com/platform/external/dbus
+f022f55d3ce46acf1fba3121642668c2b1262c72	not-for-merge	tag 'android-3.2.2_r2' of https://android.googlesource.com/platform/external/dbus
+f022f55d3ce46acf1fba3121642668c2b1262c72	not-for-merge	tag 'android-3.2.4_r1' of https://android.googlesource.com/platform/external/dbus
+f022f55d3ce46acf1fba3121642668c2b1262c72	not-for-merge	tag 'android-3.2_r1' of https://android.googlesource.com/platform/external/dbus
+12a8f9246cc292e34c0c0fa20f2dbf8d738dc11e	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/dbus
+12a8f9246cc292e34c0c0fa20f2dbf8d738dc11e	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/dbus
+12a8f9246cc292e34c0c0fa20f2dbf8d738dc11e	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/dbus
+12a8f9246cc292e34c0c0fa20f2dbf8d738dc11e	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/dbus
+34e4a715490c404a711ba1f0ccef0f88567b62fa	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/dbus
+b99f4d31a4ee7afa2717c03c2ba1b6b432d1595a	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/external/dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/dbus
+4bda01d38f1ef164d76bb8e266caaabfd549ef9c	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/dbus
+12a8f9246cc292e34c0c0fa20f2dbf8d738dc11e	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/dbus
+537eaff5de9aace3348436166d4cde7adc1e488e	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/dbus
+537eaff5de9aace3348436166d4cde7adc1e488e	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/dbus
+34e4a715490c404a711ba1f0ccef0f88567b62fa	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/dbus
+12a8f9246cc292e34c0c0fa20f2dbf8d738dc11e	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/dbus

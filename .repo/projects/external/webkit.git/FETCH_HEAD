@@ -1,0 +1,83 @@
+173247db5500c88f7a7229fd20fb49ebd2d49296		branch 'donut-release' of https://android.googlesource.com/platform/external/webkit
+173247db5500c88f7a7229fd20fb49ebd2d49296		branch 'donut-release2' of https://android.googlesource.com/platform/external/webkit
+e833ef7709fa233c7ce0792e41effc1d2b147022		branch 'eclair-passion-release' of https://android.googlesource.com/platform/external/webkit
+e833ef7709fa233c7ce0792e41effc1d2b147022		branch 'eclair-release' of https://android.googlesource.com/platform/external/webkit
+86ef3136d4c273bd435f4cbb0e6bca2e5c6dbfd1		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/external/webkit
+e833ef7709fa233c7ce0792e41effc1d2b147022		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/external/webkit
+a42794783dfec7f142845611dc0f20bfe2657c49		branch 'froyo' of https://android.googlesource.com/platform/external/webkit
+0433734318551aac3b7b82b9d8ab5d485d7d0439		branch 'froyo-release' of https://android.googlesource.com/platform/external/webkit
+622d72beb96a024bb18591feb39d4b21d0a34bd7		branch 'gingerbread' of https://android.googlesource.com/platform/external/webkit
+622d72beb96a024bb18591feb39d4b21d0a34bd7		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/webkit
+622d72beb96a024bb18591feb39d4b21d0a34bd7		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/webkit
+a046a139c49a1c3e9e85101aeca4b68b89c396ca		branch 'honeycomb' of https://android.googlesource.com/platform/external/webkit
+adef70b313908ec0945a678eb665ffc1e9d373dd		branch 'honeycomb-LTE-release' of https://android.googlesource.com/platform/external/webkit
+5b56a98d50eaef903ecd257cc4092ae59a406533		branch 'honeycomb-mr1-release' of https://android.googlesource.com/platform/external/webkit
+0da3e5e1d2b913ba0c47bfd1c7923bbce60faa6a		branch 'honeycomb-mr2' of https://android.googlesource.com/platform/external/webkit
+0da3e5e1d2b913ba0c47bfd1c7923bbce60faa6a		branch 'honeycomb-mr2-release' of https://android.googlesource.com/platform/external/webkit
+1948f2ed6b618e44d19f9d2ea16ac423a3f48e9c		branch 'honeycomb-preview-release' of https://android.googlesource.com/platform/external/webkit
+e70222ba5aafd13d88b64d27a2ea4d5dbcd7ade6		branch 'honeycomb-release' of https://android.googlesource.com/platform/external/webkit
+8519dcd53eb4325b8d2d76c030d0af4503472df7		branch 'honeycomb-wr-release' of https://android.googlesource.com/platform/external/webkit
+0d4258e78caa860491a4c9e6965e574dabc3ec63		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/webkit
+55b5da341a376006b2e0ab9cc6dfba5a76c65c7c		branch 'ics-mr0' of https://android.googlesource.com/platform/external/webkit
+2e1f2a21fd69658b3518d0ef29618445190e6593		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/webkit
+599c05f3080acd1c99f4d925c333d8a2711c9bdf		branch 'ics-mr1' of https://android.googlesource.com/platform/external/webkit
+c13097a64cf28ddfbcf3a79ac7c2e78dcdf9c59e		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/webkit
+0ab06914e1fb967121601f35b3e25065723d6d35		branch 'master' of https://android.googlesource.com/platform/external/webkit
+173247db5500c88f7a7229fd20fb49ebd2d49296	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/external/webkit
+173247db5500c88f7a7229fd20fb49ebd2d49296	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/external/webkit
+173247db5500c88f7a7229fd20fb49ebd2d49296	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/external/webkit
+173247db5500c88f7a7229fd20fb49ebd2d49296	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/external/webkit
+173247db5500c88f7a7229fd20fb49ebd2d49296	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/external/webkit
+173247db5500c88f7a7229fd20fb49ebd2d49296	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/external/webkit
+173247db5500c88f7a7229fd20fb49ebd2d49296	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/external/webkit
+86ef3136d4c273bd435f4cbb0e6bca2e5c6dbfd1	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/external/webkit
+666ccbb87a0e95b628525301873f91732261e8cb	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/external/webkit
+71915262ea9e87f7b8ef285efcb77cf7bce2464e	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/external/webkit
+e833ef7709fa233c7ce0792e41effc1d2b147022	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/external/webkit
+e833ef7709fa233c7ce0792e41effc1d2b147022	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/external/webkit
+e833ef7709fa233c7ce0792e41effc1d2b147022	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/external/webkit
+e833ef7709fa233c7ce0792e41effc1d2b147022	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/external/webkit
+0433734318551aac3b7b82b9d8ab5d485d7d0439	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/external/webkit
+0433734318551aac3b7b82b9d8ab5d485d7d0439	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/external/webkit
+0433734318551aac3b7b82b9d8ab5d485d7d0439	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/external/webkit
+0433734318551aac3b7b82b9d8ab5d485d7d0439	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/external/webkit
+0433734318551aac3b7b82b9d8ab5d485d7d0439	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/external/webkit
+2943c136f14cf8d0631249dd8764a0b6ab45fb98	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/external/webkit
+2943c136f14cf8d0631249dd8764a0b6ab45fb98	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/external/webkit
+2943c136f14cf8d0631249dd8764a0b6ab45fb98	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/external/webkit
+2943c136f14cf8d0631249dd8764a0b6ab45fb98	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/external/webkit
+2da7ed0ba7ed78d0ccaca0a65fc07cfe202a9ed3	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/webkit
+2da7ed0ba7ed78d0ccaca0a65fc07cfe202a9ed3	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/webkit
+591ab58df1b16eb937b3438f3af26c1b97c658fd	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/webkit
+591ab58df1b16eb937b3438f3af26c1b97c658fd	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/webkit
+68c221808cf7a4776ba8feae02611d3c78e9f857	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/webkit
+68c221808cf7a4776ba8feae02611d3c78e9f857	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/webkit
+622d72beb96a024bb18591feb39d4b21d0a34bd7	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/webkit
+622d72beb96a024bb18591feb39d4b21d0a34bd7	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/webkit
+622d72beb96a024bb18591feb39d4b21d0a34bd7	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/webkit
+622d72beb96a024bb18591feb39d4b21d0a34bd7	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/webkit
+2da7ed0ba7ed78d0ccaca0a65fc07cfe202a9ed3	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/webkit
+56463a52c19062aae422f8b66ab866ec36d7712d	not-for-merge	tag 'android-3.0_r1' of https://android.googlesource.com/platform/external/webkit
+e70222ba5aafd13d88b64d27a2ea4d5dbcd7ade6	not-for-merge	tag 'android-3.0_r1.1' of https://android.googlesource.com/platform/external/webkit
+8519dcd53eb4325b8d2d76c030d0af4503472df7	not-for-merge	tag 'android-3.0_r1.2' of https://android.googlesource.com/platform/external/webkit
+e70222ba5aafd13d88b64d27a2ea4d5dbcd7ade6	not-for-merge	tag 'android-3.0_r1.3' of https://android.googlesource.com/platform/external/webkit
+5b56a98d50eaef903ecd257cc4092ae59a406533	not-for-merge	tag 'android-3.1_r1' of https://android.googlesource.com/platform/external/webkit
+0da3e5e1d2b913ba0c47bfd1c7923bbce60faa6a	not-for-merge	tag 'android-3.2.1_r1' of https://android.googlesource.com/platform/external/webkit
+0da3e5e1d2b913ba0c47bfd1c7923bbce60faa6a	not-for-merge	tag 'android-3.2.1_r2' of https://android.googlesource.com/platform/external/webkit
+adef70b313908ec0945a678eb665ffc1e9d373dd	not-for-merge	tag 'android-3.2.2_r1' of https://android.googlesource.com/platform/external/webkit
+adef70b313908ec0945a678eb665ffc1e9d373dd	not-for-merge	tag 'android-3.2.2_r2' of https://android.googlesource.com/platform/external/webkit
+adef70b313908ec0945a678eb665ffc1e9d373dd	not-for-merge	tag 'android-3.2.4_r1' of https://android.googlesource.com/platform/external/webkit
+0da3e5e1d2b913ba0c47bfd1c7923bbce60faa6a	not-for-merge	tag 'android-3.2_r1' of https://android.googlesource.com/platform/external/webkit
+0d4258e78caa860491a4c9e6965e574dabc3ec63	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/webkit
+0d4258e78caa860491a4c9e6965e574dabc3ec63	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/webkit
+0d4258e78caa860491a4c9e6965e574dabc3ec63	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/webkit
+2e1f2a21fd69658b3518d0ef29618445190e6593	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/webkit
+c13097a64cf28ddfbcf3a79ac7c2e78dcdf9c59e	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/webkit
+a42794783dfec7f142845611dc0f20bfe2657c49	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/external/webkit
+622d72beb96a024bb18591feb39d4b21d0a34bd7	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/webkit
+622d72beb96a024bb18591feb39d4b21d0a34bd7	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/webkit
+55b5da341a376006b2e0ab9cc6dfba5a76c65c7c	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/webkit
+599c05f3080acd1c99f4d925c333d8a2711c9bdf	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/webkit
+599c05f3080acd1c99f4d925c333d8a2711c9bdf	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/webkit
+599c05f3080acd1c99f4d925c333d8a2711c9bdf	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/webkit
+55b5da341a376006b2e0ab9cc6dfba5a76c65c7c	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/webkit

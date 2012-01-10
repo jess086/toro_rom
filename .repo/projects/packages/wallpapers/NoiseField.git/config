@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/packages/wallpapers/NoiseField
+	projectname = platform/packages/wallpapers/NoiseField
+	fetch = +refs/heads/*:refs/remotes/aosp/*

@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 c53b475e5bf2301da452cd2c81fed7c1fea2ec2a jess <jess@jess-086.(none)> 1326162597 -0800	fetch /home/jess/toro_rom/.repo/projects/external/qemu.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+c53b475e5bf2301da452cd2c81fed7c1fea2ec2a 762d5decf0eaa766e69ecd94f4349be53dedd767 jess <jess@jess-086.(none)> 1326162599 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

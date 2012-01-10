@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/packages/wallpapers/Galaxy4
+	projectname = platform/packages/wallpapers/Galaxy4
+	fetch = +refs/heads/*:refs/remotes/aosp/*

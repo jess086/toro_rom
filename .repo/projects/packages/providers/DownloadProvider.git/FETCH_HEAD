@@ -1,0 +1,64 @@
+aad2e29eb56d6861c4e6672c18f03b6e00f3b9dd		branch 'donut-release' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+89d4bc914ba0250e8d7a3c216e466799a985dd16		branch 'donut-release2' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+a61606af5d154cd6281bd5f5de9e01e7240cca53		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+a61606af5d154cd6281bd5f5de9e01e7240cca53		branch 'eclair-release' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+9d6b0fa777f6978be741f2b34bf36cdec8cb7a41		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+a61606af5d154cd6281bd5f5de9e01e7240cca53		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+09330001cc50f8a5ffe2ef527dbb5729080f52e2		branch 'froyo' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+e97073503ff1c7d3c4b5058ecc2602a62633428d		branch 'froyo-release' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+5c92e6b8f463c2fcb760f5f0343ccc137d254586		branch 'gingerbread' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+abb94fb35445de2eadd1804ad2f4023bd50a6b5c		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+abb94fb35445de2eadd1804ad2f4023bd50a6b5c		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+aed71cf0302154814ad969b798776e003524b0dc		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+8ed79f165424c5243e7065d9c4187cde8eacb071		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+8ed79f165424c5243e7065d9c4187cde8eacb071		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+a318a7fc77521dae0ea4afdc087dd30973e89f50		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+d8c13d669e2e80d2a52d7ae2567006afc7a765fd		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+13a089576461d61a49e6770c41faa9afcdcc8816		branch 'master' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+89d4bc914ba0250e8d7a3c216e466799a985dd16	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+89d4bc914ba0250e8d7a3c216e466799a985dd16	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+89d4bc914ba0250e8d7a3c216e466799a985dd16	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+89d4bc914ba0250e8d7a3c216e466799a985dd16	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+89d4bc914ba0250e8d7a3c216e466799a985dd16	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+89d4bc914ba0250e8d7a3c216e466799a985dd16	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+aad2e29eb56d6861c4e6672c18f03b6e00f3b9dd	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+9d6b0fa777f6978be741f2b34bf36cdec8cb7a41	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+0a6d08049533bdb769ca229e5205abe9545b46c6	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+a61606af5d154cd6281bd5f5de9e01e7240cca53	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+a61606af5d154cd6281bd5f5de9e01e7240cca53	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+a61606af5d154cd6281bd5f5de9e01e7240cca53	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+a61606af5d154cd6281bd5f5de9e01e7240cca53	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+a61606af5d154cd6281bd5f5de9e01e7240cca53	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+e97073503ff1c7d3c4b5058ecc2602a62633428d	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+e97073503ff1c7d3c4b5058ecc2602a62633428d	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+e97073503ff1c7d3c4b5058ecc2602a62633428d	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+e97073503ff1c7d3c4b5058ecc2602a62633428d	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+e97073503ff1c7d3c4b5058ecc2602a62633428d	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+e97073503ff1c7d3c4b5058ecc2602a62633428d	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+e97073503ff1c7d3c4b5058ecc2602a62633428d	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+e97073503ff1c7d3c4b5058ecc2602a62633428d	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+e97073503ff1c7d3c4b5058ecc2602a62633428d	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+3b1400bd436799adbe0990271aef2d1d8d416385	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+3b1400bd436799adbe0990271aef2d1d8d416385	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+9242967dc8381a514c6f5bf5f6aafc238e74cf76	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+30cbbe400ef82f037670c2d3f010bafd3659b854	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+abb94fb35445de2eadd1804ad2f4023bd50a6b5c	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+abb94fb35445de2eadd1804ad2f4023bd50a6b5c	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+abb94fb35445de2eadd1804ad2f4023bd50a6b5c	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+abb94fb35445de2eadd1804ad2f4023bd50a6b5c	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+abb94fb35445de2eadd1804ad2f4023bd50a6b5c	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+abb94fb35445de2eadd1804ad2f4023bd50a6b5c	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+055eafed83fb38607859c704f258738f7496d222	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+aed71cf0302154814ad969b798776e003524b0dc	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+aed71cf0302154814ad969b798776e003524b0dc	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+aed71cf0302154814ad969b798776e003524b0dc	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+8ed79f165424c5243e7065d9c4187cde8eacb071	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+d8c13d669e2e80d2a52d7ae2567006afc7a765fd	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+09330001cc50f8a5ffe2ef527dbb5729080f52e2	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+5c92e6b8f463c2fcb760f5f0343ccc137d254586	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+5c92e6b8f463c2fcb760f5f0343ccc137d254586	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+8ed79f165424c5243e7065d9c4187cde8eacb071	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+a318a7fc77521dae0ea4afdc087dd30973e89f50	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+a318a7fc77521dae0ea4afdc087dd30973e89f50	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+a318a7fc77521dae0ea4afdc087dd30973e89f50	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider
+8ed79f165424c5243e7065d9c4187cde8eacb071	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/providers/DownloadProvider

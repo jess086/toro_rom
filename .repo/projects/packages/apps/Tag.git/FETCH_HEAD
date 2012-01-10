@@ -1,0 +1,32 @@
+478eadc756466cc8438f0ba1db8e229fcd3a087a		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Tag
+647056f9c1f21a299ca9cce5c805d01de9288921		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Tag
+647056f9c1f21a299ca9cce5c805d01de9288921		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Tag
+7c74ecc6b316172221ca52ab770068b746f794fb		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Tag
+7c74ecc6b316172221ca52ab770068b746f794fb		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Tag
+7c74ecc6b316172221ca52ab770068b746f794fb		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Tag
+5c34e64a6083adeb6ad2355ce6d900a401b5938e		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Tag
+5c34e64a6083adeb6ad2355ce6d900a401b5938e		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Tag
+5c34e64a6083adeb6ad2355ce6d900a401b5938e		branch 'master' of https://android.googlesource.com/platform/packages/apps/Tag
+d877e0c443fc4ceb4fdd441dde5778978638e7ee	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+d877e0c443fc4ceb4fdd441dde5778978638e7ee	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+64a75623a19cc1ef79a86d2b5c040ced86f1396d	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+e8f4c23a5e2e5490ff6fd2a13f86b173f85758ba	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Tag
+91b9c58675e5d1aa43b7243a38510ebb16e14b25	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Tag
+91b9c58675e5d1aa43b7243a38510ebb16e14b25	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+4b1e01421a564b348fcf7c0203dcb89576883aff	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+647056f9c1f21a299ca9cce5c805d01de9288921	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Tag
+647056f9c1f21a299ca9cce5c805d01de9288921	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+647056f9c1f21a299ca9cce5c805d01de9288921	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+d877e0c443fc4ceb4fdd441dde5778978638e7ee	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+7c74ecc6b316172221ca52ab770068b746f794fb	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+7c74ecc6b316172221ca52ab770068b746f794fb	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Tag
+7c74ecc6b316172221ca52ab770068b746f794fb	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Tag
+7c74ecc6b316172221ca52ab770068b746f794fb	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+5c34e64a6083adeb6ad2355ce6d900a401b5938e	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+478eadc756466cc8438f0ba1db8e229fcd3a087a	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Tag
+478eadc756466cc8438f0ba1db8e229fcd3a087a	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Tag
+7c74ecc6b316172221ca52ab770068b746f794fb	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+5c34e64a6083adeb6ad2355ce6d900a401b5938e	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+5c34e64a6083adeb6ad2355ce6d900a401b5938e	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+5c34e64a6083adeb6ad2355ce6d900a401b5938e	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Tag
+7c74ecc6b316172221ca52ab770068b746f794fb	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Tag

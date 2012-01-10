@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 18985d0a5e5d8dd27494f845d072bb2abdc22af3 jess <jess@jess-086.(none)> 1326162432 -0800	fetch /home/jess/toro_rom/.repo/projects/external/libnfc-nxp.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+18985d0a5e5d8dd27494f845d072bb2abdc22af3 593d6d4a79601c530825ce9a52fd3f4cf03e1b6f jess <jess@jess-086.(none)> 1326162433 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

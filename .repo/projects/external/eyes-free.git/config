@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/external/eyes-free
+	projectname = platform/external/eyes-free
+	fetch = +refs/heads/*:refs/remotes/aosp/*

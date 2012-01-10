@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/hardware/ti/wlan
+	projectname = platform/hardware/ti/wlan
+	fetch = +refs/heads/*:refs/remotes/aosp/*

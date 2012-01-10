@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 01c335df7178e8126617e4e29d5ed6602ff25c4a jess <jess@jess-086.(none)> 1326164836 -0800	fetch /home/jess/toro_rom/.repo/projects/packages/inputmethods/LatinIME.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+01c335df7178e8126617e4e29d5ed6602ff25c4a 23c45bac209c18dd8fd6260e338e566df946c968 jess <jess@jess-086.(none)> 1326164843 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

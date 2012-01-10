@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 6a5a63bd690b25d9c0b590f19169d6d3060f2330 jess <jess@jess-086.(none)> 1326164965 -0800	fetch /home/jess/toro_rom/.repo/projects/system/netd.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+6a5a63bd690b25d9c0b590f19169d6d3060f2330 327a9a067ed4f6a6da879841033fa4181e16d83a jess <jess@jess-086.(none)> 1326164978 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

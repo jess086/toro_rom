@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 f23f725773de1eb394655e657cd12f95f6250b3d jess <jess@jess-086.(none)> 1326162758 -0800	fetch /home/jess/toro_rom/.repo/projects/frameworks/media/libvideoeditor.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+f23f725773de1eb394655e657cd12f95f6250b3d 576bb4a63f925ef5862eedb6428ba890f0ad1054 jess <jess@jess-086.(none)> 1326162767 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

@@ -1,0 +1,25 @@
+50a624a47ce645a7992e346e40a4e7ec5e0df9b7		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+50a624a47ce645a7992e346e40a4e7ec5e0df9b7		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+50a624a47ce645a7992e346e40a4e7ec5e0df9b7		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+f88de2b37383f138b3c7d876bdc3b6b6fae7b728		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+f88de2b37383f138b3c7d876bdc3b6b6fae7b728		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+f88de2b37383f138b3c7d876bdc3b6b6fae7b728		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+7d9eb85f0510f13f352077418c15b051ef39b892		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+7d9eb85f0510f13f352077418c15b051ef39b892		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+7d9eb85f0510f13f352077418c15b051ef39b892		branch 'master' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+50a624a47ce645a7992e346e40a4e7ec5e0df9b7	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+50a624a47ce645a7992e346e40a4e7ec5e0df9b7	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+50a624a47ce645a7992e346e40a4e7ec5e0df9b7	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+50a624a47ce645a7992e346e40a4e7ec5e0df9b7	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+f88de2b37383f138b3c7d876bdc3b6b6fae7b728	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+f88de2b37383f138b3c7d876bdc3b6b6fae7b728	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+f88de2b37383f138b3c7d876bdc3b6b6fae7b728	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+f88de2b37383f138b3c7d876bdc3b6b6fae7b728	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+7d9eb85f0510f13f352077418c15b051ef39b892	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+50a624a47ce645a7992e346e40a4e7ec5e0df9b7	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+50a624a47ce645a7992e346e40a4e7ec5e0df9b7	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+f88de2b37383f138b3c7d876bdc3b6b6fae7b728	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+7d9eb85f0510f13f352077418c15b051ef39b892	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+7d9eb85f0510f13f352077418c15b051ef39b892	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+7d9eb85f0510f13f352077418c15b051ef39b892	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver
+f88de2b37383f138b3c7d876bdc3b6b6fae7b728	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver

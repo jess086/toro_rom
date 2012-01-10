@@ -1,0 +1,55 @@
+9b66717d9e4dd32e61a03f572d4eaebbfb4ee6c3		branch 'eclair-passion-release' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+9b66717d9e4dd32e61a03f572d4eaebbfb4ee6c3		branch 'eclair-release' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+9080924374f5b58dd135eb21594ef1672d34be88		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+9b66717d9e4dd32e61a03f572d4eaebbfb4ee6c3		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2		branch 'froyo' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2		branch 'froyo-release' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+e471b83f1c2d3982fae0307f37c1ca30ca7e6837		branch 'gingerbread' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+e471b83f1c2d3982fae0307f37c1ca30ca7e6837		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+e471b83f1c2d3982fae0307f37c1ca30ca7e6837		branch 'gingerbread-release' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+f6ad682cfc4444f0d7d31613d9fe76d8f05a3fa4		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+f6ad682cfc4444f0d7d31613d9fe76d8f05a3fa4		branch 'ics-mr0' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+f6ad682cfc4444f0d7d31613d9fe76d8f05a3fa4		branch 'ics-mr0-release' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+ca7dd2f4dfbb470bb516d99b6bfa2935012fe231		branch 'ics-mr1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+07ef2f509a362cc6a5825d0d19143dc4bd2474e0		branch 'ics-mr1-release' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+a86c6aae54ed2f387f0cadd0d7677afe656275d1		branch 'master' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+9080924374f5b58dd135eb21594ef1672d34be88	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+22f9d1ad355474108432add8967729252cb85fdf	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+9b66717d9e4dd32e61a03f572d4eaebbfb4ee6c3	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+9b66717d9e4dd32e61a03f572d4eaebbfb4ee6c3	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+9b66717d9e4dd32e61a03f572d4eaebbfb4ee6c3	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+9b66717d9e4dd32e61a03f572d4eaebbfb4ee6c3	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+9b66717d9e4dd32e61a03f572d4eaebbfb4ee6c3	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+900f1defbe1f39ca6af8356521961c249174f304	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+900f1defbe1f39ca6af8356521961c249174f304	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+e471b83f1c2d3982fae0307f37c1ca30ca7e6837	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+e471b83f1c2d3982fae0307f37c1ca30ca7e6837	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+e471b83f1c2d3982fae0307f37c1ca30ca7e6837	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+e471b83f1c2d3982fae0307f37c1ca30ca7e6837	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+e471b83f1c2d3982fae0307f37c1ca30ca7e6837	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+e471b83f1c2d3982fae0307f37c1ca30ca7e6837	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+e471b83f1c2d3982fae0307f37c1ca30ca7e6837	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+e471b83f1c2d3982fae0307f37c1ca30ca7e6837	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+900f1defbe1f39ca6af8356521961c249174f304	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+f6ad682cfc4444f0d7d31613d9fe76d8f05a3fa4	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+f6ad682cfc4444f0d7d31613d9fe76d8f05a3fa4	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+f6ad682cfc4444f0d7d31613d9fe76d8f05a3fa4	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+f6ad682cfc4444f0d7d31613d9fe76d8f05a3fa4	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+07ef2f509a362cc6a5825d0d19143dc4bd2474e0	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+e471b83f1c2d3982fae0307f37c1ca30ca7e6837	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+e471b83f1c2d3982fae0307f37c1ca30ca7e6837	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+f6ad682cfc4444f0d7d31613d9fe76d8f05a3fa4	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+ca7dd2f4dfbb470bb516d99b6bfa2935012fe231	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+ca7dd2f4dfbb470bb516d99b6bfa2935012fe231	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+ca7dd2f4dfbb470bb516d99b6bfa2935012fe231	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/hardware/broadcom/wlan
+f6ad682cfc4444f0d7d31613d9fe76d8f05a3fa4	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/hardware/broadcom/wlan

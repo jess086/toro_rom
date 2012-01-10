@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/frameworks/opt/carddav
+	projectname = platform/frameworks/opt/carddav
+	fetch = +refs/heads/*:refs/remotes/aosp/*

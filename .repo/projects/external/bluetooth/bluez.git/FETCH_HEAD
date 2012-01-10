@@ -1,0 +1,66 @@
+60e8a3334a826bdfacb74231a343227981f2e380		branch 'eclair-passion-release' of https://android.googlesource.com/platform/external/bluetooth/bluez
+60e8a3334a826bdfacb74231a343227981f2e380		branch 'eclair-release' of https://android.googlesource.com/platform/external/bluetooth/bluez
+a74a11ed158d466e89c27961fe67934979104c38		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/external/bluetooth/bluez
+60e8a3334a826bdfacb74231a343227981f2e380		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/external/bluetooth/bluez
+14be985aba4674bcf565a25355479d0391b73043		branch 'froyo' of https://android.googlesource.com/platform/external/bluetooth/bluez
+14be985aba4674bcf565a25355479d0391b73043		branch 'froyo-release' of https://android.googlesource.com/platform/external/bluetooth/bluez
+02e98694ef87ea8ecb47789abf89c3f945ee0e20		branch 'gingerbread' of https://android.googlesource.com/platform/external/bluetooth/bluez
+02e98694ef87ea8ecb47789abf89c3f945ee0e20		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/bluetooth/bluez
+02e98694ef87ea8ecb47789abf89c3f945ee0e20		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/bluetooth/bluez
+cfeb2e819959b28ce98f5a2358bf753a05839228		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/bluetooth/bluez
+cfeb2e819959b28ce98f5a2358bf753a05839228		branch 'ics-mr0' of https://android.googlesource.com/platform/external/bluetooth/bluez
+cfeb2e819959b28ce98f5a2358bf753a05839228		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/bluetooth/bluez
+a345fd4f5204db63b590c5e993052952379426a8		branch 'ics-mr1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+753c7bb72c0c83692745513b7e36c8cdf887dfbb		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/bluetooth/bluez
+5611c7de4927835d73f132e65dd3b72f28affb8b		branch 'master' of https://android.googlesource.com/platform/external/bluetooth/bluez
+a74a11ed158d466e89c27961fe67934979104c38	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+bb454c91c9218d263b0f126f724a25243139541f	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+60e8a3334a826bdfacb74231a343227981f2e380	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+60e8a3334a826bdfacb74231a343227981f2e380	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/external/bluetooth/bluez
+60e8a3334a826bdfacb74231a343227981f2e380	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/external/bluetooth/bluez
+60e8a3334a826bdfacb74231a343227981f2e380	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/external/bluetooth/bluez
+60e8a3334a826bdfacb74231a343227981f2e380	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/external/bluetooth/bluez
+14be985aba4674bcf565a25355479d0391b73043	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+14be985aba4674bcf565a25355479d0391b73043	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/external/bluetooth/bluez
+14be985aba4674bcf565a25355479d0391b73043	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+14be985aba4674bcf565a25355479d0391b73043	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+14be985aba4674bcf565a25355479d0391b73043	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/external/bluetooth/bluez
+14be985aba4674bcf565a25355479d0391b73043	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+14be985aba4674bcf565a25355479d0391b73043	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+14be985aba4674bcf565a25355479d0391b73043	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/external/bluetooth/bluez
+14be985aba4674bcf565a25355479d0391b73043	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/external/bluetooth/bluez
+7863aaa74f604f6d2f52f257c416a679079e52a4	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+7863aaa74f604f6d2f52f257c416a679079e52a4	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+742127bfafed8592303b11c44e614821db8042d8	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+742127bfafed8592303b11c44e614821db8042d8	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+02e98694ef87ea8ecb47789abf89c3f945ee0e20	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/bluetooth/bluez
+02e98694ef87ea8ecb47789abf89c3f945ee0e20	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+02e98694ef87ea8ecb47789abf89c3f945ee0e20	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+02e98694ef87ea8ecb47789abf89c3f945ee0e20	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/bluetooth/bluez
+02e98694ef87ea8ecb47789abf89c3f945ee0e20	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+02e98694ef87ea8ecb47789abf89c3f945ee0e20	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+7863aaa74f604f6d2f52f257c416a679079e52a4	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+6d244459e576e705fd7cd723cc1c2c4ec06c50a2	not-for-merge	tag 'android-3.0_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+6d244459e576e705fd7cd723cc1c2c4ec06c50a2	not-for-merge	tag 'android-3.0_r1.1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+6d244459e576e705fd7cd723cc1c2c4ec06c50a2	not-for-merge	tag 'android-3.0_r1.2' of https://android.googlesource.com/platform/external/bluetooth/bluez
+6d244459e576e705fd7cd723cc1c2c4ec06c50a2	not-for-merge	tag 'android-3.0_r1.3' of https://android.googlesource.com/platform/external/bluetooth/bluez
+0d8841cd0cb78f0d001ec853d297c68b45898384	not-for-merge	tag 'android-3.1_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+0d8841cd0cb78f0d001ec853d297c68b45898384	not-for-merge	tag 'android-3.2.1_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+0d8841cd0cb78f0d001ec853d297c68b45898384	not-for-merge	tag 'android-3.2.1_r2' of https://android.googlesource.com/platform/external/bluetooth/bluez
+0d8841cd0cb78f0d001ec853d297c68b45898384	not-for-merge	tag 'android-3.2.2_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+0d8841cd0cb78f0d001ec853d297c68b45898384	not-for-merge	tag 'android-3.2.2_r2' of https://android.googlesource.com/platform/external/bluetooth/bluez
+0d8841cd0cb78f0d001ec853d297c68b45898384	not-for-merge	tag 'android-3.2.4_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+0d8841cd0cb78f0d001ec853d297c68b45898384	not-for-merge	tag 'android-3.2_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+cfeb2e819959b28ce98f5a2358bf753a05839228	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+cfeb2e819959b28ce98f5a2358bf753a05839228	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+cfeb2e819959b28ce98f5a2358bf753a05839228	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/bluetooth/bluez
+cfeb2e819959b28ce98f5a2358bf753a05839228	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+753c7bb72c0c83692745513b7e36c8cdf887dfbb	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+14be985aba4674bcf565a25355479d0391b73043	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/external/bluetooth/bluez
+02e98694ef87ea8ecb47789abf89c3f945ee0e20	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/bluetooth/bluez
+02e98694ef87ea8ecb47789abf89c3f945ee0e20	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/bluetooth/bluez
+cfeb2e819959b28ce98f5a2358bf753a05839228	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+a345fd4f5204db63b590c5e993052952379426a8	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+a345fd4f5204db63b590c5e993052952379426a8	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+a345fd4f5204db63b590c5e993052952379426a8	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/bluetooth/bluez
+cfeb2e819959b28ce98f5a2358bf753a05839228	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/bluetooth/bluez

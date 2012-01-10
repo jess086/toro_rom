@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/external/android-mock
+	projectname = platform/external/android-mock
+	fetch = +refs/heads/*:refs/remotes/aosp/*

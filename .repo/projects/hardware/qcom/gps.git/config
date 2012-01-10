@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/hardware/qcom/gps
+	projectname = platform/hardware/qcom/gps
+	fetch = +refs/heads/*:refs/remotes/aosp/*

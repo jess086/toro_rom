@@ -1,0 +1,64 @@
+f56d025e95385a2a9337fca6988a4f63e0808e78		branch 'donut-release' of https://android.googlesource.com/platform/packages/apps/Camera
+e5bd4d8abbac885899775b80f590bf5f88b150cb		branch 'donut-release2' of https://android.googlesource.com/platform/packages/apps/Camera
+4a2bae71f8771d93e121f61bbdd68dfdd2388f0c		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/Camera
+4a2bae71f8771d93e121f61bbdd68dfdd2388f0c		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/Camera
+3a6faca769a22a74945f84599628121f2c7cbb3a		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/Camera
+4a2bae71f8771d93e121f61bbdd68dfdd2388f0c		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/Camera
+b84acd02e46f87dead1fa75abb14427bf29ba8d8		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/Camera
+b84acd02e46f87dead1fa75abb14427bf29ba8d8		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/Camera
+ee0d835cbf639b4beb0c1795cb82ea873adefcbe		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Camera
+8ff2adc739ca898d0230c702eed7d327e5bbf4dc		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Camera
+8ff2adc739ca898d0230c702eed7d327e5bbf4dc		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Camera
+a067233f2464ef6ad59e5805c7cd1c334bcd1c08		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Camera
+30f26f912211751b4b28ac2f0e30af0430765214		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Camera
+9edb897f8ef2273f1de1b154c0c58ea03204e5ba		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Camera
+334791a4fd29daa13b59af84a352ba297798e7fd		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Camera
+aee821b036473c98f2208d7f84a6200cf583a987		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Camera
+a709bc0fe8ff921496a30fc51dcbbb32eb58c3f2		branch 'master' of https://android.googlesource.com/platform/packages/apps/Camera
+c0e0633f10c9f2ac1c787c879cc30d36477a1000	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+c0e0633f10c9f2ac1c787c879cc30d36477a1000	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/apps/Camera
+5dfa8ee648c61c88259ab4137529b091f20212e3	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/apps/Camera
+5dfa8ee648c61c88259ab4137529b091f20212e3	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/apps/Camera
+5dfa8ee648c61c88259ab4137529b091f20212e3	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/apps/Camera
+e5bd4d8abbac885899775b80f590bf5f88b150cb	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/apps/Camera
+f56d025e95385a2a9337fca6988a4f63e0808e78	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/apps/Camera
+3a6faca769a22a74945f84599628121f2c7cbb3a	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+6c84d1d1924fa2549aa76af11b149fe035b43b7b	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+03bba1a30ae1d5a4c14fd20438fbb926580cd747	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+4a2bae71f8771d93e121f61bbdd68dfdd2388f0c	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/Camera
+4a2bae71f8771d93e121f61bbdd68dfdd2388f0c	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/Camera
+4a2bae71f8771d93e121f61bbdd68dfdd2388f0c	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/Camera
+4a2bae71f8771d93e121f61bbdd68dfdd2388f0c	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/Camera
+b84acd02e46f87dead1fa75abb14427bf29ba8d8	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+b84acd02e46f87dead1fa75abb14427bf29ba8d8	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/Camera
+b84acd02e46f87dead1fa75abb14427bf29ba8d8	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+b84acd02e46f87dead1fa75abb14427bf29ba8d8	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+b84acd02e46f87dead1fa75abb14427bf29ba8d8	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/Camera
+b84acd02e46f87dead1fa75abb14427bf29ba8d8	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+b84acd02e46f87dead1fa75abb14427bf29ba8d8	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/Camera
+b84acd02e46f87dead1fa75abb14427bf29ba8d8	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/Camera
+b84acd02e46f87dead1fa75abb14427bf29ba8d8	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/Camera
+becd4ed88304f83436403b4d785e18d1955535cb	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+becd4ed88304f83436403b4d785e18d1955535cb	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+3b75adbab4e1f3fb356ac5676c4d32227668385f	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+3b75adbab4e1f3fb356ac5676c4d32227668385f	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Camera
+23df26df415300c858327a5e09e87857f88f416b	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Camera
+23df26df415300c858327a5e09e87857f88f416b	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+8ff2adc739ca898d0230c702eed7d327e5bbf4dc	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+8ff2adc739ca898d0230c702eed7d327e5bbf4dc	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Camera
+8ff2adc739ca898d0230c702eed7d327e5bbf4dc	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+8ff2adc739ca898d0230c702eed7d327e5bbf4dc	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+becd4ed88304f83436403b4d785e18d1955535cb	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+a067233f2464ef6ad59e5805c7cd1c334bcd1c08	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+a067233f2464ef6ad59e5805c7cd1c334bcd1c08	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Camera
+a067233f2464ef6ad59e5805c7cd1c334bcd1c08	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Camera
+9edb897f8ef2273f1de1b154c0c58ea03204e5ba	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+aee821b036473c98f2208d7f84a6200cf583a987	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+b84acd02e46f87dead1fa75abb14427bf29ba8d8	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/Camera
+ee0d835cbf639b4beb0c1795cb82ea873adefcbe	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Camera
+ee0d835cbf639b4beb0c1795cb82ea873adefcbe	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Camera
+30f26f912211751b4b28ac2f0e30af0430765214	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+334791a4fd29daa13b59af84a352ba297798e7fd	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+334791a4fd29daa13b59af84a352ba297798e7fd	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+334791a4fd29daa13b59af84a352ba297798e7fd	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Camera
+30f26f912211751b4b28ac2f0e30af0430765214	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Camera

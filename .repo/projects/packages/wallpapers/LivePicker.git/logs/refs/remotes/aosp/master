@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 dec52c7db31bdab5fcc5b7676c167638fe99bb92 jess <jess@jess-086.(none)> 1326164912 -0800	fetch /home/jess/toro_rom/.repo/projects/packages/wallpapers/LivePicker.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+dec52c7db31bdab5fcc5b7676c167638fe99bb92 ad8535ee889d92348da3faa63dcd5ea097952dd9 jess <jess@jess-086.(none)> 1326164913 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

@@ -1,0 +1,64 @@
+fde8642fc43bdd224e43e5ee9583a49a758fb03c		branch 'donut-release' of https://android.googlesource.com/platform/bionic
+fde8642fc43bdd224e43e5ee9583a49a758fb03c		branch 'donut-release2' of https://android.googlesource.com/platform/bionic
+d0996bb4cd6b6d0fa7c643a809f01e33adc2638d		branch 'eclair-passion-release' of https://android.googlesource.com/platform/bionic
+5f53a18204ec991f5a77872806eeaa185936aa8c		branch 'eclair-release' of https://android.googlesource.com/platform/bionic
+110044b131122e6886b962d5d16b1031695c374b		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/bionic
+5f53a18204ec991f5a77872806eeaa185936aa8c		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/bionic
+9163872132a3e92f986b1d684badb1dd4482ad8e		branch 'froyo' of https://android.googlesource.com/platform/bionic
+9163872132a3e92f986b1d684badb1dd4482ad8e		branch 'froyo-release' of https://android.googlesource.com/platform/bionic
+2c222c49066e46208ea5ed75141978a5c3974d10		branch 'gingerbread' of https://android.googlesource.com/platform/bionic
+3f14ff34dfbd00fcffb18b10a1a3e17e2cc5ebdf		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/bionic
+3f14ff34dfbd00fcffb18b10a1a3e17e2cc5ebdf		branch 'gingerbread-release' of https://android.googlesource.com/platform/bionic
+faa7c1d29f9ed0b3eb252bb0bd43e7596eed5d9c		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/bionic
+faa7c1d29f9ed0b3eb252bb0bd43e7596eed5d9c		branch 'ics-mr0' of https://android.googlesource.com/platform/bionic
+faa7c1d29f9ed0b3eb252bb0bd43e7596eed5d9c		branch 'ics-mr0-release' of https://android.googlesource.com/platform/bionic
+94963af28e445384e19775a838a29e6a71708179		branch 'ics-mr1' of https://android.googlesource.com/platform/bionic
+caf08f71b824783dfe0ab57c6b639dca1106d695		branch 'ics-mr1-release' of https://android.googlesource.com/platform/bionic
+e30e909363c5c706f394050d9cd00ce222caadbf		branch 'master' of https://android.googlesource.com/platform/bionic
+fde8642fc43bdd224e43e5ee9583a49a758fb03c	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/bionic
+fde8642fc43bdd224e43e5ee9583a49a758fb03c	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/bionic
+fde8642fc43bdd224e43e5ee9583a49a758fb03c	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/bionic
+fde8642fc43bdd224e43e5ee9583a49a758fb03c	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/bionic
+fde8642fc43bdd224e43e5ee9583a49a758fb03c	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/bionic
+fde8642fc43bdd224e43e5ee9583a49a758fb03c	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/bionic
+fde8642fc43bdd224e43e5ee9583a49a758fb03c	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/bionic
+110044b131122e6886b962d5d16b1031695c374b	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/bionic
+5c32826841460294cfba98ff713b4804512bacd1	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/bionic
+5f53a18204ec991f5a77872806eeaa185936aa8c	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/bionic
+5f53a18204ec991f5a77872806eeaa185936aa8c	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/bionic
+d0996bb4cd6b6d0fa7c643a809f01e33adc2638d	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/bionic
+d0996bb4cd6b6d0fa7c643a809f01e33adc2638d	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/bionic
+5f53a18204ec991f5a77872806eeaa185936aa8c	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/bionic
+9163872132a3e92f986b1d684badb1dd4482ad8e	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/bionic
+9163872132a3e92f986b1d684badb1dd4482ad8e	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/bionic
+9163872132a3e92f986b1d684badb1dd4482ad8e	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/bionic
+9163872132a3e92f986b1d684badb1dd4482ad8e	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/bionic
+9163872132a3e92f986b1d684badb1dd4482ad8e	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/bionic
+9163872132a3e92f986b1d684badb1dd4482ad8e	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/bionic
+9163872132a3e92f986b1d684badb1dd4482ad8e	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/bionic
+9163872132a3e92f986b1d684badb1dd4482ad8e	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/bionic
+9163872132a3e92f986b1d684badb1dd4482ad8e	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/bionic
+7bbd4580afe0347892a0680b5917ec7df38c003a	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/bionic
+7bbd4580afe0347892a0680b5917ec7df38c003a	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/bionic
+2081fda69a68505c914324797400b1b798516904	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/bionic
+2081fda69a68505c914324797400b1b798516904	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/bionic
+3f14ff34dfbd00fcffb18b10a1a3e17e2cc5ebdf	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/bionic
+3f14ff34dfbd00fcffb18b10a1a3e17e2cc5ebdf	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/bionic
+3f14ff34dfbd00fcffb18b10a1a3e17e2cc5ebdf	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/bionic
+3f14ff34dfbd00fcffb18b10a1a3e17e2cc5ebdf	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/bionic
+3f14ff34dfbd00fcffb18b10a1a3e17e2cc5ebdf	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/bionic
+3f14ff34dfbd00fcffb18b10a1a3e17e2cc5ebdf	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/bionic
+7bbd4580afe0347892a0680b5917ec7df38c003a	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/bionic
+faa7c1d29f9ed0b3eb252bb0bd43e7596eed5d9c	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/bionic
+faa7c1d29f9ed0b3eb252bb0bd43e7596eed5d9c	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/bionic
+faa7c1d29f9ed0b3eb252bb0bd43e7596eed5d9c	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/bionic
+faa7c1d29f9ed0b3eb252bb0bd43e7596eed5d9c	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/bionic
+caf08f71b824783dfe0ab57c6b639dca1106d695	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/bionic
+9163872132a3e92f986b1d684badb1dd4482ad8e	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/bionic
+2c222c49066e46208ea5ed75141978a5c3974d10	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/bionic
+2c222c49066e46208ea5ed75141978a5c3974d10	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/bionic
+faa7c1d29f9ed0b3eb252bb0bd43e7596eed5d9c	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/bionic
+94963af28e445384e19775a838a29e6a71708179	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/bionic
+94963af28e445384e19775a838a29e6a71708179	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/bionic
+94963af28e445384e19775a838a29e6a71708179	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/bionic
+faa7c1d29f9ed0b3eb252bb0bd43e7596eed5d9c	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/bionic

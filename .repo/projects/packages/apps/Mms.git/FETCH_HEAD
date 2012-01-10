@@ -1,0 +1,64 @@
+a4a11210b47767cfbff80f836eb865243882d867		branch 'donut-release' of https://android.googlesource.com/platform/packages/apps/Mms
+7c81df475d7ca0772f3560f437a184f3e47bd0b7		branch 'donut-release2' of https://android.googlesource.com/platform/packages/apps/Mms
+eaeb9a596e3f021c0253330b01b12135be14397e		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/Mms
+5a955cfe72b96a943774b43844c36551f0f5a242		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/Mms
+6c6914aecaac15ee3dc6e05f095c57c7b3a6bfbb		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/Mms
+5a955cfe72b96a943774b43844c36551f0f5a242		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/Mms
+1f4171b81be3d2aafcb5d330af5603925f0c02c9		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/Mms
+18d6b7e9d2e538fb3c0264332b96c02abf367267		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/Mms
+038817fffb2fb8045393443cab7392e6114dfc3d		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Mms
+fd1766e6613390ac9d7c0dd8feac8708fa023a2b		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Mms
+fd1766e6613390ac9d7c0dd8feac8708fa023a2b		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Mms
+b5f535ede2c2da9945866b06a3ca02623b79dd01		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Mms
+a450d9513af20dd90c812ded91cf208c975d8852		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Mms
+a450d9513af20dd90c812ded91cf208c975d8852		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Mms
+5a859d2b5245b027c19be511c0406c1de9c71815		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Mms
+49bb6b8c903cf802bb870ce2cb6937d7b68a5c78		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Mms
+a75cbe9715bab5b5c59d1000757530220d9345bb		branch 'master' of https://android.googlesource.com/platform/packages/apps/Mms
+7c81df475d7ca0772f3560f437a184f3e47bd0b7	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+7c81df475d7ca0772f3560f437a184f3e47bd0b7	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/apps/Mms
+7c81df475d7ca0772f3560f437a184f3e47bd0b7	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/apps/Mms
+7c81df475d7ca0772f3560f437a184f3e47bd0b7	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/apps/Mms
+7c81df475d7ca0772f3560f437a184f3e47bd0b7	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/apps/Mms
+7c81df475d7ca0772f3560f437a184f3e47bd0b7	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/apps/Mms
+a4a11210b47767cfbff80f836eb865243882d867	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/apps/Mms
+6c6914aecaac15ee3dc6e05f095c57c7b3a6bfbb	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+b0ef2b0d0974c13e98055d8ffd85bef559fe80a4	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+7bd34a82f5a76ea6b9253adfcbe32d8d84a9e4b4	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+5a955cfe72b96a943774b43844c36551f0f5a242	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/Mms
+5a955cfe72b96a943774b43844c36551f0f5a242	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/Mms
+eaeb9a596e3f021c0253330b01b12135be14397e	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/Mms
+5a955cfe72b96a943774b43844c36551f0f5a242	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/Mms
+6e51635c78c22bc07092545c3af81c7d2880a1c7	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+6e51635c78c22bc07092545c3af81c7d2880a1c7	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/Mms
+18d6b7e9d2e538fb3c0264332b96c02abf367267	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+18d6b7e9d2e538fb3c0264332b96c02abf367267	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+18d6b7e9d2e538fb3c0264332b96c02abf367267	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/Mms
+e0958a47a7e8610b1233824f4a538d5c6c9e7543	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+e0958a47a7e8610b1233824f4a538d5c6c9e7543	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/Mms
+e0958a47a7e8610b1233824f4a538d5c6c9e7543	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/Mms
+e0958a47a7e8610b1233824f4a538d5c6c9e7543	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/Mms
+fc1be21f1ebd6706a4cb820e711202b795c0ebe4	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+4f4bdc23983376a430044e55304cbad95262ecde	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+f79c36bff8c1ae0b616ebabdb144b4a7167b4406	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+7f5298bcf71a6a658de9cc79e4ff717bb8994ca0	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Mms
+e1e63883f6938766484afeae3c4e36e6c29680dc	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Mms
+e1e63883f6938766484afeae3c4e36e6c29680dc	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+fd1766e6613390ac9d7c0dd8feac8708fa023a2b	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+fd1766e6613390ac9d7c0dd8feac8708fa023a2b	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Mms
+fd1766e6613390ac9d7c0dd8feac8708fa023a2b	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+fd1766e6613390ac9d7c0dd8feac8708fa023a2b	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+fc1be21f1ebd6706a4cb820e711202b795c0ebe4	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+b5f535ede2c2da9945866b06a3ca02623b79dd01	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+b5f535ede2c2da9945866b06a3ca02623b79dd01	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Mms
+b5f535ede2c2da9945866b06a3ca02623b79dd01	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Mms
+a450d9513af20dd90c812ded91cf208c975d8852	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+49bb6b8c903cf802bb870ce2cb6937d7b68a5c78	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+1f4171b81be3d2aafcb5d330af5603925f0c02c9	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/Mms
+038817fffb2fb8045393443cab7392e6114dfc3d	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Mms
+038817fffb2fb8045393443cab7392e6114dfc3d	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Mms
+a450d9513af20dd90c812ded91cf208c975d8852	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+5a859d2b5245b027c19be511c0406c1de9c71815	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+5a859d2b5245b027c19be511c0406c1de9c71815	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+5a859d2b5245b027c19be511c0406c1de9c71815	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Mms
+a450d9513af20dd90c812ded91cf208c975d8852	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Mms

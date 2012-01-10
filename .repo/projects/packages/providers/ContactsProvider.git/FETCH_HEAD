@@ -1,0 +1,64 @@
+e697e22ce41951bcb214aa3e840a5cc8f8c480b3		branch 'donut-release' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+e21d4ae92d89e1d3999fbf0edb71f99ce71c7740		branch 'donut-release2' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+f4a3b7e523e36679b68edd2af632e26648758ff2		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+f4a3b7e523e36679b68edd2af632e26648758ff2		branch 'eclair-release' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+ea029fd79225640e49be82457b83b6b3a0279fd0		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+f4a3b7e523e36679b68edd2af632e26648758ff2		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+4f20a360a2f0a7a83900c28fc7728542b38d8939		branch 'froyo' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+9a18b32ced39eaf1aa8a24381b08ce409478878d		branch 'froyo-release' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79		branch 'gingerbread' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1322df8f90d80587748ad10539516635326c01e8		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1322df8f90d80587748ad10539516635326c01e8		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1322df8f90d80587748ad10539516635326c01e8		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1bc8603830a07b4ff641bf74227c654c99a8473b		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+a751608c5c76409061d35d95eedb828c842366a8		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+95347088de3f7a95efdbb742e2a703ecd0e9e852		branch 'master' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+e21d4ae92d89e1d3999fbf0edb71f99ce71c7740	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+e21d4ae92d89e1d3999fbf0edb71f99ce71c7740	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+e21d4ae92d89e1d3999fbf0edb71f99ce71c7740	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+e21d4ae92d89e1d3999fbf0edb71f99ce71c7740	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+e21d4ae92d89e1d3999fbf0edb71f99ce71c7740	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+e21d4ae92d89e1d3999fbf0edb71f99ce71c7740	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+e697e22ce41951bcb214aa3e840a5cc8f8c480b3	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+ea029fd79225640e49be82457b83b6b3a0279fd0	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+22d6a52eace0dab1e6a570bbfeb2b49c2858214f	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1b6c85b96f5cccae94d8bad6ea727accacfb7a0f	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+f4a3b7e523e36679b68edd2af632e26648758ff2	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+f4a3b7e523e36679b68edd2af632e26648758ff2	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+f4a3b7e523e36679b68edd2af632e26648758ff2	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+f4a3b7e523e36679b68edd2af632e26648758ff2	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+9a18b32ced39eaf1aa8a24381b08ce409478878d	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+9a18b32ced39eaf1aa8a24381b08ce409478878d	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+9a18b32ced39eaf1aa8a24381b08ce409478878d	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+9a18b32ced39eaf1aa8a24381b08ce409478878d	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+9a18b32ced39eaf1aa8a24381b08ce409478878d	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+9a18b32ced39eaf1aa8a24381b08ce409478878d	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+9a18b32ced39eaf1aa8a24381b08ce409478878d	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+9a18b32ced39eaf1aa8a24381b08ce409478878d	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+9a18b32ced39eaf1aa8a24381b08ce409478878d	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+ab79fb5b789459312289fc87bd33414c78147d8f	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+ab79fb5b789459312289fc87bd33414c78147d8f	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+ab79fb5b789459312289fc87bd33414c78147d8f	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1322df8f90d80587748ad10539516635326c01e8	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1322df8f90d80587748ad10539516635326c01e8	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1322df8f90d80587748ad10539516635326c01e8	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1322df8f90d80587748ad10539516635326c01e8	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+a751608c5c76409061d35d95eedb828c842366a8	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+4f20a360a2f0a7a83900c28fc7728542b38d8939	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+c9d8e21bd1e6dbde3208b9475a2697081f8ced79	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1322df8f90d80587748ad10539516635326c01e8	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1bc8603830a07b4ff641bf74227c654c99a8473b	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1bc8603830a07b4ff641bf74227c654c99a8473b	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1bc8603830a07b4ff641bf74227c654c99a8473b	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider
+1322df8f90d80587748ad10539516635326c01e8	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/providers/ContactsProvider

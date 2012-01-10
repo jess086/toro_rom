@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/hardware/ti/omap4xxx
+	projectname = platform/hardware/ti/omap4xxx
+	fetch = +refs/heads/*:refs/remotes/aosp/*

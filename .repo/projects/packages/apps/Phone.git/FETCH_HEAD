@@ -1,0 +1,64 @@
+9e8b360c7ef91f3a7d076cb7737514801f0d1775		branch 'donut-release' of https://android.googlesource.com/platform/packages/apps/Phone
+39b8648f429ac04cbddac1402f361fbb16e37366		branch 'donut-release2' of https://android.googlesource.com/platform/packages/apps/Phone
+1dbb8add16861eb565b02c75544fe39270a0c1fa		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/Phone
+dc66301e77d854b6cef2101bf7029c9bbb816f3e		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/Phone
+839af2e10e23c7c21f22abec5f3d7fa05d6406a2		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/Phone
+4da9ab4eca8c7347209553112d629f9b5562c423		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/Phone
+35bec37cb7529b3c0badc8b384fb2fd7f2ecc37c		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/Phone
+e5539fe525ca888f4fd3249494a1dcfee8dd46af		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/Phone
+11f5d94dd5d0b5c81a84423008d6d7ccfcae2f57		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Phone
+17ab7bd3d0e9cffe74266360e1fff99ea9e29b26		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Phone
+17ab7bd3d0e9cffe74266360e1fff99ea9e29b26		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Phone
+c4a67874bd457bafe744adc596deeb62e70454ec		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Phone
+96a172bd077f08da5af3ccd305391a29c46d6b6d		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Phone
+0af3d6d1f2c47d4eaba3d4c9a98fb7a48246a7c1		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Phone
+940067fb6ae30a26b7481e28acf7e3a00e9d06f3		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Phone
+5c7d3167b8372b040d6c0a695f7c0822d80b2c21		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Phone
+109d6d3658080fe9d72a01d042af3c5b9b447d76		branch 'master' of https://android.googlesource.com/platform/packages/apps/Phone
+6d34074d24f430e46d1a66dd1515715515fd0da3	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+6d34074d24f430e46d1a66dd1515715515fd0da3	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/apps/Phone
+6d34074d24f430e46d1a66dd1515715515fd0da3	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/apps/Phone
+6d34074d24f430e46d1a66dd1515715515fd0da3	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/apps/Phone
+6d34074d24f430e46d1a66dd1515715515fd0da3	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/apps/Phone
+39b8648f429ac04cbddac1402f361fbb16e37366	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/apps/Phone
+9e8b360c7ef91f3a7d076cb7737514801f0d1775	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/apps/Phone
+839af2e10e23c7c21f22abec5f3d7fa05d6406a2	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+afb79b20552e8f4448520cdd3fe7ed9d819efc8e	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+6a8928a7265b6586b561e60ee93b23f5fa6f30ea	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+dc66301e77d854b6cef2101bf7029c9bbb816f3e	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/Phone
+1dbb8add16861eb565b02c75544fe39270a0c1fa	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/Phone
+1dbb8add16861eb565b02c75544fe39270a0c1fa	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/Phone
+4da9ab4eca8c7347209553112d629f9b5562c423	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/Phone
+e5539fe525ca888f4fd3249494a1dcfee8dd46af	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+e5539fe525ca888f4fd3249494a1dcfee8dd46af	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/Phone
+e5539fe525ca888f4fd3249494a1dcfee8dd46af	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+e5539fe525ca888f4fd3249494a1dcfee8dd46af	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+e5539fe525ca888f4fd3249494a1dcfee8dd46af	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/Phone
+f64c95b54a8793d9444b8ad06428c5ea74acd85a	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+f64c95b54a8793d9444b8ad06428c5ea74acd85a	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/Phone
+f64c95b54a8793d9444b8ad06428c5ea74acd85a	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/Phone
+f64c95b54a8793d9444b8ad06428c5ea74acd85a	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/Phone
+565c9adaaa8b4276692eb83351be81d1329beab7	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+565c9adaaa8b4276692eb83351be81d1329beab7	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+1dcdf46d93b5ea9769c85ec15f2b44d71de2e57d	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+697fcf3b6e4773357edd56b50e1d7991c60dec6c	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Phone
+6e38c80b51bc2dbc6d74071f103bf8499295198e	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Phone
+6e38c80b51bc2dbc6d74071f103bf8499295198e	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+54c42aebae50804cb620a35f0f82dd2ce2187e53	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+17ab7bd3d0e9cffe74266360e1fff99ea9e29b26	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Phone
+17ab7bd3d0e9cffe74266360e1fff99ea9e29b26	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+17ab7bd3d0e9cffe74266360e1fff99ea9e29b26	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+565c9adaaa8b4276692eb83351be81d1329beab7	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+c4a67874bd457bafe744adc596deeb62e70454ec	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+c4a67874bd457bafe744adc596deeb62e70454ec	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Phone
+c4a67874bd457bafe744adc596deeb62e70454ec	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Phone
+0af3d6d1f2c47d4eaba3d4c9a98fb7a48246a7c1	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+5c7d3167b8372b040d6c0a695f7c0822d80b2c21	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+35bec37cb7529b3c0badc8b384fb2fd7f2ecc37c	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/Phone
+11f5d94dd5d0b5c81a84423008d6d7ccfcae2f57	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Phone
+11f5d94dd5d0b5c81a84423008d6d7ccfcae2f57	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Phone
+8f50bdd0dd2cfa20baeeb49c6e5f22d6f0790f5f	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+940067fb6ae30a26b7481e28acf7e3a00e9d06f3	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+9e01ecb5466843c3d9bbb562ebae4835db6f4937	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+d2a2b6c7da2492a23104a080fd54756714a36873	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Phone
+96a172bd077f08da5af3ccd305391a29c46d6b6d	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Phone

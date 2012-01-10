@@ -1,0 +1,16 @@
+d48018c1345a557221f2f2a36e8507ff891b8bf5		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+d48018c1345a557221f2f2a36e8507ff891b8bf5		branch 'ics-mr0' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+d48018c1345a557221f2f2a36e8507ff891b8bf5		branch 'ics-mr0-release' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+41a61272cbc65d9ff1df9d18630e356856bd7182		branch 'ics-mr1' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+7104502c9f5a4bf0cd25e5cdc54b33429038ce52		branch 'ics-mr1-release' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+3c744ae00f2346628f047046d68709916b3d5fa2		branch 'master' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+d48018c1345a557221f2f2a36e8507ff891b8bf5	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+d48018c1345a557221f2f2a36e8507ff891b8bf5	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+d48018c1345a557221f2f2a36e8507ff891b8bf5	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+d48018c1345a557221f2f2a36e8507ff891b8bf5	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+7104502c9f5a4bf0cd25e5cdc54b33429038ce52	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+d48018c1345a557221f2f2a36e8507ff891b8bf5	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+41a61272cbc65d9ff1df9d18630e356856bd7182	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+41a61272cbc65d9ff1df9d18630e356856bd7182	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+41a61272cbc65d9ff1df9d18630e356856bd7182	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/frameworks/opt/mailcommon
+d48018c1345a557221f2f2a36e8507ff891b8bf5	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/frameworks/opt/mailcommon

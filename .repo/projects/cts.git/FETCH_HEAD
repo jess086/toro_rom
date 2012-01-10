@@ -1,0 +1,55 @@
+cb9dfb78d80572952de63d8ddcd1c29d6f69b944		branch 'eclair-passion-release' of https://android.googlesource.com/platform/cts
+9bb039cb2249cc3237a3ade0fea37d01b72f28e5		branch 'eclair-release' of https://android.googlesource.com/platform/cts
+872068b00473098530080b18efe9d068f2d7c50f		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/cts
+9bb039cb2249cc3237a3ade0fea37d01b72f28e5		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/cts
+c0cf6bce5fbaf569b5d492a2f270c2425ab86311		branch 'froyo' of https://android.googlesource.com/platform/cts
+b503197440fdf617b436ed3c9ea3f3877ba97394		branch 'froyo-release' of https://android.googlesource.com/platform/cts
+4ca90712324d1aa4dcfb9601409581a2dbfdcbc9		branch 'gingerbread' of https://android.googlesource.com/platform/cts
+6b4d831147bd65bc5a3d3e23c05626c831151615		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/cts
+6b4d831147bd65bc5a3d3e23c05626c831151615		branch 'gingerbread-release' of https://android.googlesource.com/platform/cts
+266440ef9b7aee437d971afb688a91b6a48e8cca		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/cts
+14a2900c53ba204313e0d1575f1b2b88570774bd		branch 'ics-mr0' of https://android.googlesource.com/platform/cts
+875641efcfd4dd0eeb832e3a37a93278b03972ce		branch 'ics-mr0-release' of https://android.googlesource.com/platform/cts
+77976b6f6ed3b7617de983ef3d4acdfd90c4f10f		branch 'ics-mr1' of https://android.googlesource.com/platform/cts
+0e0ff7494a35d05618923cb11586d9487cf5b62e		branch 'ics-mr1-release' of https://android.googlesource.com/platform/cts
+937cf8a3131305ce84919cafa6c515e61f2b6c9e		branch 'master' of https://android.googlesource.com/platform/cts
+872068b00473098530080b18efe9d068f2d7c50f	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/cts
+2b4283a627eb9592f73facc93f158a823e29ffc7	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/cts
+f872bb1ac1c0317f07406201df51a9af1b5412b8	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/cts
+9bb039cb2249cc3237a3ade0fea37d01b72f28e5	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/cts
+cb9dfb78d80572952de63d8ddcd1c29d6f69b944	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/cts
+cb9dfb78d80572952de63d8ddcd1c29d6f69b944	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/cts
+9bb039cb2249cc3237a3ade0fea37d01b72f28e5	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/cts
+b503197440fdf617b436ed3c9ea3f3877ba97394	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/cts
+b503197440fdf617b436ed3c9ea3f3877ba97394	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/cts
+b503197440fdf617b436ed3c9ea3f3877ba97394	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/cts
+b503197440fdf617b436ed3c9ea3f3877ba97394	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/cts
+b503197440fdf617b436ed3c9ea3f3877ba97394	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/cts
+83a4a1c6a6afafeddb1b4e38a012dc66b09f3a53	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/cts
+83a4a1c6a6afafeddb1b4e38a012dc66b09f3a53	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/cts
+83a4a1c6a6afafeddb1b4e38a012dc66b09f3a53	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/cts
+b503197440fdf617b436ed3c9ea3f3877ba97394	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/cts
+1ee3f244e9e4b34b165a290dad2f22efc717111f	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/cts
+1ee3f244e9e4b34b165a290dad2f22efc717111f	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/cts
+ba0d40a4e638c77938f9fd89eaddd0f8f41e631d	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/cts
+ba0d40a4e638c77938f9fd89eaddd0f8f41e631d	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/cts
+7e6aa18ebc7ae3ea070ef2d78c7546f3976655fc	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/cts
+81b010fe20906fd51a23e766001b29a7b50c2cb4	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/cts
+6b4d831147bd65bc5a3d3e23c05626c831151615	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/cts
+6b4d831147bd65bc5a3d3e23c05626c831151615	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/cts
+6b4d831147bd65bc5a3d3e23c05626c831151615	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/cts
+6b4d831147bd65bc5a3d3e23c05626c831151615	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/cts
+1ee3f244e9e4b34b165a290dad2f22efc717111f	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/cts
+266440ef9b7aee437d971afb688a91b6a48e8cca	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/cts
+266440ef9b7aee437d971afb688a91b6a48e8cca	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/cts
+266440ef9b7aee437d971afb688a91b6a48e8cca	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/cts
+875641efcfd4dd0eeb832e3a37a93278b03972ce	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/cts
+0e0ff7494a35d05618923cb11586d9487cf5b62e	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/cts
+669e7bf7f60d0c674b54b32e667802967845e2ab	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/cts
+73f783fc4046144f9ff72c05e1518b66f6c595be	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/cts
+9b89b4bda07c6d2e3c791915d279cf6d871b6241	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/cts
+9640441a43e2a08c8c5e77d8bcaea40ea8ece50f	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/cts
+9640441a43e2a08c8c5e77d8bcaea40ea8ece50f	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/cts
+0aef1f16fa3a1b986cd7cef3d8d014dc066a12ba	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/cts
+f29a1922bd41e3adc03cca2eb7521810d169207a	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/cts
+a9f8ec992bc9916b7fc17d15929884295bab148f	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/cts

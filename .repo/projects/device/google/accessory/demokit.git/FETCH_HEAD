@@ -1,0 +1,25 @@
+c91d5884056b4a13f7f990aebf62f6c698856fea		branch 'gingerbread' of https://android.googlesource.com/device/google/accessory/demokit
+37921cd911a238cee5d79c6f63f84304c1ca36e0		branch 'gingerbread-mr4-release' of https://android.googlesource.com/device/google/accessory/demokit
+37921cd911a238cee5d79c6f63f84304c1ca36e0		branch 'gingerbread-release' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded		branch 'ics-mr0' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded		branch 'ics-mr0-release' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded		branch 'ics-mr1' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded		branch 'ics-mr1-release' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded		branch 'master' of https://android.googlesource.com/device/google/accessory/demokit
+37921cd911a238cee5d79c6f63f84304c1ca36e0	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/device/google/accessory/demokit
+37921cd911a238cee5d79c6f63f84304c1ca36e0	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/device/google/accessory/demokit
+37921cd911a238cee5d79c6f63f84304c1ca36e0	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/device/google/accessory/demokit
+37921cd911a238cee5d79c6f63f84304c1ca36e0	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/device/google/accessory/demokit
+c91d5884056b4a13f7f990aebf62f6c698856fea	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/device/google/accessory/demokit
+c91d5884056b4a13f7f990aebf62f6c698856fea	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/device/google/accessory/demokit
+c35b0f59498895a58dcc3d0ab8fb03683e123ded	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/device/google/accessory/demokit

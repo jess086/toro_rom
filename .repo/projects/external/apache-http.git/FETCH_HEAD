@@ -1,0 +1,64 @@
+58fb7313fe53a7ce5fb153e79560719e06058a4b		branch 'donut-release' of https://android.googlesource.com/platform/external/apache-http
+58fb7313fe53a7ce5fb153e79560719e06058a4b		branch 'donut-release2' of https://android.googlesource.com/platform/external/apache-http
+0975baec4ae0bb71b750180ca550b747cb1c3cd5		branch 'eclair-passion-release' of https://android.googlesource.com/platform/external/apache-http
+0975baec4ae0bb71b750180ca550b747cb1c3cd5		branch 'eclair-release' of https://android.googlesource.com/platform/external/apache-http
+0975baec4ae0bb71b750180ca550b747cb1c3cd5		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/external/apache-http
+0975baec4ae0bb71b750180ca550b747cb1c3cd5		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/external/apache-http
+2e9f166eba309e50c1c1f52ff8d2694f058ab2cf		branch 'froyo' of https://android.googlesource.com/platform/external/apache-http
+2e9f166eba309e50c1c1f52ff8d2694f058ab2cf		branch 'froyo-release' of https://android.googlesource.com/platform/external/apache-http
+b91c5e936342afbdd58c88ac604d5dd505d0fe0c		branch 'gingerbread' of https://android.googlesource.com/platform/external/apache-http
+b91c5e936342afbdd58c88ac604d5dd505d0fe0c		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/apache-http
+b91c5e936342afbdd58c88ac604d5dd505d0fe0c		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f		branch 'ics-mr0' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f		branch 'ics-mr1' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f		branch 'master' of https://android.googlesource.com/platform/external/apache-http
+58fb7313fe53a7ce5fb153e79560719e06058a4b	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/external/apache-http
+58fb7313fe53a7ce5fb153e79560719e06058a4b	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/external/apache-http
+58fb7313fe53a7ce5fb153e79560719e06058a4b	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/external/apache-http
+58fb7313fe53a7ce5fb153e79560719e06058a4b	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/external/apache-http
+58fb7313fe53a7ce5fb153e79560719e06058a4b	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/external/apache-http
+58fb7313fe53a7ce5fb153e79560719e06058a4b	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/external/apache-http
+58fb7313fe53a7ce5fb153e79560719e06058a4b	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/external/apache-http
+0975baec4ae0bb71b750180ca550b747cb1c3cd5	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/external/apache-http
+0975baec4ae0bb71b750180ca550b747cb1c3cd5	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/external/apache-http
+0975baec4ae0bb71b750180ca550b747cb1c3cd5	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/external/apache-http
+0975baec4ae0bb71b750180ca550b747cb1c3cd5	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/external/apache-http
+0975baec4ae0bb71b750180ca550b747cb1c3cd5	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/external/apache-http
+0975baec4ae0bb71b750180ca550b747cb1c3cd5	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/external/apache-http
+0975baec4ae0bb71b750180ca550b747cb1c3cd5	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/external/apache-http
+2e9f166eba309e50c1c1f52ff8d2694f058ab2cf	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/external/apache-http
+2e9f166eba309e50c1c1f52ff8d2694f058ab2cf	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/external/apache-http
+2e9f166eba309e50c1c1f52ff8d2694f058ab2cf	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/external/apache-http
+2e9f166eba309e50c1c1f52ff8d2694f058ab2cf	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/external/apache-http
+2e9f166eba309e50c1c1f52ff8d2694f058ab2cf	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/external/apache-http
+2e9f166eba309e50c1c1f52ff8d2694f058ab2cf	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/external/apache-http
+2e9f166eba309e50c1c1f52ff8d2694f058ab2cf	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/external/apache-http
+2e9f166eba309e50c1c1f52ff8d2694f058ab2cf	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/external/apache-http
+2e9f166eba309e50c1c1f52ff8d2694f058ab2cf	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/external/apache-http
+9f7b511f4ac753992e9b726c41f7aec71092c15c	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/apache-http
+9f7b511f4ac753992e9b726c41f7aec71092c15c	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/apache-http
+b91c5e936342afbdd58c88ac604d5dd505d0fe0c	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/apache-http
+b91c5e936342afbdd58c88ac604d5dd505d0fe0c	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/apache-http
+b91c5e936342afbdd58c88ac604d5dd505d0fe0c	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/apache-http
+b91c5e936342afbdd58c88ac604d5dd505d0fe0c	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/apache-http
+b91c5e936342afbdd58c88ac604d5dd505d0fe0c	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/apache-http
+b91c5e936342afbdd58c88ac604d5dd505d0fe0c	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/apache-http
+b91c5e936342afbdd58c88ac604d5dd505d0fe0c	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/apache-http
+b91c5e936342afbdd58c88ac604d5dd505d0fe0c	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/apache-http
+9f7b511f4ac753992e9b726c41f7aec71092c15c	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/apache-http
+2e9f166eba309e50c1c1f52ff8d2694f058ab2cf	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/external/apache-http
+b91c5e936342afbdd58c88ac604d5dd505d0fe0c	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/apache-http
+b91c5e936342afbdd58c88ac604d5dd505d0fe0c	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/apache-http
+6c9d8c58d3ed710f87c26820d903bb8aad81754f	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/apache-http

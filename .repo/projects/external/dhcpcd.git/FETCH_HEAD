@@ -1,0 +1,64 @@
+e9890bce2725de10f5b42f14e430878ccf712b69		branch 'donut-release' of https://android.googlesource.com/platform/external/dhcpcd
+e9890bce2725de10f5b42f14e430878ccf712b69		branch 'donut-release2' of https://android.googlesource.com/platform/external/dhcpcd
+b22386a3de85d94030c7071760f4a5e3368bfbe5		branch 'eclair-passion-release' of https://android.googlesource.com/platform/external/dhcpcd
+b22386a3de85d94030c7071760f4a5e3368bfbe5		branch 'eclair-release' of https://android.googlesource.com/platform/external/dhcpcd
+b22386a3de85d94030c7071760f4a5e3368bfbe5		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/external/dhcpcd
+b22386a3de85d94030c7071760f4a5e3368bfbe5		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/external/dhcpcd
+e2cfecadc4e796cae73dbc0dafaf46b837569e71		branch 'froyo' of https://android.googlesource.com/platform/external/dhcpcd
+9661983ab7964d195432d905f721f9dd59163edc		branch 'froyo-release' of https://android.googlesource.com/platform/external/dhcpcd
+17fdc0dee1db0246a59cd3b28278389043fe5134		branch 'gingerbread' of https://android.googlesource.com/platform/external/dhcpcd
+17fdc0dee1db0246a59cd3b28278389043fe5134		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/dhcpcd
+17fdc0dee1db0246a59cd3b28278389043fe5134		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/dhcpcd
+0d3a47d979ac35a49b2a2da9e80e16bd37aab877		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/dhcpcd
+0d3a47d979ac35a49b2a2da9e80e16bd37aab877		branch 'ics-mr0' of https://android.googlesource.com/platform/external/dhcpcd
+0d3a47d979ac35a49b2a2da9e80e16bd37aab877		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/dhcpcd
+ddaa48f57b54b2862b3e6dcf18a44c9647f3baaa		branch 'ics-mr1' of https://android.googlesource.com/platform/external/dhcpcd
+ddaa48f57b54b2862b3e6dcf18a44c9647f3baaa		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/dhcpcd
+ddaa48f57b54b2862b3e6dcf18a44c9647f3baaa		branch 'master' of https://android.googlesource.com/platform/external/dhcpcd
+e9890bce2725de10f5b42f14e430878ccf712b69	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/external/dhcpcd
+e9890bce2725de10f5b42f14e430878ccf712b69	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/external/dhcpcd
+e9890bce2725de10f5b42f14e430878ccf712b69	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/external/dhcpcd
+e9890bce2725de10f5b42f14e430878ccf712b69	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/external/dhcpcd
+e9890bce2725de10f5b42f14e430878ccf712b69	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/external/dhcpcd
+e9890bce2725de10f5b42f14e430878ccf712b69	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/external/dhcpcd
+e9890bce2725de10f5b42f14e430878ccf712b69	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/external/dhcpcd
+b22386a3de85d94030c7071760f4a5e3368bfbe5	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/external/dhcpcd
+b22386a3de85d94030c7071760f4a5e3368bfbe5	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/external/dhcpcd
+b22386a3de85d94030c7071760f4a5e3368bfbe5	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/external/dhcpcd
+b22386a3de85d94030c7071760f4a5e3368bfbe5	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/external/dhcpcd
+b22386a3de85d94030c7071760f4a5e3368bfbe5	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/external/dhcpcd
+b22386a3de85d94030c7071760f4a5e3368bfbe5	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/external/dhcpcd
+b22386a3de85d94030c7071760f4a5e3368bfbe5	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/external/dhcpcd
+9661983ab7964d195432d905f721f9dd59163edc	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/external/dhcpcd
+9661983ab7964d195432d905f721f9dd59163edc	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/external/dhcpcd
+9661983ab7964d195432d905f721f9dd59163edc	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/external/dhcpcd
+9661983ab7964d195432d905f721f9dd59163edc	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/external/dhcpcd
+9661983ab7964d195432d905f721f9dd59163edc	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/external/dhcpcd
+9661983ab7964d195432d905f721f9dd59163edc	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/external/dhcpcd
+9661983ab7964d195432d905f721f9dd59163edc	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/external/dhcpcd
+9661983ab7964d195432d905f721f9dd59163edc	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/external/dhcpcd
+9661983ab7964d195432d905f721f9dd59163edc	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/external/dhcpcd
+07e6bad27beabac5f4ed795fbbc7c8b564b14495	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/dhcpcd
+07e6bad27beabac5f4ed795fbbc7c8b564b14495	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/dhcpcd
+07e6bad27beabac5f4ed795fbbc7c8b564b14495	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/dhcpcd
+07e6bad27beabac5f4ed795fbbc7c8b564b14495	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/dhcpcd
+17fdc0dee1db0246a59cd3b28278389043fe5134	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/dhcpcd
+17fdc0dee1db0246a59cd3b28278389043fe5134	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/dhcpcd
+17fdc0dee1db0246a59cd3b28278389043fe5134	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/dhcpcd
+17fdc0dee1db0246a59cd3b28278389043fe5134	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/dhcpcd
+17fdc0dee1db0246a59cd3b28278389043fe5134	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/dhcpcd
+17fdc0dee1db0246a59cd3b28278389043fe5134	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/dhcpcd
+07e6bad27beabac5f4ed795fbbc7c8b564b14495	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/dhcpcd
+0d3a47d979ac35a49b2a2da9e80e16bd37aab877	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/dhcpcd
+0d3a47d979ac35a49b2a2da9e80e16bd37aab877	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/dhcpcd
+0d3a47d979ac35a49b2a2da9e80e16bd37aab877	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/dhcpcd
+0d3a47d979ac35a49b2a2da9e80e16bd37aab877	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/dhcpcd
+ddaa48f57b54b2862b3e6dcf18a44c9647f3baaa	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/dhcpcd
+e2cfecadc4e796cae73dbc0dafaf46b837569e71	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/external/dhcpcd
+17fdc0dee1db0246a59cd3b28278389043fe5134	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/dhcpcd
+17fdc0dee1db0246a59cd3b28278389043fe5134	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/dhcpcd
+0d3a47d979ac35a49b2a2da9e80e16bd37aab877	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/dhcpcd
+ddaa48f57b54b2862b3e6dcf18a44c9647f3baaa	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/dhcpcd
+ddaa48f57b54b2862b3e6dcf18a44c9647f3baaa	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/dhcpcd
+ddaa48f57b54b2862b3e6dcf18a44c9647f3baaa	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/dhcpcd
+0d3a47d979ac35a49b2a2da9e80e16bd37aab877	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/dhcpcd

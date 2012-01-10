@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 17b5fecebaa3b54d0cd818f61ac993af8fe8926b jess <jess@jess-086.(none)> 1326162867 -0800	fetch /home/jess/toro_rom/.repo/projects/packages/apps/BasicSmsReceiver.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+17b5fecebaa3b54d0cd818f61ac993af8fe8926b c993ddcaef65c5132a356f861a6948e76a5db86c jess <jess@jess-086.(none)> 1326162873 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

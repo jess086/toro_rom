@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/external/freetype
+	projectname = platform/external/freetype
+	fetch = +refs/heads/*:refs/remotes/aosp/*

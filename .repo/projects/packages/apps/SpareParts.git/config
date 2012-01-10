@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/packages/apps/SpareParts
+	projectname = platform/packages/apps/SpareParts
+	fetch = +refs/heads/*:refs/remotes/aosp/*

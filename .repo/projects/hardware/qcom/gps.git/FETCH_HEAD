@@ -1,0 +1,43 @@
+463321860904029ebf9a62024c02f7bd82215ae4		branch 'froyo' of https://android.googlesource.com/platform/hardware/qcom/gps
+463321860904029ebf9a62024c02f7bd82215ae4		branch 'froyo-release' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72		branch 'gingerbread' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72		branch 'gingerbread-release' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d		branch 'ics-mr0' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d		branch 'ics-mr0-release' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d		branch 'ics-mr1' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d		branch 'ics-mr1-release' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d		branch 'master' of https://android.googlesource.com/platform/hardware/qcom/gps
+463321860904029ebf9a62024c02f7bd82215ae4	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+463321860904029ebf9a62024c02f7bd82215ae4	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/hardware/qcom/gps
+463321860904029ebf9a62024c02f7bd82215ae4	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+463321860904029ebf9a62024c02f7bd82215ae4	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+463321860904029ebf9a62024c02f7bd82215ae4	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/hardware/qcom/gps
+463321860904029ebf9a62024c02f7bd82215ae4	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+463321860904029ebf9a62024c02f7bd82215ae4	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/hardware/qcom/gps
+463321860904029ebf9a62024c02f7bd82215ae4	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+463321860904029ebf9a62024c02f7bd82215ae4	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/hardware/qcom/gps
+a162c4351926285892214b0726aaf07f0631dc72	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/hardware/qcom/gps
+13e995a1fec4d7b529367654f13d203e6ac3147d	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/hardware/qcom/gps

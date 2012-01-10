@@ -1,0 +1,25 @@
+1cc19a7049e14898425e9f1cd53153d268094706		branch 'gingerbread' of https://android.googlesource.com/device/google/accessory/arduino
+ee3bb7c351e732e8f518cde0238bf9b3d810d80a		branch 'gingerbread-mr4-release' of https://android.googlesource.com/device/google/accessory/arduino
+ee3bb7c351e732e8f518cde0238bf9b3d810d80a		branch 'gingerbread-release' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138		branch 'ics-mr0' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138		branch 'ics-mr0-release' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138		branch 'ics-mr1' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138		branch 'ics-mr1-release' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138		branch 'master' of https://android.googlesource.com/device/google/accessory/arduino
+ee3bb7c351e732e8f518cde0238bf9b3d810d80a	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/device/google/accessory/arduino
+ee3bb7c351e732e8f518cde0238bf9b3d810d80a	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/device/google/accessory/arduino
+ee3bb7c351e732e8f518cde0238bf9b3d810d80a	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/device/google/accessory/arduino
+ee3bb7c351e732e8f518cde0238bf9b3d810d80a	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/device/google/accessory/arduino
+1cc19a7049e14898425e9f1cd53153d268094706	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/device/google/accessory/arduino
+1cc19a7049e14898425e9f1cd53153d268094706	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/device/google/accessory/arduino
+9b1ef69828775a15396b753c16a83417bb769138	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/device/google/accessory/arduino

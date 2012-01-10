@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 787a95a8c973facb890703159861bb332c2ae655 jess <jess@jess-086.(none)> 1326164905 -0800	fetch /home/jess/toro_rom/.repo/projects/packages/wallpapers/HoloSpiral.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+787a95a8c973facb890703159861bb332c2ae655 d816c1b97de9609d5479ae85611f9b2bf5f609aa jess <jess@jess-086.(none)> 1326164906 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

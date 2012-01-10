@@ -1,0 +1,54 @@
+52264b6fd096d2533b0a48b7a55f439e19e6bb57		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+52264b6fd096d2533b0a48b7a55f439e19e6bb57		branch 'eclair-release' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+8a965e1613eb3f0b7471899539254091209a13e1		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+ee28a830f1f896791413b57c77041bf19a60eae0		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+863cb2e0b8f3e07e1143a9910045c1735ddfb5ab		branch 'froyo' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+863cb2e0b8f3e07e1143a9910045c1735ddfb5ab		branch 'froyo-release' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+6288e9d26943ced780fe8339ad9ec2bdbd5fa53d		branch 'gingerbread' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+6759a52f863f60a67941938bd8d4610b01f9d2aa		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+6759a52f863f60a67941938bd8d4610b01f9d2aa		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+1ba49956531c0d6788d9f867d5e1eaac1f82a1b5		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+215739d0d4cfc580ddaaedd2a60caaa363edf312		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+215739d0d4cfc580ddaaedd2a60caaa363edf312		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+576359ce60d2e0ef8205737570c647c29e3fe922		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+576359ce60d2e0ef8205737570c647c29e3fe922		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+576359ce60d2e0ef8205737570c647c29e3fe922		branch 'master' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+8a965e1613eb3f0b7471899539254091209a13e1	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+52264b6fd096d2533b0a48b7a55f439e19e6bb57	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+52264b6fd096d2533b0a48b7a55f439e19e6bb57	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+52264b6fd096d2533b0a48b7a55f439e19e6bb57	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+52264b6fd096d2533b0a48b7a55f439e19e6bb57	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+ee28a830f1f896791413b57c77041bf19a60eae0	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+863cb2e0b8f3e07e1143a9910045c1735ddfb5ab	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+863cb2e0b8f3e07e1143a9910045c1735ddfb5ab	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+863cb2e0b8f3e07e1143a9910045c1735ddfb5ab	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+863cb2e0b8f3e07e1143a9910045c1735ddfb5ab	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+863cb2e0b8f3e07e1143a9910045c1735ddfb5ab	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+863cb2e0b8f3e07e1143a9910045c1735ddfb5ab	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+863cb2e0b8f3e07e1143a9910045c1735ddfb5ab	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+863cb2e0b8f3e07e1143a9910045c1735ddfb5ab	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+863cb2e0b8f3e07e1143a9910045c1735ddfb5ab	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+702a029b0e17b8e8ddd68aff25e0b4fcafd16e8f	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+702a029b0e17b8e8ddd68aff25e0b4fcafd16e8f	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+5990d2459017ab3a404e774115ebcc2c414e3136	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+2626e171d485aae8ef8298560bca15d96f93027e	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+6759a52f863f60a67941938bd8d4610b01f9d2aa	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+6759a52f863f60a67941938bd8d4610b01f9d2aa	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+6759a52f863f60a67941938bd8d4610b01f9d2aa	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+6759a52f863f60a67941938bd8d4610b01f9d2aa	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+6759a52f863f60a67941938bd8d4610b01f9d2aa	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+6759a52f863f60a67941938bd8d4610b01f9d2aa	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+702a029b0e17b8e8ddd68aff25e0b4fcafd16e8f	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+1ba49956531c0d6788d9f867d5e1eaac1f82a1b5	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+1ba49956531c0d6788d9f867d5e1eaac1f82a1b5	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+1ba49956531c0d6788d9f867d5e1eaac1f82a1b5	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+215739d0d4cfc580ddaaedd2a60caaa363edf312	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+576359ce60d2e0ef8205737570c647c29e3fe922	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+863cb2e0b8f3e07e1143a9910045c1735ddfb5ab	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+6288e9d26943ced780fe8339ad9ec2bdbd5fa53d	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+6288e9d26943ced780fe8339ad9ec2bdbd5fa53d	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+215739d0d4cfc580ddaaedd2a60caaa363edf312	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+576359ce60d2e0ef8205737570c647c29e3fe922	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+576359ce60d2e0ef8205737570c647c29e3fe922	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+576359ce60d2e0ef8205737570c647c29e3fe922	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization
+215739d0d4cfc580ddaaedd2a60caaa363edf312	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization

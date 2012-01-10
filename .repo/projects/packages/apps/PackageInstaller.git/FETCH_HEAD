@@ -1,0 +1,64 @@
+c6d3a2c49ded17bc5c825354f39efeb57fc0bf04		branch 'donut-release' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+e99c95820e927c0116fd1ac8426d8cbd3784113f		branch 'donut-release2' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+a2943ea1261e4af823d809b8ac3849e1eaf341e3		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+a2943ea1261e4af823d809b8ac3849e1eaf341e3		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+49ecc98d54bf0a574043690d7d8d1aee928bb14d		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+a2943ea1261e4af823d809b8ac3849e1eaf341e3		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+5e5e193b674790bf3195c4c9a0c7c6d6b4a92a09		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+0317a44fcc35b42bab060d4127c586f02265c91c		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+6d2974c3f346511f96eba3370398123422e578fc		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+6d2974c3f346511f96eba3370398123422e578fc		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+6d2974c3f346511f96eba3370398123422e578fc		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+da0ae0ccdbecc77100cb77ad8c2c8a1df8119969		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+a7e31bc96d643f8809735c5704a88231e7ce95e1		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+a7e31bc96d643f8809735c5704a88231e7ce95e1		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+668cc01beac097e7060d3f564f24189578280bab		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+668cc01beac097e7060d3f564f24189578280bab		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+668cc01beac097e7060d3f564f24189578280bab		branch 'master' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+e99c95820e927c0116fd1ac8426d8cbd3784113f	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+e99c95820e927c0116fd1ac8426d8cbd3784113f	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+e99c95820e927c0116fd1ac8426d8cbd3784113f	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+e99c95820e927c0116fd1ac8426d8cbd3784113f	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+e99c95820e927c0116fd1ac8426d8cbd3784113f	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+e99c95820e927c0116fd1ac8426d8cbd3784113f	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+c6d3a2c49ded17bc5c825354f39efeb57fc0bf04	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+49ecc98d54bf0a574043690d7d8d1aee928bb14d	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+2691c415e6d89418646f042f7f1c1df86dbf53e7	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+a2943ea1261e4af823d809b8ac3849e1eaf341e3	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+a2943ea1261e4af823d809b8ac3849e1eaf341e3	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+a2943ea1261e4af823d809b8ac3849e1eaf341e3	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+a2943ea1261e4af823d809b8ac3849e1eaf341e3	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+a2943ea1261e4af823d809b8ac3849e1eaf341e3	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+0317a44fcc35b42bab060d4127c586f02265c91c	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+0317a44fcc35b42bab060d4127c586f02265c91c	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+0317a44fcc35b42bab060d4127c586f02265c91c	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+0317a44fcc35b42bab060d4127c586f02265c91c	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+0317a44fcc35b42bab060d4127c586f02265c91c	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+0317a44fcc35b42bab060d4127c586f02265c91c	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+0317a44fcc35b42bab060d4127c586f02265c91c	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+0317a44fcc35b42bab060d4127c586f02265c91c	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+0317a44fcc35b42bab060d4127c586f02265c91c	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+c5cda08d955d42af5b90f28a4dec25b230324001	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+c5cda08d955d42af5b90f28a4dec25b230324001	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+29b9f0bbdc35366450f14124588e1688cc5c8f7e	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+29b9f0bbdc35366450f14124588e1688cc5c8f7e	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+6d2974c3f346511f96eba3370398123422e578fc	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+6d2974c3f346511f96eba3370398123422e578fc	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+6d2974c3f346511f96eba3370398123422e578fc	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+6d2974c3f346511f96eba3370398123422e578fc	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+6d2974c3f346511f96eba3370398123422e578fc	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+6d2974c3f346511f96eba3370398123422e578fc	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+c5cda08d955d42af5b90f28a4dec25b230324001	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+da0ae0ccdbecc77100cb77ad8c2c8a1df8119969	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+da0ae0ccdbecc77100cb77ad8c2c8a1df8119969	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+da0ae0ccdbecc77100cb77ad8c2c8a1df8119969	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+a7e31bc96d643f8809735c5704a88231e7ce95e1	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+668cc01beac097e7060d3f564f24189578280bab	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+5e5e193b674790bf3195c4c9a0c7c6d6b4a92a09	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+6d2974c3f346511f96eba3370398123422e578fc	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+6d2974c3f346511f96eba3370398123422e578fc	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+a7e31bc96d643f8809735c5704a88231e7ce95e1	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+668cc01beac097e7060d3f564f24189578280bab	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+668cc01beac097e7060d3f564f24189578280bab	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+668cc01beac097e7060d3f564f24189578280bab	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller
+a7e31bc96d643f8809735c5704a88231e7ce95e1	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/PackageInstaller

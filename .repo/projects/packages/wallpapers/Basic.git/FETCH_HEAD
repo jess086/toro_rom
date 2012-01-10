@@ -1,0 +1,55 @@
+01d49d700e55c3c32b8b1bc2c816be6cc76e6409		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+01d49d700e55c3c32b8b1bc2c816be6cc76e6409		branch 'eclair-release' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+b847f5c644cfa4923b13a8a25252ccfe91c378c5		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+9da97606270935787b08ee1766c0bf0817957feb		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+0e5bf9291034aaf2a7ae8ae82de5a8a7024435ff		branch 'froyo' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+0e5bf9291034aaf2a7ae8ae82de5a8a7024435ff		branch 'froyo-release' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+9f6c08d658bda9adb2842b0a9dd650fc2b4f6821		branch 'gingerbread' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+17db0721c8ef2d4f2c6835afaa3c47464730d9b1		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+17db0721c8ef2d4f2c6835afaa3c47464730d9b1		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+5954763d61edb93da19bc812c5c1e2fc27f5a887		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+66fbc0eb3c05ea66a791322de01b61202c647903		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+66fbc0eb3c05ea66a791322de01b61202c647903		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+225e410f054c4ad5c828b0fec9be1b47c4376711		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+225e410f054c4ad5c828b0fec9be1b47c4376711		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+225e410f054c4ad5c828b0fec9be1b47c4376711		branch 'master' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+b847f5c644cfa4923b13a8a25252ccfe91c378c5	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+a454eca5a443705380b1231527e103334b580594	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+31e5ba9c7f1205ce4413619752e1ad9e33c51ce1	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+01d49d700e55c3c32b8b1bc2c816be6cc76e6409	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+01d49d700e55c3c32b8b1bc2c816be6cc76e6409	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+01d49d700e55c3c32b8b1bc2c816be6cc76e6409	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+9da97606270935787b08ee1766c0bf0817957feb	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+0e5bf9291034aaf2a7ae8ae82de5a8a7024435ff	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+0e5bf9291034aaf2a7ae8ae82de5a8a7024435ff	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+0e5bf9291034aaf2a7ae8ae82de5a8a7024435ff	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+0e5bf9291034aaf2a7ae8ae82de5a8a7024435ff	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+0e5bf9291034aaf2a7ae8ae82de5a8a7024435ff	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+0e5bf9291034aaf2a7ae8ae82de5a8a7024435ff	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+0e5bf9291034aaf2a7ae8ae82de5a8a7024435ff	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+0e5bf9291034aaf2a7ae8ae82de5a8a7024435ff	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+0e5bf9291034aaf2a7ae8ae82de5a8a7024435ff	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+650e3a9c6ef44e160388698d37502f59df30fe74	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+650e3a9c6ef44e160388698d37502f59df30fe74	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+583aae3ac869c35d0e45d0e6839a5225c8fc48bc	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+ed44c3d65ad18858d3945597d7dbbc364fc858fa	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+17db0721c8ef2d4f2c6835afaa3c47464730d9b1	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+17db0721c8ef2d4f2c6835afaa3c47464730d9b1	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+17db0721c8ef2d4f2c6835afaa3c47464730d9b1	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+17db0721c8ef2d4f2c6835afaa3c47464730d9b1	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+17db0721c8ef2d4f2c6835afaa3c47464730d9b1	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+17db0721c8ef2d4f2c6835afaa3c47464730d9b1	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+650e3a9c6ef44e160388698d37502f59df30fe74	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+5954763d61edb93da19bc812c5c1e2fc27f5a887	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+5954763d61edb93da19bc812c5c1e2fc27f5a887	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+5954763d61edb93da19bc812c5c1e2fc27f5a887	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+66fbc0eb3c05ea66a791322de01b61202c647903	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+225e410f054c4ad5c828b0fec9be1b47c4376711	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+0e5bf9291034aaf2a7ae8ae82de5a8a7024435ff	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+9f6c08d658bda9adb2842b0a9dd650fc2b4f6821	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+9f6c08d658bda9adb2842b0a9dd650fc2b4f6821	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+66fbc0eb3c05ea66a791322de01b61202c647903	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+225e410f054c4ad5c828b0fec9be1b47c4376711	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+225e410f054c4ad5c828b0fec9be1b47c4376711	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+225e410f054c4ad5c828b0fec9be1b47c4376711	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/wallpapers/Basic
+66fbc0eb3c05ea66a791322de01b61202c647903	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/wallpapers/Basic

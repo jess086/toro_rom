@@ -1,0 +1,55 @@
+74de35df55666859742975b2b9420e2b297e3883		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/Launcher2
+74de35df55666859742975b2b9420e2b297e3883		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/Launcher2
+257dd9f215155776ce2abd158d9fba7bdafdc6f8		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/Launcher2
+ce77517060896e7e7269344895ac7bc0437dcf9e		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/Launcher2
+8a3ef2ed6c2cc89ae96384358fa5fcba58b50ac0		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/Launcher2
+279302ea0d563fb918c02ac75d8a6c743f91dcb6		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/Launcher2
+9d8285fa61f2d61166cb8d34b0be84731d8605b8		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Launcher2
+3fd010a6fe457a59d2e983a348e63dc25e836852		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Launcher2
+3fd010a6fe457a59d2e983a348e63dc25e836852		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Launcher2
+c703b3683fb06b891b5d04262dc077b433cd1f8c		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Launcher2
+b5537f7d987006b4f0fb773fb28ff64ad502f242		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Launcher2
+b5537f7d987006b4f0fb773fb28ff64ad502f242		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Launcher2
+f4e80c840944e81eae96426a995c26712f1b9780		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+9f0acb9bcdd9f924bb2adbcc487316029c1149fd		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Launcher2
+81304325161a14e9f9908def807114b33b13dce6		branch 'master' of https://android.googlesource.com/platform/packages/apps/Launcher2
+257dd9f215155776ce2abd158d9fba7bdafdc6f8	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+34b02499432896b60cdb9f78c9d1019c80ef6ef5	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+738fa7dc5b21f4694cbfb105df19e7b268d521dd	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+74de35df55666859742975b2b9420e2b297e3883	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/Launcher2
+74de35df55666859742975b2b9420e2b297e3883	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/Launcher2
+74de35df55666859742975b2b9420e2b297e3883	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/Launcher2
+ce77517060896e7e7269344895ac7bc0437dcf9e	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/Launcher2
+279302ea0d563fb918c02ac75d8a6c743f91dcb6	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+279302ea0d563fb918c02ac75d8a6c743f91dcb6	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/Launcher2
+279302ea0d563fb918c02ac75d8a6c743f91dcb6	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+279302ea0d563fb918c02ac75d8a6c743f91dcb6	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+279302ea0d563fb918c02ac75d8a6c743f91dcb6	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/Launcher2
+279302ea0d563fb918c02ac75d8a6c743f91dcb6	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+279302ea0d563fb918c02ac75d8a6c743f91dcb6	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+279302ea0d563fb918c02ac75d8a6c743f91dcb6	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/Launcher2
+279302ea0d563fb918c02ac75d8a6c743f91dcb6	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/Launcher2
+df99daa3bce2c8ecbea6f5d091c090834b8e2089	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+df99daa3bce2c8ecbea6f5d091c090834b8e2089	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+f7be630c94a9a5bfd8992d5b538f81a8e894b552	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+143b4706731c52e33bceb3658959b8196b844ce9	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+3fd010a6fe457a59d2e983a348e63dc25e836852	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Launcher2
+3fd010a6fe457a59d2e983a348e63dc25e836852	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+3fd010a6fe457a59d2e983a348e63dc25e836852	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+3fd010a6fe457a59d2e983a348e63dc25e836852	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Launcher2
+3fd010a6fe457a59d2e983a348e63dc25e836852	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+3fd010a6fe457a59d2e983a348e63dc25e836852	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+df99daa3bce2c8ecbea6f5d091c090834b8e2089	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+c703b3683fb06b891b5d04262dc077b433cd1f8c	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+c703b3683fb06b891b5d04262dc077b433cd1f8c	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+c703b3683fb06b891b5d04262dc077b433cd1f8c	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Launcher2
+b5537f7d987006b4f0fb773fb28ff64ad502f242	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+9f0acb9bcdd9f924bb2adbcc487316029c1149fd	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+8a3ef2ed6c2cc89ae96384358fa5fcba58b50ac0	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/Launcher2
+9d8285fa61f2d61166cb8d34b0be84731d8605b8	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Launcher2
+9d8285fa61f2d61166cb8d34b0be84731d8605b8	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Launcher2
+b5537f7d987006b4f0fb773fb28ff64ad502f242	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+f4e80c840944e81eae96426a995c26712f1b9780	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+f4e80c840944e81eae96426a995c26712f1b9780	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+f4e80c840944e81eae96426a995c26712f1b9780	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Launcher2
+b5537f7d987006b4f0fb773fb28ff64ad502f242	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Launcher2

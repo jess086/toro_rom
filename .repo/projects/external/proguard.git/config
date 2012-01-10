@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/external/proguard
+	projectname = platform/external/proguard
+	fetch = +refs/heads/*:refs/remotes/aosp/*

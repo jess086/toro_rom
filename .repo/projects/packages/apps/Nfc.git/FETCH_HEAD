@@ -1,0 +1,32 @@
+d77e05f7e23ac7b60dbad6b5454468179a26d6b0		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Nfc
+603c7578d1a32ab8da3c18e8d2361d0813d106fd		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Nfc
+84f8e8d529c2b2d0454626efa7a6c108261d570b		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Nfc
+fe8487894a4655d6a58e6f6021fd74722fe5b057		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Nfc
+5c12d70c5690e851d6f3f3005569be3237720e41		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Nfc
+88194cf3293cd810f7f4dbf60889643f7c949237		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Nfc
+985dcef867fcdb1afaca0fc478ec46dacf22b654		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Nfc
+3957268ebf851b7b6fb0fc3c1c101f0a20185030		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Nfc
+7948ab633f8b780874c8c25da0fbce2c0a61c1e8		branch 'master' of https://android.googlesource.com/platform/packages/apps/Nfc
+ef92efa7fd86d75cc35465b84e8740f941ff0f0a	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+ef92efa7fd86d75cc35465b84e8740f941ff0f0a	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+1e47f1b761ffa9632d0350240617bbc7bfee735d	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+1e47f1b761ffa9632d0350240617bbc7bfee735d	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Nfc
+8f339bda6419b37d72e8761e1ce3dce729e20e42	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Nfc
+8f339bda6419b37d72e8761e1ce3dce729e20e42	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+e4d9ddebb676325c6abfe3b0d4c0aefa8a17d952	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+9040f348d0c6b93be59e3155bec20c7875fd577e	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Nfc
+84f8e8d529c2b2d0454626efa7a6c108261d570b	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+603c7578d1a32ab8da3c18e8d2361d0813d106fd	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+ef92efa7fd86d75cc35465b84e8740f941ff0f0a	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+fe8487894a4655d6a58e6f6021fd74722fe5b057	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+fe8487894a4655d6a58e6f6021fd74722fe5b057	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Nfc
+fe8487894a4655d6a58e6f6021fd74722fe5b057	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Nfc
+88194cf3293cd810f7f4dbf60889643f7c949237	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+3957268ebf851b7b6fb0fc3c1c101f0a20185030	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+d77e05f7e23ac7b60dbad6b5454468179a26d6b0	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Nfc
+d77e05f7e23ac7b60dbad6b5454468179a26d6b0	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Nfc
+5c12d70c5690e851d6f3f3005569be3237720e41	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+985dcef867fcdb1afaca0fc478ec46dacf22b654	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+985dcef867fcdb1afaca0fc478ec46dacf22b654	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+985dcef867fcdb1afaca0fc478ec46dacf22b654	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Nfc
+5c12d70c5690e851d6f3f3005569be3237720e41	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Nfc

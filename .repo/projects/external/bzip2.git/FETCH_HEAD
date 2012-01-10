@@ -1,0 +1,64 @@
+bd8bc6011ac10774f98d61c0f539f0f4e6f14c99		branch 'donut-release' of https://android.googlesource.com/platform/external/bzip2
+bd8bc6011ac10774f98d61c0f539f0f4e6f14c99		branch 'donut-release2' of https://android.googlesource.com/platform/external/bzip2
+ea3872f89126c52173cbe4260296a8c13231824d		branch 'eclair-passion-release' of https://android.googlesource.com/platform/external/bzip2
+ea3872f89126c52173cbe4260296a8c13231824d		branch 'eclair-release' of https://android.googlesource.com/platform/external/bzip2
+ea3872f89126c52173cbe4260296a8c13231824d		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/external/bzip2
+ea3872f89126c52173cbe4260296a8c13231824d		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/external/bzip2
+701ad7cca713ec5054e420bde1b32b86d18ef08b		branch 'froyo' of https://android.googlesource.com/platform/external/bzip2
+acecdb4ea44e810a5ddb53e0c3fa4baf04b4a5c9		branch 'froyo-release' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc		branch 'gingerbread' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc		branch 'gingerbread-release' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba		branch 'ics-mr0' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba		branch 'ics-mr0-release' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba		branch 'ics-mr1' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba		branch 'ics-mr1-release' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba		branch 'master' of https://android.googlesource.com/platform/external/bzip2
+bd8bc6011ac10774f98d61c0f539f0f4e6f14c99	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/external/bzip2
+bd8bc6011ac10774f98d61c0f539f0f4e6f14c99	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/external/bzip2
+bd8bc6011ac10774f98d61c0f539f0f4e6f14c99	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/external/bzip2
+bd8bc6011ac10774f98d61c0f539f0f4e6f14c99	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/external/bzip2
+bd8bc6011ac10774f98d61c0f539f0f4e6f14c99	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/external/bzip2
+bd8bc6011ac10774f98d61c0f539f0f4e6f14c99	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/external/bzip2
+bd8bc6011ac10774f98d61c0f539f0f4e6f14c99	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/external/bzip2
+ea3872f89126c52173cbe4260296a8c13231824d	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/external/bzip2
+ea3872f89126c52173cbe4260296a8c13231824d	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/external/bzip2
+ea3872f89126c52173cbe4260296a8c13231824d	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/external/bzip2
+ea3872f89126c52173cbe4260296a8c13231824d	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/external/bzip2
+ea3872f89126c52173cbe4260296a8c13231824d	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/external/bzip2
+ea3872f89126c52173cbe4260296a8c13231824d	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/external/bzip2
+ea3872f89126c52173cbe4260296a8c13231824d	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/external/bzip2
+acecdb4ea44e810a5ddb53e0c3fa4baf04b4a5c9	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/external/bzip2
+acecdb4ea44e810a5ddb53e0c3fa4baf04b4a5c9	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/external/bzip2
+acecdb4ea44e810a5ddb53e0c3fa4baf04b4a5c9	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/external/bzip2
+acecdb4ea44e810a5ddb53e0c3fa4baf04b4a5c9	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/external/bzip2
+acecdb4ea44e810a5ddb53e0c3fa4baf04b4a5c9	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/external/bzip2
+acecdb4ea44e810a5ddb53e0c3fa4baf04b4a5c9	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/external/bzip2
+acecdb4ea44e810a5ddb53e0c3fa4baf04b4a5c9	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/external/bzip2
+acecdb4ea44e810a5ddb53e0c3fa4baf04b4a5c9	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/external/bzip2
+acecdb4ea44e810a5ddb53e0c3fa4baf04b4a5c9	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/external/bzip2
+701ad7cca713ec5054e420bde1b32b86d18ef08b	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/external/bzip2
+879585bbef51b4cabaac6340a95d807dca379cdc	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/external/bzip2
+048dacdca43eed1534689ececcf2781c63e1e4ba	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/external/bzip2

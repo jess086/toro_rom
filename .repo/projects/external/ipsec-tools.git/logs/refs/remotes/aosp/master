@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 3724e61c7fb7a792d36c4dbec826e06b1aabd039 jess <jess@jess-086.(none)> 1326162391 -0800	fetch /home/jess/toro_rom/.repo/projects/external/ipsec-tools.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+3724e61c7fb7a792d36c4dbec826e06b1aabd039 cadace43df20e28cc98c2068b327ec3ebe119418 jess <jess@jess-086.(none)> 1326162393 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

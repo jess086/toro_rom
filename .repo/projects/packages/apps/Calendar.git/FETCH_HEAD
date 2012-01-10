@@ -1,0 +1,64 @@
+d7540b145d8c82c2e28c80bc8831d04522a603f1		branch 'donut-release' of https://android.googlesource.com/platform/packages/apps/Calendar
+c8c1fc5c8dea938c44518deeeb2e5c38968d19e1		branch 'donut-release2' of https://android.googlesource.com/platform/packages/apps/Calendar
+b67e98de50a61dcf9bec814cabeb97ff12057d13		branch 'eclair-passion-release' of https://android.googlesource.com/platform/packages/apps/Calendar
+b67e98de50a61dcf9bec814cabeb97ff12057d13		branch 'eclair-release' of https://android.googlesource.com/platform/packages/apps/Calendar
+196895b9ac299206e5a5d3eb92e955a08cca379d		branch 'eclair-sholes-release' of https://android.googlesource.com/platform/packages/apps/Calendar
+b67e98de50a61dcf9bec814cabeb97ff12057d13		branch 'eclair-sholes-release2' of https://android.googlesource.com/platform/packages/apps/Calendar
+14e77164bddf4d29acaca5bb2ff116a697bf9650		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/Calendar
+14e77164bddf4d29acaca5bb2ff116a697bf9650		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/Calendar
+783921abbc95bf8042bb5294b6a292335b5c157f		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/Calendar
+ee794988e54a2e8172b1482d108924934c0f70cb		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/Calendar
+ee794988e54a2e8172b1482d108924934c0f70cb		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/Calendar
+cf5c070eca7cb8af2484e996f9462d5974d8c593		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/Calendar
+992b3f12db2c1fbea8d4cd9f16821e1f8530454f		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/Calendar
+992b3f12db2c1fbea8d4cd9f16821e1f8530454f		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/Calendar
+4afa21f95d303c638928838438d3dee73465c1a1		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/Calendar
+feb7ced4748893f4a2815afad50659beff445c9e		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/Calendar
+c40a390618cd2bb61d1ace7c85703adf60ada44c		branch 'master' of https://android.googlesource.com/platform/packages/apps/Calendar
+c8c1fc5c8dea938c44518deeeb2e5c38968d19e1	not-for-merge	tag 'android-1.6_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+c8c1fc5c8dea938c44518deeeb2e5c38968d19e1	not-for-merge	tag 'android-1.6_r1.1' of https://android.googlesource.com/platform/packages/apps/Calendar
+c8c1fc5c8dea938c44518deeeb2e5c38968d19e1	not-for-merge	tag 'android-1.6_r1.2' of https://android.googlesource.com/platform/packages/apps/Calendar
+c8c1fc5c8dea938c44518deeeb2e5c38968d19e1	not-for-merge	tag 'android-1.6_r1.3' of https://android.googlesource.com/platform/packages/apps/Calendar
+c8c1fc5c8dea938c44518deeeb2e5c38968d19e1	not-for-merge	tag 'android-1.6_r1.4' of https://android.googlesource.com/platform/packages/apps/Calendar
+c8c1fc5c8dea938c44518deeeb2e5c38968d19e1	not-for-merge	tag 'android-1.6_r1.5' of https://android.googlesource.com/platform/packages/apps/Calendar
+d7540b145d8c82c2e28c80bc8831d04522a603f1	not-for-merge	tag 'android-1.6_r2' of https://android.googlesource.com/platform/packages/apps/Calendar
+196895b9ac299206e5a5d3eb92e955a08cca379d	not-for-merge	tag 'android-2.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+ea63133466ed5deff1151e2878bfb8e7c908c431	not-for-merge	tag 'android-2.0_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+9616fc15195c4670c8b513bc6b8cd1f08469d086	not-for-merge	tag 'android-2.1_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+b67e98de50a61dcf9bec814cabeb97ff12057d13	not-for-merge	tag 'android-2.1_r2' of https://android.googlesource.com/platform/packages/apps/Calendar
+b67e98de50a61dcf9bec814cabeb97ff12057d13	not-for-merge	tag 'android-2.1_r2.1p' of https://android.googlesource.com/platform/packages/apps/Calendar
+b67e98de50a61dcf9bec814cabeb97ff12057d13	not-for-merge	tag 'android-2.1_r2.1p2' of https://android.googlesource.com/platform/packages/apps/Calendar
+b67e98de50a61dcf9bec814cabeb97ff12057d13	not-for-merge	tag 'android-2.1_r2.1s' of https://android.googlesource.com/platform/packages/apps/Calendar
+14e77164bddf4d29acaca5bb2ff116a697bf9650	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+14e77164bddf4d29acaca5bb2ff116a697bf9650	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/Calendar
+14e77164bddf4d29acaca5bb2ff116a697bf9650	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+14e77164bddf4d29acaca5bb2ff116a697bf9650	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+14e77164bddf4d29acaca5bb2ff116a697bf9650	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/Calendar
+14e77164bddf4d29acaca5bb2ff116a697bf9650	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+14e77164bddf4d29acaca5bb2ff116a697bf9650	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/Calendar
+14e77164bddf4d29acaca5bb2ff116a697bf9650	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/Calendar
+14e77164bddf4d29acaca5bb2ff116a697bf9650	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/Calendar
+447d3a0f81e372929219d9a63a091b120254847c	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+447d3a0f81e372929219d9a63a091b120254847c	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+8fb42d671625a61bac013804ac4b3f410fe2111d	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+61c5244723bd5d60c4664de299b59713f1387128	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/Calendar
+1bd1a6e89c3f08f107c34427160f3e2de969e0cb	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/Calendar
+1bd1a6e89c3f08f107c34427160f3e2de969e0cb	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+ee794988e54a2e8172b1482d108924934c0f70cb	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+ee794988e54a2e8172b1482d108924934c0f70cb	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/Calendar
+ee794988e54a2e8172b1482d108924934c0f70cb	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+ee794988e54a2e8172b1482d108924934c0f70cb	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+447d3a0f81e372929219d9a63a091b120254847c	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+cf5c070eca7cb8af2484e996f9462d5974d8c593	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+cf5c070eca7cb8af2484e996f9462d5974d8c593	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/Calendar
+cf5c070eca7cb8af2484e996f9462d5974d8c593	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/Calendar
+992b3f12db2c1fbea8d4cd9f16821e1f8530454f	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+feb7ced4748893f4a2815afad50659beff445c9e	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+14e77164bddf4d29acaca5bb2ff116a697bf9650	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/Calendar
+783921abbc95bf8042bb5294b6a292335b5c157f	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/Calendar
+783921abbc95bf8042bb5294b6a292335b5c157f	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/Calendar
+992b3f12db2c1fbea8d4cd9f16821e1f8530454f	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+4afa21f95d303c638928838438d3dee73465c1a1	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+4afa21f95d303c638928838438d3dee73465c1a1	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+4afa21f95d303c638928838438d3dee73465c1a1	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/Calendar
+992b3f12db2c1fbea8d4cd9f16821e1f8530454f	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/Calendar

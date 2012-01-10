@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/external/google-diff-match-patch
+	projectname = platform/external/google-diff-match-patch
+	fetch = +refs/heads/*:refs/remotes/aosp/*

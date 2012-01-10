@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/external/dnsmasq
+	projectname = platform/external/dnsmasq
+	fetch = +refs/heads/*:refs/remotes/aosp/*

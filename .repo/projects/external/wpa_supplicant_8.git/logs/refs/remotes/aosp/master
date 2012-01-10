@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 648b7492d15bb4efaeebdfdd8bd261563a5f6227 jess <jess@jess-086.(none)> 1326162727 -0800	fetch /home/jess/toro_rom/.repo/projects/external/wpa_supplicant_8.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+648b7492d15bb4efaeebdfdd8bd261563a5f6227 a4d23b8131874ba2380817014f9190b737ce785d jess <jess@jess-086.(none)> 1326162735 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

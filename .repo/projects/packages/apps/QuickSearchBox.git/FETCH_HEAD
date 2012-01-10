@@ -1,0 +1,44 @@
+5e6b45abc45e77a540dfe761810d3a5cd89c5a36		branch 'froyo' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+80eefbe5ccb2355b15f428e7aa605c5d9ce54fc2		branch 'froyo-release' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+858c98193a771cfd4d91852282d1f5490b29bb4a		branch 'gingerbread' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+e8b28b6f1cab74060ea3101b1eee1dfdb32c89e9		branch 'gingerbread-mr4-release' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+e8b28b6f1cab74060ea3101b1eee1dfdb32c89e9		branch 'gingerbread-release' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+7398f92ba7cbb195c627174f9b7e32f7bf36ebe3		branch 'ics-factoryrom-2-release' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+7398f92ba7cbb195c627174f9b7e32f7bf36ebe3		branch 'ics-mr0' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+7398f92ba7cbb195c627174f9b7e32f7bf36ebe3		branch 'ics-mr0-release' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+fa89200826a6566fad9ca6accefb6fa14c2e0ed9		branch 'ics-mr1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+922e51c8293a7bc73f7efbfde44695238f5157a9		branch 'ics-mr1-release' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+1636ba2f40fe38188840c64978bc1d29008ed27e		branch 'master' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+80eefbe5ccb2355b15f428e7aa605c5d9ce54fc2	not-for-merge	tag 'android-2.2.1_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+80eefbe5ccb2355b15f428e7aa605c5d9ce54fc2	not-for-merge	tag 'android-2.2.1_r2' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+80eefbe5ccb2355b15f428e7aa605c5d9ce54fc2	not-for-merge	tag 'android-2.2.2_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+80eefbe5ccb2355b15f428e7aa605c5d9ce54fc2	not-for-merge	tag 'android-2.2.3_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+80eefbe5ccb2355b15f428e7aa605c5d9ce54fc2	not-for-merge	tag 'android-2.2.3_r2' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+dbcb4cca72567c96459fe33ad35b493a641feb75	not-for-merge	tag 'android-2.2_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+dbcb4cca72567c96459fe33ad35b493a641feb75	not-for-merge	tag 'android-2.2_r1.1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+dbcb4cca72567c96459fe33ad35b493a641feb75	not-for-merge	tag 'android-2.2_r1.2' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+dbcb4cca72567c96459fe33ad35b493a641feb75	not-for-merge	tag 'android-2.2_r1.3' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+00c814e4fbae63eac4a706c82fd323c6d359792b	not-for-merge	tag 'android-2.3.1_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+00c814e4fbae63eac4a706c82fd323c6d359792b	not-for-merge	tag 'android-2.3.2_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+71db3d37c1aa4a764fd919e52559ceae9be65c00	not-for-merge	tag 'android-2.3.3_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+80f95f95238809d6bfd511d56bd5a548f3b782de	not-for-merge	tag 'android-2.3.3_r1.1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+e8b28b6f1cab74060ea3101b1eee1dfdb32c89e9	not-for-merge	tag 'android-2.3.4_r0.9' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+e8b28b6f1cab74060ea3101b1eee1dfdb32c89e9	not-for-merge	tag 'android-2.3.4_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+e8b28b6f1cab74060ea3101b1eee1dfdb32c89e9	not-for-merge	tag 'android-2.3.5_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+e8b28b6f1cab74060ea3101b1eee1dfdb32c89e9	not-for-merge	tag 'android-2.3.6_r0.9' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+e8b28b6f1cab74060ea3101b1eee1dfdb32c89e9	not-for-merge	tag 'android-2.3.6_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+e8b28b6f1cab74060ea3101b1eee1dfdb32c89e9	not-for-merge	tag 'android-2.3.7_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+00c814e4fbae63eac4a706c82fd323c6d359792b	not-for-merge	tag 'android-2.3_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+7398f92ba7cbb195c627174f9b7e32f7bf36ebe3	not-for-merge	tag 'android-4.0.1_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+7398f92ba7cbb195c627174f9b7e32f7bf36ebe3	not-for-merge	tag 'android-4.0.1_r1.1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+7398f92ba7cbb195c627174f9b7e32f7bf36ebe3	not-for-merge	tag 'android-4.0.1_r1.2' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+7398f92ba7cbb195c627174f9b7e32f7bf36ebe3	not-for-merge	tag 'android-4.0.2_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+922e51c8293a7bc73f7efbfde44695238f5157a9	not-for-merge	tag 'android-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+5e6b45abc45e77a540dfe761810d3a5cd89c5a36	not-for-merge	tag 'android-cts-2.2_r8' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+858c98193a771cfd4d91852282d1f5490b29bb4a	not-for-merge	tag 'android-cts-2.3_r10' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+858c98193a771cfd4d91852282d1f5490b29bb4a	not-for-merge	tag 'android-cts-2.3_r11' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+7398f92ba7cbb195c627174f9b7e32f7bf36ebe3	not-for-merge	tag 'android-cts-4.0_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+fa89200826a6566fad9ca6accefb6fa14c2e0ed9	not-for-merge	tag 'android-cts-verifier-4.0_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+fa89200826a6566fad9ca6accefb6fa14c2e0ed9	not-for-merge	tag 'android-sdk-4.0.3-tools_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+fa89200826a6566fad9ca6accefb6fa14c2e0ed9	not-for-merge	tag 'android-sdk-4.0.3_r1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox
+7398f92ba7cbb195c627174f9b7e32f7bf36ebe3	not-for-merge	tag 'android-sdk-adt_r16.0.1' of https://android.googlesource.com/platform/packages/apps/QuickSearchBox

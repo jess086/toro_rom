@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 5cd290f3284add3bda6085c16346bb37d6cc291e jess <jess@jess-086.(none)> 1326164949 -0800	fetch /home/jess/toro_rom/.repo/projects/system/bluetooth.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+5cd290f3284add3bda6085c16346bb37d6cc291e 9109c4206e5891746e6a5f77a80c7edf4ce9a8e5 jess <jess@jess-086.(none)> 1326164963 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/frameworks/opt/mailcommon
+	projectname = platform/frameworks/opt/mailcommon
+	fetch = +refs/heads/*:refs/remotes/aosp/*

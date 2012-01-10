@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/external/wpa_supplicant_8
+	projectname = platform/external/wpa_supplicant_8
+	fetch = +refs/heads/*:refs/remotes/aosp/*

@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 cf5c070eca7cb8af2484e996f9462d5974d8c593 jess <jess@jess-086.(none)> 1326162962 -0800	fetch /home/jess/toro_rom/.repo/projects/packages/apps/Calendar.git/clone.bundle +refs/heads/*:refs/remotes/aosp/* refs/tags/*:refs/tags/*: storing head
+cf5c070eca7cb8af2484e996f9462d5974d8c593 c40a390618cd2bb61d1ace7c85703adf60ada44c jess <jess@jess-086.(none)> 1326162972 -0800	fetch aosp --tags +refs/heads/*:refs/remotes/aosp/*: fast-forward

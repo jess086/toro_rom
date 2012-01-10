@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "aosp"]
+	url = https://android.googlesource.com/platform/packages/wallpapers/LivePicker
+	projectname = platform/packages/wallpapers/LivePicker
+	fetch = +refs/heads/*:refs/remotes/aosp/*
